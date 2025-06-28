@@ -1,0 +1,149 @@
+
+<!--=====================================================================
+Created via the Lexical Import process: 06/28/2025 12:00:16
+===================================================================== -->
+<sfmMapping version="6.1">
+
+<!--=====================================================================
+Global Settings
+===================================================================== -->
+<settings>
+<meaning app="fw.sil.org"/>
+</settings>
+
+<!--=====================================================================
+Import Options
+===================================================================== -->
+<options>
+<option id="chkCreateMissingLinks" type="Checkbox" checked="True"/>
+</options>
+
+<!--=====================================================================
+Language Definitions
+===================================================================== -->
+<languages>
+<langDef id="National" xml:lang="ignore"/>
+<langDef id="Regional" xml:lang="ignore"/>
+<langDef id="Vernacular" xml:lang="lkt"/>
+<langDef id="English" xml:lang="en"/>
+</languages>
+
+<!--=====================================================================
+Level Hierarchy
+===================================================================== -->
+<hierarchy>
+<level name="Entry" partOf="records" beginFields="lx" additionalFields="dt mn cf hm lt mr" multiFields="cf mn mr lt"/>
+<level name="Etymology" partOf="Entry Subentry" beginFields="ignore"/>
+<level name="Example" partOf="Sense" beginFields="xv"/>
+<level name="ExampleTranslation" partOf="Example" beginFields="xe"/>
+<level name="ExtendedNote" partOf="Sense" beginFields="ignore"/>
+<level name="ExtendedNoteExample" partOf="ExtendedNote" beginFields="ignore"/>
+<level name="ExtendedNoteExampleTranslation" partOf="ExtendedNoteExample" beginFields="ignore"/>
+<level name="Function" partOf="Entry Subentry Sense" beginFields="lf" additionalFields="lv"/>
+<level name="Picture" partOf="Sense" beginFields="ignore"/>
+<level name="Pronunciation" partOf="Entry Subentry" beginFields="ignore"/>
+<level name="SemanticDomain" partOf="Sense" beginFields="ignore"/>
+<level name="Sense" partOf="Entry Subentry" beginFields="sn ps" additionalFields="de 2p 3p 1p sy ue 2s 3s 1s oe le ov 1d" multiFields="de 2p 3p 1p sy ue 2s 3s 1s oe le ov 1d"/>
+<level name="Subentry" partOf="Entry" beginFields="ignore"/>
+<level name="Variant" partOf="Entry Subentry Sense" beginFields="va" uniqueFields="va"/>
+</hierarchy>
+
+<!--=====================================================================
+Field Descriptions
+===================================================================== -->
+<fieldDescriptions>
+<field sfm="lx" name="Lexeme Form" type="string" lang="Vernacular" >
+<meaning app="fw.sil.org" id="lex"/>
+</field>
+<field sfm="ov" name="Restrictions (Sense)" type="string" lang="Vernacular" >
+<meaning app="fw.sil.org" id="srest"/>
+</field>
+<field sfm="oe" name="Restrictions (Sense)" type="string" lang="English" >
+<meaning app="fw.sil.org" id="srest"/>
+</field>
+<field sfm="mr" name="Import Residue (Entry)" type="string" lang="Vernacular" >
+<meaning app="fw.sil.org" id="eires"/>
+</field>
+<field sfm="ps" name="Category (Part Of Speech)" type="string" lang="English" abbr="True" >
+<meaning app="fw.sil.org" id="pos"/>
+</field>
+<field sfm="sn" name="Sense Number" type="string" lang="English" >
+<meaning app="fw.sil.org" id="sn"/>
+</field>
+<field sfm="de" name="Definition" type="string" lang="English" >
+<meaning app="fw.sil.org" id="def"/>
+</field>
+<field sfm="ue" name="Usages" type="string" lang="English" abbr="False" >
+<meaning app="fw.sil.org" id="utyp"/>
+</field>
+<field sfm="xv" name="Example" type="string" lang="Vernacular" >
+<meaning app="fw.sil.org" id="sent"/>
+</field>
+<field sfm="xe" name="Example Translation" type="string" lang="English" >
+<meaning app="fw.sil.org" id="trans"/>
+</field>
+<field sfm="hm" name="Homograph Number" type="string" lang="English" >
+<meaning app="fw.sil.org" id="hom"/>
+</field>
+<field sfm="lf" name="Lexical Function" type="string" lang="English" >
+<meaning app="fw.sil.org" id="func"/>
+</field>
+<field sfm="lv" name="Lexical Function Lexeme" type="string" lang="Vernacular" >
+<meaning app="fw.sil.org" id="funlex"/>
+</field>
+<field sfm="dt" name="Date Modified" type="date" lang="English" >
+<meaning app="fw.sil.org" id="mod"/>
+</field>
+<field sfm="mn" name="Main Entry/Sense Reference" type="string" lang="Vernacular" >
+<meaning app="fw.sil.org" id="meref"/>
+</field>
+<field sfm="1s" autoSfm="SFM_1s" name="Import Residue (Sense)" type="string" lang="Vernacular" >
+<meaning app="fw.sil.org" id="sires"/>
+</field>
+<field sfm="1p" autoSfm="SFM_1p" name="Import Residue (Sense)" type="string" lang="Vernacular" >
+<meaning app="fw.sil.org" id="sires"/>
+</field>
+<field sfm="le" name="Import Residue (Sense)" type="string" lang="English" >
+<meaning app="fw.sil.org" id="sires"/>
+</field>
+<field sfm="3p" autoSfm="SFM_3p" name="Import Residue (Sense)" type="string" lang="Vernacular" >
+<meaning app="fw.sil.org" id="sires"/>
+</field>
+<field sfm="2s" autoSfm="SFM_2s" name="Import Residue (Sense)" type="string" lang="Vernacular" >
+<meaning app="fw.sil.org" id="sires"/>
+</field>
+<field sfm="sy" name="Lexical Relation" type="string" lang="Vernacular" >
+<meaning app="fw.sil.org" id="lxrel" funcWS="en" func="Synonyms"/>
+</field>
+<field sfm="lt" name="Literal Meaning" type="string" lang="English" >
+<meaning app="fw.sil.org" id="litm"/>
+</field>
+<field sfm="va" name="Variant Form" type="string" lang="Vernacular" >
+<meaning app="fw.sil.org" id="var" funcWS="en" func="Unspecified Variant"/>
+</field>
+<field sfm="cf" name="Cross Reference" type="string" lang="Vernacular" >
+<meaning app="fw.sil.org" id="cref" funcWS="en" func="Compare"/>
+</field>
+<field sfm="2p" autoSfm="SFM_2p" name="Import Residue (Sense)" type="string" lang="Vernacular" >
+<meaning app="fw.sil.org" id="sires"/>
+</field>
+<field sfm="3s" autoSfm="SFM_3s" name="Import Residue (Sense)" type="string" lang="Vernacular" >
+<meaning app="fw.sil.org" id="sires"/>
+</field>
+<field sfm="1d" autoSfm="SFM_1d" name="Import Residue (Sense)" type="string" lang="Vernacular" >
+<meaning app="fw.sil.org" id="sires"/>
+</field>
+</fieldDescriptions>
+
+<!--=====================================================================
+In Field Markers
+===================================================================== -->
+<inFieldMarkers>
+</inFieldMarkers>
+
+<!--=====================================================================
+Custom Field Descriptions
+===================================================================== -->
+<CustomFieldDescriptions>
+</CustomFieldDescriptions>
+</sfmMapping>

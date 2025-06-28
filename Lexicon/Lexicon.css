@@ -1,0 +1,365 @@
+﻿.letHead{
+	-moz-column-count:1;
+	-webkit-column-count:1;
+	column-count:1;
+	clear:both;
+	width:100%;
+	text-align:center;
+	text-indent:-12pt;
+	margin-left:21pt;
+	flex-line-height:12pt;
+	line-height:12pt;
+	padding-bottom:3pt;
+	padding-top:12pt;
+}
+body{
+	font-size:10pt;
+}
+span[lang='en']{
+	font-family:'Charis SIL',serif;
+	font-size:10pt;
+}
+span[lang='lkt']{
+	font-family:'Charis SIL',serif;
+	font-size:10pt;
+}
+.letter[lang='en']{
+	font-size:14pt;
+	font-weight:bold;
+}
+.letter[lang='lkt']{
+	font-size:14pt;
+	font-weight:bold;
+}
+a{
+	text-decoration:inherit;
+	color:inherit;
+}
+*[dir='ltr'], *[dir='rtl']{
+	unicode-bidi:isolate;
+	unicode-bidi:-ms-isolate;
+	unicode-bidi:-moz-isolate;
+}
+.minorentryvariant{
+	clear:both;
+	white-space:pre-wrap;
+}
+.minorentryvariant{
+	text-indent:-12pt;
+	margin-left:21pt;
+	flex-line-height:12pt;
+	line-height:12pt;
+	padding-bottom:2pt;
+	padding-top:0pt;
+	font-size:10pt;
+}
+.minorentryvariant span[lang='en']{
+	font-size:10pt;
+}
+.minorentryvariant span[lang='lkt']{
+	font-size:10pt;
+}
+.minorentryvariant .headword> .headwor+ .headwor:before{
+	content:' ';
+}
+.minorentryvariant .headword> span:last-child:after{
+	content:' ';
+}
+.minorentryvariant .headword> span[lang='lkt']{
+	font-weight:bold;
+}
+.minorentryvariant .headword> span{
+	font-weight:bold;
+}
+.minorentryvariant .headword> span span[lang='en']{
+	font-weight:bold;
+}
+.minorentryvariant .headword> span span[lang='lkt']{
+	font-weight:bold;
+}
+.entry{
+	clear:both;
+	white-space:pre-wrap;
+}
+.entry{
+	text-indent:-12pt;
+	margin-left:21pt;
+	flex-line-height:12pt;
+	line-height:12pt;
+	padding-bottom:2pt;
+	padding-top:1pt;
+	font-size:10pt;
+}
+.entry span[lang='en']{
+	font-size:10pt;
+}
+.entry span[lang='lkt']{
+	font-size:10pt;
+}
+.entry .senses>  span.sensecontent +  span:before{
+	content:'  ';
+}
+.entry .senses:before{
+	content:' ';
+}
+.entry .senses:after{
+	content:'  ';
+}
+.entry .senses > .sensecontent .sensenumber{
+	font-weight:bold;
+}
+.entry .senses > .sensecontent .sensenumber:after{
+	content:') ';
+}
+.entry .senses .morphosyntaxanalysis:after{
+	content:'  ';
+}
+.entry .senses .morphosyntaxanalysis{
+	font-style:italic;
+}
+.entry .senses .morphosyntaxanalysis span[lang='en']{
+	font-style:italic;
+}
+.entry .senses .morphosyntaxanalysis span[lang='lkt']{
+	font-style:italic;
+}
+.entry .senses .morphosyntaxanalysis .morphtypes> .morphtype> .morphtype+ .morphtype:before{
+	content:' ';
+}
+.entry .senses .morphosyntaxanalysis .morphtypes:before{
+	content:' ';
+}
+.entry .senses .lexsensereferences> .lexsensereference + .lexsensereference:before{
+	content:'; ';
+}
+.entry .senses .lexsensereferences:before{
+	content:' ';
+}
+.entry .senses .lexsensereferences:after{
+	content:'.';
+}
+.entry .senses .lexsensereferences .ownertype_abbreviation> .ownertype_abbreviatio+ .ownertype_abbreviatio:before{
+	content:' ';
+}
+.entry .senses .lexsensereferences .ownertype_abbreviation> span:first-child:before{
+	content:' ';
+}
+.entry .senses .lexsensereferences .ownertype_abbreviation> span:last-child:after{
+	content:':';
+}
+.entry .senses .lexsensereferences .ownertype_abbreviation> span[lang='en']{
+	font-style:italic;
+}
+.entry .senses .lexsensereferences .ownertype_abbreviation> span{
+	font-style:italic;
+}
+.entry .senses .lexsensereferences .ownertype_abbreviation> span span[lang='en']{
+	font-style:italic;
+}
+.entry .senses .lexsensereferences .ownertype_abbreviation> span span[lang='lkt']{
+	font-style:italic;
+}
+.entry .senses .lexsensereferences .configtargets> .configtarget + .configtarget:before{
+	content:', ';
+}
+.entry .senses .lexsensereferences .configtargets:before{
+	content:' ';
+}
+.entry .senses .lexsensereferences .configtargets .headword-2> .headwor+ .headwor:before{
+	content:' ';
+}
+.entry .senses .lexsensereferences .configtargets .headword-2> span[lang='lkt']{
+	font-weight:bold;
+}
+.entry .senses .lexsensereferences .configtargets .headword-2> span{
+	font-weight:bold;
+}
+.entry .senses .lexsensereferences .configtargets .headword-2> span span[lang='en']{
+	font-weight:bold;
+}
+.entry .senses .lexsensereferences .configtargets .headword-2> span span[lang='lkt']{
+	font-weight:bold;
+}
+.entry .senses .lexsensereferences .configtargets .primaryentryrefs> .primaryentryref + .primaryentryref:before{
+	content:', ';
+}
+.entry .senses .lexsensereferences .configtargets .primaryentryrefs:before{
+	content:' (';
+}
+.entry .senses .lexsensereferences .configtargets .primaryentryrefs:after{
+	content:')';
+}
+.entry .senses .lexsensereferences .configtargets .primaryentryrefs .referencedentries> .referencedentry + .referencedentry:before{
+	content:', ';
+}
+.entry .senses .lexsensereferences .configtargets .primaryentryrefs .referencedentries:before{
+	content:' ';
+}
+.entry .senses .lexsensereferences .configtargets .primaryentryrefs .referencedentries .headword-3> span[lang='lkt']{
+	font-weight:bold;
+}
+.entry .senses .lexsensereferences .configtargets .primaryentryrefs .referencedentries .headword-3> span{
+	font-weight:bold;
+}
+.entry .senses .lexsensereferences .configtargets .primaryentryrefs .referencedentries .headword-3> span span[lang='en']{
+	font-weight:bold;
+}
+.entry .senses .lexsensereferences .configtargets .primaryentryrefs .referencedentries .headword-3> span span[lang='lkt']{
+	font-weight:bold;
+}
+.entry .mainheadword> .mainheadwor+ .mainheadwor:before{
+	content:' ';
+}
+.entry .mainheadword> span:last-child:after{
+	content:' ';
+}
+.entry .mainheadword> span[lang='lkt']{
+	font-weight:bold;
+}
+.entry .mainheadword> span{
+	font-weight:bold;
+}
+.entry .mainheadword> span span[lang='en']{
+	font-weight:bold;
+}
+.entry .mainheadword> span span[lang='lkt']{
+	font-weight:bold;
+}
+.entry .senses .definitionorgloss> .definitionorglos+ .definitionorglos:before{
+	content:' ';
+}
+.entry .senses .examplescontents> .examplescontent + .examplescontent:before{
+	content:'  ';
+}
+.entry .senses .examplescontents:before{
+	content:'  ';
+}
+.entry .senses .examplescontents .example> .exampl+ .exampl:before{
+	content:' ';
+}
+.entry .senses .examplescontents .example> span[lang='lkt']{
+	font-style:italic;
+}
+.entry .senses .examplescontents .example> span{
+	font-style:italic;
+}
+.entry .senses .examplescontents .example> span span[lang='en']{
+	font-style:italic;
+}
+.entry .senses .examplescontents .example> span span[lang='lkt']{
+	font-style:italic;
+}
+.entry .senses .examplescontents .translationcontents:before{
+	content:' ';
+}
+.entry .senses .examplescontents .translationcontents .translation> .translatio+ .translatio:before{
+	content:' ';
+}
+.entry .senses .examplescontents .translationcontents .translation> span:first-child:before{
+	content:'  ';
+}
+.entry .senses .restrictions> .restriction+ .restriction:before{
+	content:' ';
+}
+.entry .senses .restrictions> span:first-child:before{
+	content:' Restrictions: ';
+}
+.entry .senses .restrictions> span:last-child:after{
+	content:'. ';
+}
+.entry .senses .morphosyntaxanalysis .partofspeech> .partofspeec+ .partofspeec:before{
+	content:' ';
+}
+.minorentryvariant .visiblevariantentryrefs> .visiblevariantentryref + .visiblevariantentryref:before{
+	content:', ';
+}
+.minorentryvariant .visiblevariantentryrefs:after{
+	content:' ';
+}
+.minorentryvariant .visiblevariantentryrefs .referencedentries-2> .referencedentry + .referencedentry:before{
+	content:', ';
+}
+.minorentryvariant .visiblevariantentryrefs .referencedentries-2:before{
+	content:' ';
+}
+.minorentryvariant .visiblevariantentryrefs .referencedentries-2 .headword-4> .headwor+ .headwor:before{
+	content:' ';
+}
+.minorentryvariant .visiblevariantentryrefs .referencedentries-2 .headword-4> span[lang='lkt']{
+	font-weight:bold;
+}
+.minorentryvariant .visiblevariantentryrefs .referencedentries-2 .headword-4> span{
+	font-weight:bold;
+}
+.minorentryvariant .visiblevariantentryrefs .referencedentries-2 .headword-4> span span[lang='en']{
+	font-weight:bold;
+}
+.minorentryvariant .visiblevariantentryrefs .referencedentries-2 .headword-4> span span[lang='lkt']{
+	font-weight:bold;
+}
+.entry .variantformentrybackrefs> .variantformentrybackref + .variantformentrybackref:before{
+	content:';';
+}
+.entry .variantformentrybackrefs:before{
+	content:'(';
+}
+.entry .variantformentrybackrefs:after{
+	content:') ';
+}
+.entry .variantformentrybackrefs .headword-5> .headwor+ .headwor:before{
+	content:', ';
+}
+.entry .variantformentrybackrefs .headword-5> span:first-child:before{
+	content:' ';
+}
+.entry .variantformentrybackrefs .headword-5> span[lang='lkt']{
+	font-weight:bold;
+}
+.entry .variantformentrybackrefs .headword-5> span{
+	font-weight:bold;
+}
+.entry .variantformentrybackrefs .headword-5> span span[lang='en']{
+	font-weight:bold;
+}
+.entry .variantformentrybackrefs .headword-5> span span[lang='lkt']{
+	font-weight:bold;
+}
+.minorentryvariant .variantformentrybackrefs-2> .variantformentrybackref + .variantformentrybackref:before{
+	content:';';
+}
+.minorentryvariant .variantformentrybackrefs-2:before{
+	content:'(';
+}
+.minorentryvariant .variantformentrybackrefs-2:after{
+	content:') ';
+}
+.minorentryvariant .variantformentrybackrefs-2 .headword-6> .headwor+ .headwor:before{
+	content:', ';
+}
+.minorentryvariant .variantformentrybackrefs-2 .headword-6> span:first-child:before{
+	content:' ';
+}
+.minorentryvariant .variantformentrybackrefs-2 .headword-6> span[lang='lkt']{
+	font-weight:bold;
+}
+.minorentryvariant .variantformentrybackrefs-2 .headword-6> span{
+	font-weight:bold;
+}
+.minorentryvariant .variantformentrybackrefs-2 .headword-6> span span[lang='en']{
+	font-weight:bold;
+}
+.minorentryvariant .variantformentrybackrefs-2 .headword-6> span span[lang='lkt']{
+	font-weight:bold;
+}
+.entry .senses .usages> .usage + .usage:before{
+	content:', ';
+}
+.entry .senses .usages:before{
+	content:' {';
+}
+.entry .senses .usages:after{
+	content:'}';
+}
+.entry .senses .usages .abbreviation-2> .abbreviatio+ .abbreviatio:before{
+	content:' ';
+}
