@@ -39,7 +39,7 @@ Analysis steps were as follows:
 14. Merge SFM/MDF data and trim header + start/end padding.
 15. Dump to _ASCII_ string.
 16. Confirm output with native speaker.
-17. Confirm data meets technical data documentation / SIL International specs
+17. Confirm data meets [technical documentation](_refs) / SIL International specs.
 18. Import into _FLEx_.
 19. Export FLEx project backup and xhtml.
 
