@@ -1,0 +1,8474 @@
+\_sh v3.0  400  MDF 4.0
+
+\lx ikȟápȟeya
+\ov
+\oe LY
+\mr i- kȟapȟéya
+\ps adv-pp
+\de exceeding by; surpassing, beyond, more than
+\va ikȟápheya
+\xv Šúŋkawakȟáŋ wičháluha kiŋ míš ikȟápȟeya wičhábluha.
+\xe I have more horses than you do.
+\xv Čhiyéwaye kiŋ hé mikȟápȟeya háŋske.
+\xe My older brother is taller than me.
+\xv Wikȟóškalaka kiŋ hé ikȟápȟeya wašté.
+\xe That young woman was even more beautiful than the other.
+\xv Waníyetu níkȟapȟeya óta.
+\xe He is much older than you are.
+\xv Wičhíkȟapȟeya lúzahe.
+\xe He is faster than them.
+\1s míkȟapȟeya
+\1p uŋkíkȟapȟeyapi
+\lf S.A.
+\lv ikhápheya
+\dt 23/Feb/2021
+
+\lx ikȟátA
+\ov
+\oe LY
+\mr i- kȟátA
+\ps vs (valency: 2)
+\de to be warm by means of smth
+\1s imákȟate
+\1p uŋkíkȟatapi
+\lf S.
+\lv ikhátA
+\dt 23/Feb/2021
+
+\lx ikȟóakataŋhaŋ
+\ov
+\oe LY
+\mr i- kȟoákataŋhaŋ
+\ps adv-pp
+\de across the water from smth
+\va ikȟówakataŋhaŋ
+\lf S.
+\lv ikhóakataŋhaŋ
+\dt 23/Feb/2021
+
+\lx ikȟókab
+\ov
+\oe LY
+\mr i- kȟokáb
+\ps adv-pp
+\de in front of, in the way of; before
+\xv Hé ikȟókab hí.
+\xe He came before that.
+\lf S.
+\lv ikhókab
+\dt 23/Feb/2021
+
+\lx ikȟókičhipȟA
+\ov
+\oe LY
+\mr i- kȟokíčhipȟA
+\ps vt-recip (valency: 2)
+\de to be afraid of each other because of smth
+\1s kičhí ikȟówečhipȟe
+\1p ikȟóuŋkičhipȟapi
+\lf S.
+\lv ikhókičhiphA
+\dt 23/Feb/2021
+
+\lx ikȟókičipȟA
+\ov
+\oe LY
+\mr ikȟópȟA, kíči-
+\ps vdat2 (valency: 3)
+\de to be fearful of smth on behalf of sb, to fear smth for sb
+\xv Yuŋkȟáŋ ikȟówičhakičipȟe hiŋglé.
+\xe Then he suddenly became fearful for them.
+\1s ikȟówečipȟe
+\1p ikȟóuŋkičipȟapi
+\lf S.
+\lv ikhókičiphA
+\dt 23/Feb/2021
+
+\lx ikȟókipȟA
+\ov
+\oe LY
+\mr ikȟópȟA, i-
+\ps vpos (valency: 2)
+\de to be afraid of smth concerning oneself
+\xv Tuktél waglúšna waŋyáŋkiŋ kte kiŋ hé ikȟówakipȟe.
+\xe I fear he would see where I made mistakes.
+\xv Táku tókȟa kte kiŋ ikȟókipȟe šni.
+\xe He is not afraid of what might be.
+\1s ikȟówakipȟe
+\1p ikȟóuŋkipȟapi
+\lf S.A.
+\lv ikhókiphA
+\dt 23/Feb/2021
+
+\lx ikȟópȟA
+\ov 2
+\oe LY
+\mr i- -kȟopȟA
+\ps vt (valency: 2)
+\de to be afraid that smth will happen, be afraid of smth happening, fear smth might happen; be careful, cautious, fearful of, guard against lest smth happens
+\ue its object is a clause (with the exception of |fv{tákuni}), doesn't take animate objects or object affixes (compare with |fv{kȟokípȟA}); usually follows a clause ending with |fv{kte}, |fv{kte} |fv{šni} or |fv{čháŋna}
+\xv Iyókšilmayapi kta ikȟópȟapi.
+\xe They feared they might make me sad.
+\xv Makȟóčhe kiŋ uŋkhípi kta ikȟówapȟe ló.
+\xe I fear they will take our land.
+\xv Taŋyáŋ kte šni ikȟópȟapi.
+\xe They were afraid that he wouldn't get well.
+\xv Iyékiye šni čháŋšna, ikȟópȟe.
+\xe Whenever he was unable to recognize it he was fearful.
+\xv Wičála kte šni séča ikȟópȟe.
+\xe She feared he might disagree.
+\xv Tákuni ikȟópȟapi šni.
+\xe They fear nothing (to happen).
+\1s ikȟówapȟe
+\1p ikȟóuŋpȟapi
+\lf conv
+\lv ikȟópȟeya, ikȟópȟešniyaŋ
+\lf pos
+\lv ikȟókipȟA
+\lf dat2
+\lv ikȟókičipȟA
+\lf vabs
+\lv wíkȟopȟA
+\lf n
+\lv wóikȟopȟe
+\lf S.A.
+\lv ikhóphA
+\dt 23/Feb/2021
+
+\lx kakála
+\ov
+\oe L
+\mr kaká -la
+\ps n
+\de grandfather
+\ue southern, informal
+\lf Y.S.
+\lv -
+
+\lx kakáŋ
+\ov
+\oe LYS
+\mr ka- -kaŋ
+\ps vt (valency: 2)
+\de to hew smth, adze; whack, hack, knock off a piece in order to shape smth (as wood or stone); make marks or notches into smth hard
+\xv Íŋyaŋ k’uŋ hé kakáŋ.
+\xe He hewed the stone.
+\xv Waŋhí waŋ iyé é na waŋhí waŋ úŋ íčhi-čakaŋ.
+\xe He hewed a flint with another flint (to make arrow-heads).
+\1s wakákaŋ
+\1p uŋkákaŋpi
+\lf redup
+\lv kakáŋkaŋ
+\lf pos
+\lv glakáŋ
+\lf dat1
+\lv kíčakaŋ
+\lf dat2
+\lv kíčičakaŋ
+\lf vabs
+\lv wakákaŋ
+\lf loc
+\lv íčhičakaŋ
+\dt 23/Feb/2021
+
+\lx kakáŋkaŋ
+\ov
+\oe LYS
+\ps vt-red (valency: 2)
+\mn kakáŋ
+\dt 23/Feb/2021
+
+\lx kakáŋpi
+\ov
+\oe LYS
+\mr kakáŋ -pi
+\ps n
+\de statue
+
+\lx kakáyA
+\ov
+\oe L
+\mr kaká -yA
+\ps vcaus (valency: 2)
+\de to have sb for grandfather
+\ue informal, southern
+\1s kakáwaye
+\1p kakáuŋyaŋpi
+\lf Y.S.
+\lv -
+\dt 23/Feb/2021
+
+\lx kakčá
+\ov
+\oe LYSA
+\mr ka- -kča
+\ps vt (valency: 2)
+\de to comb smth (as hair); to disentangle
+\xv Apȟéyohaŋ na siŋté kiŋ kȟó taŋyáŋ kakčá-he.
+\xe He was combing the horse's mane and tail nicely.
+\1s wakákča
+\1p uŋkákčapi
+\lf pos
+\lv glakčá
+\lf dat1
+\lv kíčakča
+\lf dat2
+\lv kíčičakča
+\lf recip
+\lv kičhíčakča
+\lf n
+\lv wíčakča
+\lf ant
+\lv súŋ
+\dt 23/Feb/2021
+
+\lx kákheča
+\ov
+\oe LYS
+\mr ká + -kheča
+\ps vs (valency: 1)
+\de to be like that one way over there, be that way
+\1s kamákheča
+\1p kaúŋkhečapi
+\lf redup
+\lv kákhelkheča
+\lf dmod
+\lv kákhel, kákhelya, kákheškhe
+\lf see
+\lv ečhéča
+\dt 23/Feb/2021
+
+\lx kákhekhena
+\ov
+\oe LYS
+\mr < kákhena
+\ps adv-red
+\de in some directions
+\xv Osúŋ kiŋ kákhekhena iyéye.
+\xe Her braids stretched long.
+
+\lx kákhel
+\ov 4
+\oe L
+\mr < kákheča
+\ps dmod
+\sn 1
+\de so, thus, in that way or manner, like that, such as that
+\xv Kákhel eyá yo.
+\xe Say it in that manner.
+\xv Kákhel ečhúŋ wo.
+\xe Do it in that manner.
+\xv Tokhí tȟakóža kákhel na kákhel yuhá ní.
+\xe Would that my grandson had such and such.
+\xv Kákhel ečhámuŋ we.
+\xe That way I do it (that's the trick I work).
+\lf redup
+\lv kákheškhe
+\lf see
+\lv ečhél, léčhel, héčhel
+\sn 2
+\de way over there in an indefinite direction; in some direction somewhere
+\xv Kákhel ománi-he.
+\xe He is walking about way over there.
+\sn 3
+\de directly, right away, instantly, the same instant, immediately
+\ue archaic
+\xv Kákhel iyáhe.
+\xe The instant he reached it.
+\xv Kákhel inúŋwe.
+\xe The instant he began to swim.
+\xv Kákhel t’é.
+\xe He died right after it.
+\lf Y.S.A.
+\lv kákhen
+
+\lx kákhelkheča
+\ov
+\oe L
+\mr < kákheča
+\ps vs-red (valency: 1)
+\de they are like that
+\lf Y.S.
+\lv kákhenkheča
+\dt 23/Feb/2021
+
+\lx kákhel úŋ
+\ov
+\hm 1
+\oe L
+\mr
+\ps adv
+\de the following is the reason/why
+\xv Ho, yuŋkȟáŋ kákhel úŋ heyápi škhé ló.
+\xe And now, the following is the reason why they say that.
+\lf Y.S.
+\lv kákhen úŋ
+\dt 24/Feb/2021
+
+\lx kákhel úŋ
+\ov
+\hm 2
+\oe L
+\mr
+\ps vi (valency: 1)
+\de to be like that
+\1s kákhel waúŋ
+\1p kákhel uŋk’úŋpi
+\lf Y.S.A.
+\lv kákhen úŋ
+\dt 24/Feb/2021
+
+\lx kákhelya
+\ov
+\oe L
+\mr kákhel -ya
+\ps dmod
+\sn 1
+\de thus, so, in such manner
+\xv Kákhelya ečhúŋ.
+\xe In such manner he did it.
+\sn 2
+\de in that manner, as it were (with |fv{s’e})
+\xv Kákhelya s’e égle.
+\xe He set it in that manner, as it were.
+\lf Y.S.
+\lv kákhenya
+
+\lx kákhena
+\ov
+\oe LYS
+\ps adv
+\de in some direction, somewhere, off in any direction (idiomatically)
+\xv Yašlé kákhena yá-haŋ škhé.
+\xe Coyote was just going way out in any direction.
+\xv Pȟatkáša kákhena zuyá yá-haŋ ké.
+\xe Turtle was going off to war in just any direction.
+\xv Kákhena uŋyíŋ kte epȟé k’uŋ.
+\xe We'll go off, I said (a love song).
+\lf redup
+\lv kákhekhena
+\lf see
+\lv léčhena, héčhena
+
+\lx kakhéstȟuŋyaŋ
+\ov
+\oe LY
+\mr ka- khezé -tȟuŋyaŋ
+\ps dmod
+\de with barbs
+
+\lx ka khéš
+\ov
+\oe LYS
+\ps part
+\sn 1
+\de any, whichever, no matter which; -soever
+\mn ke éyaš
+\va kakhéš
+\va čakhéš
+\xv Táku kakhéš wíyopȟeye-wačhíŋpi.
+\xe They were trying to sell just about anything.
+\xv Tuktéktetu ka khéš.
+\xe Anywhere.
+\xv Tukté waŋží ka khéš.
+\xe Any one of them.
+\lf redup
+\lv ka khéškheš
+\sn 2
+\de (used after pronouns) rather than something or someone else, might as well, instead of smth wanted, as a substitute
+\xv Niyé-ka khéš ečhúŋ po.
+\xe You do it (as the better option that me doing it).
+\mn khéš
+\dt 24/Feb/2021
+
+\lx kákheškhe
+\ov
+\oe L
+\mr < kákhel
+\ps dmod-red
+\de in such/those ways, thereabouts
+\va |fl{reduced speech} kákheške
+\lf see
+\lv tókheškhe
+\lf Y.S.
+\lv kákhenkhe
+
+\lx ka khéškheš
+\ov
+\oe LYS
+\mr < kakhéš
+\ps adv-red
+\de any, no matter which or who
+\xv táku ka khéškheš
+\xe anything
+\xv tuwé ka khéškheš
+\xe anybody
+\dt 24/Feb/2021
+
+\lx kákhetkiya
+\ov
+\oe LYS
+\mr kákhetu -kiya
+\ps adv
+\de in just any direction, in some direction
+\xv Kákhetkiya yá-he.
+\xe He was going along in just any direction.
+
+\lx kákhetu
+\ov 2
+\oe LYSA
+\ps vs (valency: 1)
+\de to be thus, it happens thus
+\xv "Kákhetu weló," eyíŋ na ečhél omákiyake.
+\xe "In that way it happened," he said and in that way he told me.
+\1s kamákhetu
+\1p kaúŋkhetupi
+\lf see
+\lv ečhétu
+\dt 23/Feb/2021
+
+\lx kákhetuya
+\ov
+\oe LYS
+\mr kákhetu -ya
+\ps dmod
+\de so, thus; in accordance with that
+
+\lx kakhí
+\hm 1
+\ov 4
+\oe LYSA
+\mr ki- akhí
+\ps vdat1 (valency: 3)
+\de to have arrived back there taking smth/sb to sb
+\ue takes place away from the speaker; describes a finished event, hence used in ref. to events in the past, see |fv{kakú} - used in ref. to ongoing and hypothetical events (future and imperative)
+\xv Hiŋgnáku kiŋ šiná waŋ kakhí.
+\xe She took a blanket back to her husband.
+\xv Tȟaló kiŋ hé wičháwakakhi.
+\xe I arrived back there taking the meat to them.
+\xv Šúŋkawakȟáŋ kiŋ hená itȟáŋčhaŋ kiŋ ektá kakhípi.
+\xe They arrived back there taking the horses to the chief.
+\1s wakákhi
+\1p uŋkákhipi
+\lf dat1
+\lv kíčakhi
+\lf dat2
+\lv kíčičakhi
+\dt 23/Feb/2021
+
+\lx kákhi
+\hm 2
+\ov 3
+\oe LYSA
+\ps adv
+\de over there (away from the speaker and listener)
+\va kákhiya
+\xv Iyéš kákhi óta s’eléčheča yé.
+\xe There seem to be many way over there instead (of here).
+\xv Kákhi mníŋ kte.
+\xe I will go way over there.
+\xv Kákhi ká čháŋčheǧa waŋ hótȟaŋiŋ kiŋ hél niyáte thí yeló.
+\xe Way over there where the drum is beating, is your father's house.
+
+\lx kákhi ká
+\ov
+\oe LYS
+\ps adv
+\de that one over there (away from both the speaker and listener)
+\dt 24/Feb/2021
+
+\lx kakhínuŋkȟaŋ
+\ov
+\oe LY
+\mr ka- khinúŋkȟaŋ
+\ps cov
+\de separating smth, apart, separately, divided
+\xv kakhínuŋkȟaŋ iyéyA
+\xe to force apart, to separate;
+\xv Tȟaté hiyú na čháŋ k’uŋ hená kakhínuŋkȟaŋ iyéye.
+\xe The wind blew and separated the trees.
+\xv Kakhínuŋkȟaŋ iyáyapi.
+\xe They went each his own way.
+\lf ant
+\lv ptáya, ptáyela
+\lf S.A.
+\lv kakhínuŋkhaŋ
+\dt 23/Feb/2021
+
+\lx kakhínuŋkȟaŋkiya
+\ov
+\oe LY
+\mr kakhínuŋkȟaŋ -kiya
+\ps dmod
+\de apart, separately
+\xv Hokšíla na wiŋčhíŋčala kȟó tuktéktel ptáyela škátapi naíŋš kakhínuŋkȟaŋkiya škátapi.
+\xe Boys and girls sometimes played together and sometimes separately.
+\lf ant
+\lv ptáya, ptáyela
+\lf S.
+\lv kakhínuŋkhaŋkiya
+\dt 23/Feb/2021
+
+\lx kakhínuŋkȟaŋ úŋ
+\ov
+\oe LY
+\mr
+\ps vi (valency: 1)
+\de to live apart from each other (as a married couple); to be divorced
+\xv Kakhínuŋkȟaŋ uŋk’úŋ kte ló.
+\xe You and I will live separately.
+\lf S.
+\lv kakhínuŋkhaŋ úŋ
+\dt 24/Feb/2021
+
+\lx kakhíŋčA
+\ov
+\oe LYS
+\mr ka- -khiŋčA
+\ps vt (valency: 2)
+\sn 1
+\de to scrape off the top layer of smth (as hair from a hide)
+\xv Ptehá kiŋ hé anúŋkȟataŋhaŋ kakhíŋčapi.
+\xe The buffalo hide is scraped on both sides.
+\1s wakákhiŋče
+\1p uŋkákhiŋčapi
+\lf redup
+\lv kakhíŋkhiŋčA
+\lf pos
+\lv glakhíŋčA
+\lf dat1
+\lv kíčakhiŋčA
+\lf dat2
+\lv kíčičakhiŋčA
+\lf see
+\lv hakákhiŋčA
+\ps vs (valency: 1)
+\sn 2
+\de to have one's skin scraped or torn (as when accidentally bumping against smth)
+\xv Hiŋȟpáyiŋ na ha-kákhiŋče.
+\xe He fell and tore his skin.
+\xv Išpá makákhiŋče.
+\xe I scraped my elbow.
+\1s makákhiŋče
+\2s ničákhiŋče
+\1p uŋkákhiŋčapi
+\dt 23/Feb/2021
+
+\lx kakhíŋkhiŋčA
+\ov
+\oe LYS
+\mr
+\ps redup
+\mn kakhíŋčA
+
+\lx kakhípaš
+\ov
+\oe LYS
+\mr ka- -khipažA
+\ps adv
+\de folded or doubled over on (as a cloth)
+\lf redup
+\lv kakhípašpaš
+
+\lx kakhípašpaš
+\ov
+\oe LYS
+\ps adv-red (valency: 1)
+\mn kakhípaš
+\dt 23/Feb/2021
+
+\lx kakhípehAŋ
+\ov
+\oe LYS
+\mr ka- khi- pehÁŋ
+\ps v
+\de (about wind) to be turbulent; swirling wind all around
+\lf redup
+\lv kakhípehaŋhaŋ
+\dt 23/Feb/2021
+
+\lx kakhípehaŋhaŋ
+\ov
+\oe LYS
+\mr
+\ps redup
+\mn kakhípehAŋ
+
+\lx kákhi tókhi
+\ov
+\oe LYS
+\ps adv
+\de way over there, ever so far, faraway, far off somewhere
+\dt 24/Feb/2021
+
+\lx kákhiya
+\ov 4
+\oe LYSA
+\mr ká -khiya-
+\ps adv
+\de there, way over there, yonder (indefinite place); in, at, or to that general area over yonder; back then
+\xv Kákhiya oyáte waŋ thípi.
+\xe Somewhere way over there a people lived.
+\xv Kákhiya akíkšu-he.
+\xe He was piling it up somewhere over there.
+\xv Kákhiya mníŋ kte.
+\xe I am going way over there.
+\xv Kákhiya blé waŋ tȟáŋka yaŋké.
+\xe There is a big lake way over there.
+
+\lx kakhíyaglA
+\ov
+\oe L
+\mr ki- akhíyaglA
+\ps vdat1 (valency: 3)
+\de to start back from here and take smth to sb
+\xv Hokšíla kiŋ kakhíyaglapi.
+\xe They left to go back and take the boy to him.
+\xv Híŋhaŋni kiŋháŋ, wičhákakhiyagniŋ kte.
+\xe Tomorrow he will go back and take it to them.
+\1s wakákhiyagle (wakákhiyagniŋ kte)
+\2s yakákhiyagle (yakákhiyagniŋ kte)
+\1p uŋkákhiyaglapi
+\lf Y.
+\lv kakhíyagdA
+\lf S.
+\lv kakhíyahdA
+\dt 23/Feb/2021
+
+\lx kákhiyana
+\ov
+\oe LYS
+\mr kákhiya -na
+\ps adv
+\de staying back over there, back in that direction (where smth already is) - without returning
+
+\lx kákhiyani
+\ov
+\oe L
+\mr kákhiya -ni
+\ps adv
+\de back over there
+\lf Y.S.
+\lv kákhiyana
+
+\lx kákhiyataŋ
+\ov
+\oe LYS
+\ps adv
+\de from that place or on the far/distant side, from an unspecified direction
+\mn kákhiyataŋhaŋ
+\xv Thi-kákhiyataŋ owápi, na léčhiyataŋ é é tákuni šni.
+\xe The tipi is painted on the distant side, and on this side there is nothing.
+\xv Kákhiyataŋ iyáyapi na yuwáŋkal ičú po.
+\xe Step to that side, and lift it.
+\lf see
+\lv ečhíyataŋ
+
+\lx kákhiyataŋhaŋ
+\ov
+\oe LYSA
+\mr kákhiya -taŋhaŋ
+\ps adv
+\de from that place/direction or on that side, from an unspecified direction
+\xv Kákhiyataŋhaŋ ká tuwá ú we.
+\xe From way over there (pointed out) someone is coming.
+\xv Íŋše kákhiyataŋhaŋ íčhimani wahí.
+\xe I am just a visitor from a long way away.
+\lf see
+\lv ečhíyataŋhaŋ
+
+\lx kakhíyela
+\ov
+\oe L
+\mr ka- khiyéla
+\ps adv
+\de a little nearer, somewhat nearer
+\lf see
+\lv íkakhiyela
+\lf Y.Si.
+\lv kakhíyena
+\lf Sa.
+\lv kakhíyeda
+
+\lx kakhíyotȟaŋ
+\ov 1
+\oe LY
+\mr ká -khiyotȟaŋ
+\ps adv
+\de in the direction away from speaker and listener
+\xv Kakhíyotȟaŋ éyaye.
+\xe They went off somewhere.
+\lf S.
+\lv kakhíyothaŋ
+\dt 23/Feb/2021
+
+\lx kakhúkȟA
+\ov
+\oe LY
+\mr ka- khukȟÁ
+\ps vs (valency: 1)
+\de to be worn out by use (as clothes)
+\lf S.
+\lv kakhúkhA
+\dt 23/Feb/2021
+
+\lx kákȟa
+\ov
+\oe LY
+\mr ka- -kȟa
+\ps vs (valency: 1)
+\de to be that kind, such kind
+\xv Kákȟa etáŋ mak’ú wo.
+\xe Give me some of those from way over there.
+\lf see
+\lv héčha, léčha
+\lf S.
+\lv kákha
+\dt 23/Feb/2021
+
+\lx kakȟáb
+\ov
+\oe LY
+\mr < kakȟápA
+\ps vt-cont (valency: 1)
+\de striking smth away
+\xv Pséȟtiŋ-čháŋ húte ektá yuktáŋpi na íŋkpa-ečhíyataŋhaŋ oóyuspeyapi na úŋ kakȟáb íŋyaŋkapi.
+\xe An ash stick curved at the base and held on the top was used to strike it (the ball) on ahead as they ran.
+\xv kakȟáb iyéye
+\xe to knock smth/one down;
+\lf abs
+\lv wakákȟab
+\lf S.
+\lv kakháb
+\lf A.
+\lv kakhám
+\dt 23/Feb/2021
+
+\lx kakȟábkȟab
+\ov
+\oe LY
+\mr
+\ps redup
+\mn kakȟápA
+\dt 23/Feb/2021
+
+\lx kakȟábkȟapA
+\ov
+\oe LY
+\mr
+\ps redup
+\mn kakȟápA
+\dt 23/Feb/2021
+
+\lx kakȟág
+\ov
+\oe LY
+\mr < kakȟákA
+\ps vt-cont (valency: 1)
+\mn kakȟákA
+\lf S.
+\lv kakhág
+\lf A.
+\lv kakhák
+\dt 23/Feb/2021
+
+\lx kaksÁ
+\ov 4
+\oe LYSA
+\mr ka- ksÁ
+\ps vt (valency: 2)
+\de to cut smth off by striking (as with an ax), sever or separate by striking, to chop (as wood); break (as a rule)
+\xv Čhaŋ-wákakse.
+\xe I chopped wood.
+\xv Čháŋ kiŋ kaksé.
+\xe He cut the wood.
+\xv Tȟaló kiŋ kaksáksa.
+\xe He cut the meat.
+\xv Nazúŋspe waŋ úŋ pȟá wičhákaksaksa.
+\xe He cut off their heads with an ax.
+\xv Wóopȟe kaksápi.
+\xe They broke the rule.
+\1s wakákse
+\1p uŋkáksapi
+\lf redup
+\lv kaksáksa
+\lf pos
+\lv glaksÁ
+\lf refl
+\lv igláksA, ič’íglaksA
+\lf dat1
+\lv kíčaksA
+\lf dat2
+\lv kíčičaksA
+\lf recip
+\lv kičhíčaksA
+\lf vt-recip
+\lv akíčhičaksA
+\lf loc
+\lv khičáksA, okhíčaksA, akáksA, okáksA, ičáksA
+\lf vabs
+\lv wakáksA
+\lf also
+\lv kaksíȟpeyA
+\dt 23/Feb/2021
+
+\lx waáwaŋyaŋg
+\ov
+\oe LYS
+\mr < waáwaŋyaŋkA
+\ps vabs-cont (valency: 1)
+\mn waáwaŋyaŋkA
+\dt 23/Feb/2021
+
+\lx waáwaŋyaŋgkhiyA
+\ov
+\oe LYS
+\mr waáwaŋyaŋkA -khiyA
+\ps vcaus (valency: 2)
+\de to let/hire sb look after things/people, to hire sb as a custodian
+\1s waáwaŋyaŋgwakhiye
+\1p waáwaŋyaŋguŋkhiyapi
+\lf
+\lv
+\dt 23/Feb/2021
+
+\lx waáwaŋyaŋgkhiyapi
+\ov
+\oe LYS
+\mr waáwaŋyaŋgkhiyA -pi
+\ps n
+\de a custodian
+
+\lx waáwaŋyaŋkA
+\ov 1
+\oe LYSA
+\mr wa- awáŋyaŋkA
+\ps vabs (valency: 1)
+\sn 1
+\de to watch over things/people, oversee, protect, guard, look after; to be a watchman; to be a caretaker, be a nurse
+\va |fl{reduced speech} wáwaŋyaŋka
+\xv Akíčhita kiŋ hená íglukšaŋyaŋ waáwaŋyaŋg nážiŋpi.
+\xe The soldiers stood on guard around it.
+\xv Šuŋgblóka kiŋ waáwaŋyaŋke.
+\xe The stallion is the guard.
+\xv Waáwaŋlakiŋ kte.
+\xe You will watch over things.
+\xv Taŋyáŋ waáwaŋyaŋg-wičhášipi.
+\xe They told them to oversee things carefully.
+\sn 2
+\de to be a guardian spirit
+\ue the word was used by missionaries to translate the concept of shepherd (actual and spiritual)
+\xv Tȟokȟála kiŋ hé hél waáwaŋyaŋka úŋ.
+\xe The kit fox was the guardian spirit there.
+\xv Kȟaŋǧí Yuhá kiŋ épi čha, hé maká kiŋ waáwaŋyaŋka yuhápi.
+\xe The Crow Owner Society had a skunk for their guardian spirit.
+\xv Okȟólakičhiye kiŋ hél waáwaŋyaŋka kiŋ núŋpapi.
+\xe That society has two guardian spirits.
+\xv Waáwaŋyaŋg nážiŋpi.
+\xe They stood guarding.
+\1s waáwaŋblake
+\1p waáwaŋuŋyaŋkapi
+\lf cont
+\lv waáwaŋyaŋg
+\lf pos
+\lv waáwaŋglakA
+\lf dat2
+\lv waáwaŋkičiyaŋkA
+\dt 23/Feb/2021
+
+\lx waáyA
+\ov
+\oe LYS
+\mr wa- ayÁ
+\ps vabs (valency: 1)
+\sn 1
+\de to take things there (usually ref. to food)
+\sn 2
+\de to challenge people, compete with people, dare people, be a challenger
+\xv Khiíŋyaŋg waáye.
+\xe He competed with people in running.
+\xv Tuwé kiŋ tȟaté yeyá waáyiŋ kta kéye.
+\xe That person says he wishes to compete in a contest of sending wind forth.
+\xv Khiíŋyaŋg waámniŋ kte.
+\xe I will challenge people to a running contest.
+\1s waáble (waámniŋ kte)
+\2s waále (waániŋ kte)
+\1p waúŋkayapi (waáuŋyaŋpi)
+\dt 23/Feb/2021
+
+\lx waáyaptaŋyAŋ
+\ov
+\oe LYS
+\mr wa- ayáptaŋyAŋ
+\ps vabs (valency: 1)
+\de to predict things, to bring things to pass by talking about it, to say things that subsequently happen so
+\xv Ziŋtkála kiŋ hená wakȟáŋ-wičhálapi šni tkȟá hená wanúŋktašniyaŋ waáyaptaŋyaŋpi s’a kéyapi.
+\xe Those birds were not considered sacred but it was believed that they often unconsciously predicted the truth ("brought it" by their song).
+\1s waáblaptaŋye
+\1p waáuŋyaptaŋyaŋpi
+\dt 23/Feb/2021
+
+\lx waáyatA
+\ov
+\oe LYS
+\mr wa- ayátA
+\ps vabs (valency: 1)
+\de to prophesy things, have the ability to prophecy or predict, foretell; be a prophet or oracle
+\1s waáblate
+\1p waáuŋyatapi
+\dt 23/Feb/2021
+
+\lx waáyatȟaŋiŋ
+\ov
+\oe LY
+\ps vabs (valency: 1)
+\sn 1
+\de to witness or testify, to expose things by speaking or by words
+\va wayáatȟaŋiŋ
+\xv Waáblatȟaŋiŋ kta čha wahí yeló.
+\xe I came to testify.
+\xv Tákuni slolyé šni; čhaŋkhé waáyatȟaŋiŋ okíhi šni.
+\xe He didn't know anything so he could not testify.
+\1s waáblatȟaŋiŋ
+\1p waáuŋyatȟaŋiŋpi
+\lf dat2
+\lv waákičiyatȟaŋiŋ
+\ps n
+\sn 2
+\de a witness
+\lf S.
+\lv waáyathaŋiŋ
+\dt 23/Feb/2021
+
+\lx wigláȟpA
+\ov
+\oe L
+\mr wi- glaȟpÁ
+\ps vpos (valency: 1)
+\de to strike or take down one's own tent
+\1s wiwáglaȟpe
+\1p wiúŋglaȟpapi
+\lf Y.
+\lv wigdáȟpA
+\lf S.
+\lv wihdáȟpA
+\dt 23/Feb/2021
+
+\lx wíglakča
+\ov
+\oe L
+\mr wa- i- glakčá
+\ps n
+\de a comb
+\lf A.
+\lv iŋpákče
+\lf Y.S.
+\lv -
+
+\lx wíglaksapA
+\ov
+\oe L
+\mr
+\ps vabs
+\mn igláksapA
+
+\lx wíglasto
+\ov
+\oe L
+\mr wa- i- glastó
+\ps n
+\de hair brush; comb
+\lf Y.
+\lv wígdasto
+\lf S.
+\lv wíhdasto
+\lf A.
+\lv iŋpákče, iŋpákčasmuna
+
+\lx wigláštakA
+\ov
+\oe L
+\mr wi- glaštákA
+\ps vpos (valency: 1)
+\de to beat one's wife, to be a wife beater
+\xv Wigláštakapi kiŋ šíče.
+\xe It is bad to beat one's woman.
+\1s wiwáglaštake
+\1p wiúŋglaštakapi
+\lf Y.
+\lv wigdáštakA
+\lf S.
+\lv wihdáštakA
+\lf A.
+\lv wiŋknáštakA
+\dt 23/Feb/2021
+
+\lx wíglawa
+\ov
+\oe L
+\mr wa- igláwa
+\ps vrefl-abs (valency: 1)
+\de to set a price for one's own things, evaluate, want smth in return for one's own
+\xv Othéȟiya wíglawapi.
+\xe They set high prices for their things.
+\1s wíwaglawa
+\1p wíuŋglawapi
+\lf Y.
+\lv wígdawa
+\lf S.
+\lv wíhdawa
+\dt 23/Feb/2021
+
+\lx wígli
+\ov 4
+\oe L
+\mr wa- iglí
+\ps n
+\sn 1
+\de oil, grease, lard; oil from fat
+\xv Wígli úŋ slayé.
+\xe She greased it with oil.
+\xv Pȟehíŋ kiŋ wiyákpayela wígli úŋ akpáwiŋte.
+\xe She anointed her hair until it shone.
+\xv wígli ikčéka
+\xe tallow;
+\xv Wígliuŋkaǧapi.
+\xe Frybread ('made with oil').
+\sn 2
+\de motor oil, gasoline, kerosene, petroleum
+\xv Wígli nawásote.
+\xe I ran out of gas (I used my gas up with my foot).
+\lf Y.
+\lv wígdi
+\lf S.
+\lv wíhdi
+\lf A.
+\lv wíŋkni
+
+\lx wígliglA
+\ov
+\oe L
+\mr wa- í + glí + glÁ
+\ps vabs (valency: 1)
+\de to go back and forth, to and fro; to be a messenger, arrangement maker
+\xv Wígligla kiŋ átaya oíŋyaŋkapi.
+\xe The messengers were running around.
+\1s wíwagligle
+\1p wíuŋgliglapi
+\lf Y.S.
+\lv -
+\dt 23/Feb/2021
+
+\lx wígli-ipátȟaža
+\ov
+\oe L
+\mr
+\ps n
+\de fuel pump, gasoline pump
+\lf Y.
+\lv wígdi-ipátȟaža
+\lf S.
+\lv wíhdi-ipáthaža
+
+\lx wígli-mas’óȟloǧeča
+\ov
+\oe L
+\mr
+\ps n
+\de oil pipeline
+\lf Y.
+\lv wígdi-mas’óȟdoǧeča
+\lf S.
+\lv wíhdi-mas’óȟdoǧeča
+\lf A.
+\lv wíŋkni-mas’óȟnoǧeča
+
+\lx wígli-očhéthi
+\ov
+\oe n
+\mr
+\ps
+\de oil stove
+\lf variant
+\lv wígločhethi
+
+\lx wígli-ognáke
+\ov
+\oe L
+\mr
+\ps n
+\de oilcan
+\lf Y.
+\lv wígni-ognáke
+\lf S.
+\lv wíhdi-ohnáke
+\lf A.
+\lv wíŋkni-oknáke
+
+\lx wígli-oíču
+\ov
+\oe L
+\mr
+\ps n
+\de gas station
+\lf syn
+\lv wígli-oínažiŋ
+\lf Y.S.
+\lv -
+
+\lx wígli-oínažiŋ
+\ov 1
+\oe L
+\ps n
+\de gas station
+\lf variant
+\lv wíglioínažiŋ
+\lf syn
+\lv wígli-oíču
+\lf Y.
+\lv wígdi-oíču
+\lf S.
+\lv wíhdi-oíču
+
+\lx wígliokaske
+\ov
+\oe L
+\mr wígli + o- kaskÁ
+\ps n
+\de oil cake
+\lf Y.
+\lv wígdiokaske
+\lf S.
+\lv wíhdiokaske
+
+\lx wígli-oókaštaŋ
+\ov
+\oe L
+\mr < okáštaŋ
+\ps n
+\de a gasoline pump (at a gass station)
+\lf
+\lv
+
+\lx wíglisapA
+\ov
+\oe L
+\mr wígli + sápA
+\ps n
+\de motor oil
+\lf Y.
+\lv wígdisapA
+\lf S.
+\lv wíhdisapA
+
+\lx wígliská
+\ov
+\oe L
+\mr wígli + ská
+\ps n
+\de propane
+\lf Y.
+\lv wígdiská
+\lf S.
+\lv wíhdiská
+
+\lx wígli tkápA
+\ov
+\oe L
+\ps n
+\de oil, petroleum
+\lf Y.
+\lv wígdi tkápA
+\lf S.
+\lv wíhdi tkápA
+\dt 24/Feb/2021
+
+\lx wígli úŋ káǧapi
+\ov 3
+\oe L
+\ps n
+\de fry bread
+\va wígliuŋkaǧapi
+\lf Y.
+\lv ?
+\lf S.
+\lv aǧúyapi čheǧúǧuyapi
+\lf A.
+\lv wíŋkni úŋ čhoúŋpapi
+\dt 24/Feb/2021
+
+\lx wígločhethi
+\ov
+\oe L
+\mr wígli + očhéthi
+\ps n
+\de an oil stove
+\lf variant
+\lv wígli-očhethi
+\lf Y.
+\lv wígdočhethi
+\lf S.
+\lv wíhdočhethi
+
+\lx wíglukčaŋ
+\ov
+\oe L
+\mr wa- iíglukčaŋ
+\ps vrefl-abs (valency: 1)
+\de to think of/decide one's own things, make a decision on things for oneself, make up one's mind
+\va wíiglukčaŋ, wíič’iglukčaŋ
+\xv Itȟó wíglukčaŋ yo.
+\xe Decide for yourself.
+\1s wímiglukčaŋ
+\1p wíuŋkiglukčaŋpi
+\lf conv
+\lv wíglukčaŋyaŋ, wíglukčaŋkel
+\lf dat2
+\lv wíkičiglukčaŋ
+\lf Y.
+\lv wígdukčaŋ
+\lf S.
+\lv wíhdukčaŋ
+\lf A.
+\lv wíknukčaŋ
+\dt 23/Feb/2021
+
+\lx wíglutȟA
+\ov
+\oe L
+\mr < wíyutȟA
+\ps vpos-abs (valency: 1)
+\de to make signs to describe one's own things (as one's deeds in war)
+\xv wíglutȟa wačhípi
+\xe a dance dramatizing or reenacting one's own war deeds
+\1s wíwaglutȟe
+\1p wíuŋglutȟapi
+\lf vdat2-pos
+\lv wíkičiglutȟA
+\lf Y.
+\lv wígdutȟA
+\lf S.
+\lv wíhduthA
+\lf A.
+\lv wíknuthA
+\dt 23/Feb/2021
+
+\lx wígmuŋke
+\ov 3
+\oe LY
+\mr wa- igmúŋke
+\ps n
+\sn 1
+\de rainbow
+\lt snare or trap
+\ue it is believed that a rainbow causes the end of a rainstorm by trapping it, so that no more rain can get through
+\xv Wígmuŋke waŋ maȟpíya él ótȟaŋiŋ.
+\xe A rainbow appeared in the sky.
+\xv Wígmuŋke waŋží tȟaŋíŋ čháŋ, tuwéni ektá épazo šni, phuté úŋ ečéla ektá épazopi naíŋš išpá úŋ.
+\xe When a rainbow is visible, nobody points to it with the fingers, it is only done with the lips or the elbows.
+\sn 2
+\de trap, snare
+\lf see
+\lv maswígmuŋke
+\le iron trap
+\lf S.
+\lv wíhmuŋke
+\lf A.
+\lv maǧážu kmúŋka
+
+\lx wígni
+\ov 1
+\oe LY
+\mr wa- igní
+\ps vabs (valency: 1)
+\de to look for things / provisions / information, hunt, provide, forage, work to provide
+\xv Wígni uŋkómanipi.
+\xe We went for a hunting trip.
+\xv Wígni iyáye.
+\xe He went to hunt.
+\xv Wígni na waná eyá tȟáȟča naíŋš tȟatȟáŋka héčhekčhe wágli.
+\xe He hunted and brought home such things as deer or buffalo.
+\xv Šúŋkakȟáŋ záptaŋ wičháyuha éyaš waŋží lúzahe; úŋ wígnipi kiŋ héčha.
+\xe He had five horses, but one of them was swift; it was the kind used for hunting.
+\1s wíwagni
+\1p wíuŋgnipi
+\lf pos
+\lv wíkigni
+\lf dat1
+\lv wíkigni
+\lf dat2
+\lv wíkičigni
+\lf refl
+\lv wíič’igni
+\lf recip
+\lv awíkičhigni
+\lf S.
+\lv wíhni
+\dt 23/Feb/2021
+
+\lx wígnu
+\ov
+\oe LY
+\mr wa- ignú
+\ps vt (valency: 2)
+\de to make sb ashamed or disgrace sb publicly by mentioning his/her failures, to accuse, blame, criticize, humiliate, voice destructive criticism
+\xv Táku hé akhíničapi naíŋš wíkičhignupi načhéče.
+\xe They must have argued over something each wanted to own, or it is possible that they criticized each other's failures.
+\xv Tóna oíč’ihipi šni naíŋš táku óta ečhúŋpi šni kiŋ hená úŋšiya wičhákhuwapi naíŋš wíwičhagnupi s’a.
+\xe Those who were unable to accomplish things or didn't do many deeds were treated miserably and their failures were often mentioned to them.
+\1s wíwagnu
+\1p wíuŋgnupi
+\lf recip
+\lv wíkičhignu
+\lf vabs
+\lv wawígnu
+\lf S.
+\lv wíhnu
+\dt 23/Feb/2021
+
+\lx wiǧíyA
+\ov
+\oe LYS
+\mr wí- ǧiyÁ
+\ps vi (valency: 1)
+\de to paint a tipi brown (or dark yellow)
+\1s wiǧíwaye
+\1p wiǧíuŋyaŋpi
+\dt 23/Feb/2021
+
+\lx wíǧiye
+\ov
+\oe LYS
+\mr wa- i- ǧiyÁ
+\ps n
+\de brown paint/dye/coloring
+
+\lx wiǧópA
+\ov
+\oe LYS
+\ps n
+\mn wiȟópA, wiȟópeča
+
+\lx wíǧuye
+\ov
+\oe LYS
+\mr wa- i- ǧuyÁ
+\ps n
+\de branding-iron
+\xv Pȟéta waŋ očík’ayela ičhéthipi kiŋ akáŋl máza wíǧuye kiŋ kȟalyá égnakapi.
+\xe They put the branding iron on the small fire to heat it up.
+
+\lx wíhaha
+\ov
+\oe LYS
+\ps vs (valency: 1)
+\de to be jovial, cheerful
+\1s wímahaha
+\1p wíuŋhahapi
+\lf dat1
+\lv kiwíhaha
+\lf dmod
+\lv wíhahaya, wíhahašniyaŋ
+\dt 23/Feb/2021
+
+\lx wíhahašniyaŋ
+\ov
+\oe LYS
+\mr wíhaha -šniyaŋ
+\ps dmod
+\de without joy, cheerless, being sad
+\xv Héčhel túŋweni akhé čhaŋšíl, wíhahašniyaŋ úŋpi kte šni.
+\xe Nobody shall again live sad and cheerless.
+
+\lx wíhahaya
+\ov
+\oe LYS
+\mr wíhaha -ya
+\ps dmod
+\de cheerfully, merrily, jovially
+\xv Wóglaglag wíhahaya yaŋké.
+\xe He sat chatting merrily.
+\xv Kičhí wíhahaya-kel ečé úŋ.
+\xe She always lived cheerfully with him.
+\xv Wíhahaya pȟayúwaŋkal ičú.
+\xe He lifted his head merrily.
+\lf emph
+\lv wíhahayakel
+
+\lx wíhahayakel
+\ov
+\oe L
+\mr wíhahaya -kel
+\ps dmod-emph
+\de rather cheerfully, merrily, jovially
+\lf
+\lv
+
+\lx wihákakta
+\ov
+\oe L
+\mr wi- hakákta
+\ps n
+\de the youngest daughter, last-born girl
+\lf Y.S.
+\lv wiháke
+\le the fifth daughter
+
+\lx Wihákakta Čhépapi-Wí
+\ov
+\oe LY
+\ps n
+\de April
+\lf S.
+\lv Watóphapiwí, Maǧáokadawi, Wókadawi
+\dt 24/Feb/2021
+
+\lx wíhaŋblA
+\ov 1
+\oe L
+\mr wa- iháŋblA
+\ps vabs (valency: 1)
+\de to dream things, to have a dream
+\xv Haŋhépi wíhaŋbla kéye.
+\xe He says he had a dream last night.
+\1s wíwahaŋble
+\1p wíuŋhaŋblapi
+\lf loc
+\lv awíhaŋblA
+\lf Y.S.
+\lv wíhaŋbdA
+\lf A.
+\lv wíŋhaŋmnA
+\dt 23/Feb/2021
+
+\lx wíhaŋblapi s’e
+\ov
+\oe L
+\mr wíhaŋbla -pi s’e
+\ps dmod
+\de as in a dream
+\va wíhaŋblap s’e
+\xv Wikȟóškalaka kiŋ wíhaŋblapi s’e wašté.
+\xe The young woman was as beautiful as in a dream.
+\lf Y.S.
+\lv wíhaŋbdapi s’e
+\dt 24/Feb/2021
+
+\lx wíhaŋble s’a
+\ov
+\oe L
+\ps n
+\de dreamer
+\lf Y.S.
+\lv wíhaŋbde s’a
+\dt 24/Feb/2021
+
+\lx wíhaŋkikta
+\ov
+\oe LYS
+\mr wa- iháŋkikta
+\ps vabs (valency: 1)
+\de to stay up during the night because of things/people
+\1s wíhaŋwekta
+\1p wíhaŋuŋkiktapi
+\dt 23/Feb/2021
+
+\lx wíhinapȟA
+\ov
+\oe LY
+\mr wí + hinápȟA
+\ps ph
+\de the sun is rising
+\mn wí hinápȟA
+\lf S.
+\lv wíhinaphA
+\lf A.
+\lv wíhinaŋphA
+
+\lx wí hinápȟA
+\ov
+\oe LY
+\ps ph
+\sn 1
+\de the sun is rising, it is sunrise, it dawns
+\va wíhinapȟA
+\xv Wí hinápȟeya-taŋ wí pamáhiyaya íhehaŋyaŋ wačhípi.
+\xe They danced from sunrise to sunset.
+\xv Wí hinápȟe kiŋ kičhí ú po.
+\xe Come with the rising sun.
+\ps n
+\sn 2
+\de the east
+\ue somewhat poetic
+\xv Wíhinapȟe kiŋ étkiya nážiŋ.
+\xe He stood towards the east.
+\xv wíhinapȟetakiya
+\xe toward the east.
+\mn wiyóhiyaŋpata
+\lf S.A.
+\lv wí hináphA
+\dt 24/Feb/2021
+
+\lx wíhinapȟataŋhaŋ
+\ov
+\oe LY
+\mr wíhinapȟa -taŋhaŋ
+\ps adv
+\de from the east
+\lf S.
+\lv wíhinaŋphataŋhaŋ
+
+\lx wíhinapȟe
+\ov
+\oe LY
+\mr wí + hinápȟA
+\ps n
+\de sunrise
+\va wíhinapȟA
+\lf S.
+\lv wíhinaŋphe
+
+\lx wí hinápȟe šni
+\ov
+\oe LY
+\mr
+\ps ph
+\de predawn, before dawn
+\xv Wí hinápȟe šni itȟókab tuwé waŋ hí.
+\xe Before the dawn someone came.
+\lf S.
+\lv wí hináphe šni
+\dt 24/Feb/2021
+
+\lx wíhinapȟetakiya
+\ov
+\oe LY
+\mr wí + hinápȟA -takiya
+\ps adv
+\de towards the east, eastward
+\lf S.
+\lv wíhinaŋphetakiya
+\dt 23/Feb/2021
+
+\lx wihíŋgnatȟuŋ
+\ov
+\oe LY
+\mr wi- hiŋgnátȟuŋ
+\ps n
+\de married woman, wife (not used as term of address)
+\xv Wihíŋgnatȟuŋ wašté, wačhíŋyephiča na wačhíŋtȟaŋka kiŋ héčha yo.
+\xe Be a good wife, be dependable and patient.
+\xv Wihíŋgnatȟuŋ waŋ ínaȟma éyaye.
+\xe He seduced a married woman.
+\lf S.
+\lv wihíhnathuŋ
+
+\lx wihíŋpaspA
+\ov
+\oe LYS
+\mr wi- hú + i- *paspÁ
+\ps n
+\de tent pegs or stakes holding down the cover, tent-pin, picket-pins
+\ue |fv{paspá} 'to push into' is no longer used
+\va wihíŋpaspe, wihúŋpaspa
+\xv wihíŋpaspe pažúŋ / pažúŋžuŋ
+\xe to pry out a tent peg / pegs;
+\xv wihíŋpaspe yužúŋ / yužúŋžuŋ
+\xe to pull out a tent peg / pegs;
+\xv Wihúta etáŋ wihíŋpaspa eyá blužúŋ na thimáhel ibláble.
+\xe I pulled up some tent pegs from the base of the tipi and crawled in.
+\lf A.
+\lv iŋpáspe, wíhuŋphe, wiíŋbaspe
+
+\lx wihíŋpaspe
+\ov
+\oe LYS
+\mr wi- hú + i- *paspÁ
+\ps n
+\de tent pegs or stakes holding down the cover, tent-pin, picket-pins
+\lf
+\lv
+
+\lx wí hiyáyA
+\ov
+\oe LYS
+\mr
+\ps vi
+\de the sun is travelling across the sky
+\lf
+\lv
+\dt 24/Feb/2021
+
+\lx wíhiyayela
+\ov
+\oe L
+\mr wí + hiyáyA -la
+\ps n
+\sn 1
+\de time (the passing of the sun)
+\sn 2
+\de a clock
+\ue some northern speakers
+\lf see
+\lv mázaškaŋškaŋ
+\lf Y.Si.
+\lv wíhiyayena
+\lf Sa.
+\lv wíhiyayeda
+\lf A.
+\lv haŋwí hiyáyena
+
+\lx wihúŋpaspA
+\ov
+\oe LYS
+\mr wi- hú + i- *paspÁ
+\ps n
+\de a tent peg, stake
+\va wihíŋpaspA
+\xv Wihúŋpaspa čha úŋ áta makȟá ektá okátaŋpi.
+\xe They pinned him to the ground with stakes.
+\lf A.
+\lv iŋpáspe
+
+\lx wihúŋpaspa-oȟlóka
+\ov
+\oe L
+\mr
+\ps n
+\de hole for a tent peg, a hole for staking a tent down, peg-hole
+\lf Y.S.
+\lv wihúŋpaspa-oȟdóka
+
+\lx wihúta
+\ov
+\oe LYSA
+\mr wi- húta
+\ps n
+\de base of a tipi or house, lower border of tent or house
+\xv wihúta kiŋ okátaŋ
+\xe to stake down the tent cover;
+\xv wihúta íyapat’oya yaŋká
+\xe to sit leaning against the tipi cover (on the outside);
+\xv wihúta yužúŋ
+\xe to pull the stakes from the tipi base out.
+
+\lx wihúta-hú
+\ov
+\oe LYS
+\ps n
+\de cattail (Typha latifolia)
+\lf syn
+\lv haŋtkáŋ
+
+\lx wihúta-hú iyéčheča
+\ov
+\oe LYS
+\ps n
+\de plantain (Plantago major)
+\dt 24/Feb/2021
+
+\lx wihúta-hú swúla
+\ov
+\oe L
+\ps n
+\de giant bulrush (Scirpus maritimus)
+\lf Y.Si.
+\lv wihúta-hú sbúna
+\lf Sa.
+\lv wihúta-hú sbúda
+\dt 24/Feb/2021
+
+\lx wihútiyagleya
+\ov
+\oe L
+\mr wihúta + iyágleya
+\ps dmod
+\de on the verge of
+\xv Wičhúŋt’e wihútiyagleya nážiŋ.
+\xe He was standing on the verge of death.
+\lf Y.
+\lv wihútiyagdeya
+\lf S.
+\lv wihútiyahdeya
+
+\lx wíȟmuŋǧe
+\ov
+\oe LYS
+\mr wa- i- ȟmúŋǧA
+\ps n
+\de smth used to bewitch sb, witch-medicine, a spell
+\lf syn
+\lv úŋ kičhíȟmuŋǧapi
+
+\lx wíȟolye
+\ov
+\oe L
+\mr wa- i- ȟolyÁ
+\ps n
+\de gray paint/dye/coloring
+\lf Y.S.
+\lv wíȟonye
+
+\lx wiȟópA
+\ov
+\oe LYS
+\mr wi- ȟópA
+\ps n
+\de stunningly beautiful woman, gorgeous woman, attractive or fastidious woman, a woman who dresses up elegantly
+\mn wiȟópeča
+
+\lx wiȟópečA
+\ov
+\oe LYS
+\mr wiȟópA -kA
+\ps n
+\de a stunningly beautiful woman, attractive or fastidious woman, a woman who dresses up elegantly
+\xv Tȟawíču kiŋ líla wiȟópeče.
+\xe His wife is a very attractive woman.
+
+\lx wíȟpeyA
+\ov 1
+\oe LYS
+\mr wa- iȟpéyA
+\ps vcaus-abs (valency: 1)
+\de to give things away after a death in the family
+\xv Wíȟpeuŋyaŋpi kta héči hená uŋkígluwiŋyeyapi kte héčha.
+\xe We have to prepare the things we will give away.
+\1s wíȟpewaye
+\1p wíȟpeuŋyaŋpi
+\dt 23/Feb/2021
+
+\lx wíȟpeyapi
+\ov
+\oe LYS
+\mr wíȟpeyA -pi
+\ps n
+\sn 1
+\de a give-away, the ceremony of giving things away after death
+\ps vabs (valency: 1)
+\sn 2
+\de 3p of |fv{wíȟpeyA}
+\dt 23/Feb/2021
+
+\lx wíȟ’aŋ
+\ov
+\oe LYS
+\mr wa- iȟ’áŋ
+\ps vabs (valency: 1)
+\sn 1
+\de to get one's fill because there is plenty and nobody to interfere (as in a hunt) or share with, to grab for things, to plunder or loot
+\xv Tȟóka kiŋ wičháktepi na óhakab wíȟ’aŋ nážiŋpi.
+\xe They killed the enemy and took all of their belongings.
+\xv Hatȟáŋni wíyopȟeyapi čha wíȟ’aŋ nawážiŋ.
+\xe There was a rummage sale and I bought plenty.
+\xv Wóyute henála čhiŋphíča kiŋ oyás’iŋ hél iȟpéya napȟápi čhaŋkhé éna wíȟ’aŋ.
+\xe They had left behind all sorts of desirable food there when they ran away, and so she had her fill.
+\xv Thiíkčeya kiŋ iyáza ománipi na wíȟ’aŋpi.
+\xe They went from tipi to tipi helping themselves to what they wished.
+\1s wíwaȟ’aŋ
+\1p wíuŋȟ’aŋpi
+\sn 2
+\de to graze
+\ue archaic
+\mn wayášla
+\dt 23/Feb/2021
+
+\lx wiíčhuwa
+\ov
+\oe LYS
+\mr wíŋyaŋ + i- khuwá
+\ps n
+\de love medicine or potion, love charm
+
+\lx wíič’iglukčaŋ
+\ov
+\oe L
+\mr wíglukčaŋ, -ič’i-
+\ps vrefl-abs (valency: 1)
+\de to think about things for oneself, be self-reliant, make decisions for oneself
+\xv Iyéčhiŋkala wíič’iglukčaŋ héčhapi.
+\xe They are of the kind that think for themselves.
+\1s wímič’iglukčaŋ
+\1p wíuŋkič’iglukčaŋpi
+\lf Y.
+\lv wíič’igdukčaŋ
+\lf S.
+\lv wíič’ihdukčaŋ
+\dt 23/Feb/2021
+
+\lx wíič’igni
+\ov
+\oe LY
+\mr wígni, ič’i-
+\ps vrefl-abs (valency: 1)
+\de to provide / forage / seek things for oneself (as food)
+\xv Wičháakiȟ’aŋ čhaŋkhé tuwá tókhel okíhi ečhél wíič’ignipi.
+\xe There was a general famine, so everybody did their best in providing food for themselves.
+\1s wímič’igni
+\1p wíuŋkič’ignipi
+\lf S.
+\lv wíič’ihni
+\dt 23/Feb/2021
+
+\lx wíič’ikpat’o
+\ov
+\oe LYS
+\ps vrefl
+\mn wíikpat’o
+
+\lx wíič’iyuŋ
+\ov
+\oe LYS
+\mr wa- iíč’iyuŋ
+\ps vrefl-abs (valency: 1)
+\de to rub or apply things on oneself (as cream), apply paint(s) or color(s) on oneself (as in putting war paint on oneself)
+\1s wímič’iyuŋ
+\1p wíuŋkič’iyuŋpi
+\dt 23/Feb/2021
+
+\lx wíič’iyuŋǧA
+\ov
+\oe LYS
+\mr wa- iíč’iyuŋǧA
+\ps vrefl-abs (valency: 1)
+\de to ask oneself questions
+\1s wímič’iyuŋǧe
+\1p wíuŋkič’iyuŋǧapi
+\lf Y.S.
+\lv wíič’iwaŋǧA
+\dt 23/Feb/2021
+
+\lx wíiglukčaŋ
+\ov
+\oe L
+\mr wa- iíglukčaŋ
+\ps vrefl-abs
+\de to decide one's own things, make a decision, make up one's mind
+\mn wíglukčaŋ
+\1s wímiglukčaŋ
+\1p wíuŋkiglukčaŋpi
+\lf Y.
+\lv wíigdukčaŋ
+\lf S.
+\lv wíihdukčaŋ
+\lf A.
+\lv wíiknukčaŋ
+
+\lx wókičižu
+\ov
+\oe LYS
+\mr wóžu, kíči-
+\ps vdat2-abs (valency: 2)
+\de to sow/plant things for sb
+\1s wówečižu
+\1p wóuŋkičižupi
+\dt 23/Feb/2021
+
+\lx wokíč’o
+\ov
+\oe L
+\mr woč’ó, ki-
+\ps vdat1 (valency: 3)
+\de to churn smth pertaining to sb
+\1s wowéč’o
+\1p woúŋkič’opi
+\lf Y.S.
+\lv bokíč’o
+\dt 23/Feb/2021
+
+\lx wókič’u
+\ov
+\oe LYSA
+\mr wo- kič’ú
+\ps vpos (valency: 2)
+\de to feed one's own, give food to one's own
+\xv Thiblóku wókič’u.
+\xe She gave food to her older brother.
+\xv Wakȟáŋheža wówičhauŋkič’upi kte héčha.
+\xe We have to feed our children.
+\xv Šuŋgwókič’u.
+\xe He fed his horses.
+\1s wóweč’u
+\1p wóuŋkič’upi
+\lf see
+\lv wók’u
+\dt 23/Feb/2021
+
+\lx wókiglakA
+\ov
+\oe L
+\mr wóglakA, ki-
+\ps vdat1 (valency: 3)
+\de to talk to sb about one's own things
+\xv Nakúŋ ománi naíŋš táku tókȟuŋ kiŋ iyúha úŋ wókiglakapi.
+\xe If he was going out somewhere, or whatever he was doing, they would notice and engage him in conversation about it.
+\1s wówakiglake
+\1p wóuŋkiglakapi
+\lf loc
+\lv iwókiglakA
+\lf Y.
+\lv wókigdakA
+\lf S.
+\lv wókihdakA
+\lf A.
+\lv wókiknakA
+\xe
+\dt 23/Feb/2021
+
+\lx wókiglaštaŋ
+\ov
+\oe L
+\mr
+\ps dat1
+\mn wóglaštaŋ
+
+\lx wókigna
+\ov
+\oe LY
+\mr wó- kigná
+\ps n
+\de condolences, soothing; comfort
+\lf S.
+\lv wókihna
+\lf A.
+\lv wókikna
+
+\lx wokígnaškiŋyAŋ
+\ov
+\oe L
+\mr
+\ps pos
+\mn wognáškiŋyAŋ
+
+\lx wokíhahala
+\ov
+\oe L
+\mr
+\ps pos
+\mn woháhala
+
+\lx wókihAŋ
+\ov
+\oe LYSA
+\mr wóhAŋ, ki-
+\ps vdat1-abs (valency: 2)
+\de to cook a feast / meal for sb
+\xv Glí čha wówakihiŋ kte.
+\xe He came back so I want to cook for him.
+\1s wówakihe
+\1p wóuŋkihaŋpi
+\dt 23/Feb/2021
+
+\lx wokíhúŋhuŋzA
+\ov
+\oe L
+\mr
+\ps pos
+\mn wohúŋhuŋzA
+
+\lx wokíȟči
+\ov
+\oe L
+\mr
+\ps pos
+\mn woȟčí
+
+\lx wokíȟičA
+\hm 1
+\ov
+\oe L
+\mr
+\ps dat1
+\mn woȟíčA
+
+\lx wokíȟičA
+\hm 2
+\ov
+\oe L
+\mr
+\ps pos
+\mn woȟíčA
+
+\lx wókiȟiŋyAŋ
+\hm
+\ov
+\oe LYS
+\mr wa- okíȟiŋyAŋ
+\ps vabs (valency: 1)
+\de to pout being resentful or dissatisfied with one's own things
+\1s wówakiȟiŋye
+\1p wóuŋkiȟiŋyaŋpi
+\dt 23/Feb/2021
+
+\lx wokíȟlayA
+\ov
+\oe L
+\mr
+\ps dat1
+\mn woȟláyA
+
+\lx wokíȟlayA
+\ov
+\oe L
+\mr
+\ps pos
+\mn woȟláyA
+
+\lx wokíȟlečA
+\ov
+\oe L
+\mr
+\ps dat1
+\mn woȟléčA
+
+\lx wokíȟlečA
+\ov
+\oe L
+\mr
+\ps pos
+\mn woȟléčA
+
+\lx wokíȟlokA
+\ov
+\oe L
+\mr woȟlókA, ki-
+\ps vpos-2
+\de to make a hole in one's own by impact (as by shooting, punching, running into), punch or shoot a hole in one's own
+\1s wowákiȟloke
+\1p woúŋkiȟlokapi
+\lf Y.S.
+\lv bokíȟdokA
+\lf A.
+\lv mokíȟnokA
+
+\lx wokíȟpA
+\ov
+\hm 1
+\oe L
+\mr woȟpÁ, ki-
+\ps vpos (valency: 2)
+\de to bring one's own down by shooting (as a flying bird), shoot off, knock off by shooting (as a rider)
+\1s wowákiȟpe
+\1p woúŋkiȟpapi
+\lf Y.S.
+\lv bokíȟpA
+\lf A.
+\lv mokíȟpA
+\dt 23/Feb/2021
+
+\lx wokíȟpA
+\ov
+\hm 2
+\oe L
+\mr woȟpÁ, ki-
+\ps vdat1 (valency: 3)
+\de to knock smth down by shooting affecting sb (as a flying bird), shoot off, knock off by shooting (as a rider)
+\1s wowákiȟpe
+\1p woúŋkiȟpapi
+\lf Y.S.
+\lv bokíȟpA
+\lf A.
+\lv mokíȟpA
+\dt 23/Feb/2021
+
+\lx wokíȟuǧA
+\ov
+\oe L
+\mr
+\ps dat1
+\mn woȟúǧA
+
+\lx wokíȟuǧA
+\ov
+\oe L
+\mr
+\ps pos
+\mn woȟúǧA
+
+\lx wókikčaŋpte
+\ov
+\oe LY
+\mr wó- kikčáŋptA
+\ps n
+\de solace; condolences, sympathy, comfort, consolation
+\xv Wókikčaŋpte čhóla waúŋ.
+\xe I lived without solace.
+\xv Wókikčaŋpte ečhíčiyapi wačhíŋ yeló.
+\xe I want to express my condolences to you.
+\lf S.
+\lv wókičaŋpte
+
+\lx wokíkhiŋčA
+\ov
+\oe L
+\mr
+\ps dat1
+\mn wokhíŋčA
+
+\lx wokíkpA
+\ov
+\oe L
+\mr
+\ps pos
+\mn wokpÁ
+
+\lx wokíkpaŋ
+\ov
+\oe L
+\mr wokpáŋ, ki-
+\ps vpos (valency: 1)
+\de
+\mn wokpáŋ
+\1s wowékpaŋ
+\1p woúŋkikpaŋpi
+\lf Y.S.
+\lv bokíkpaŋ
+\dt 23/Feb/2021
+
+\lx wokíksA
+\ov
+\oe L
+\mr woksÁ, ki-
+\ps vpos (valency: 2)
+\de to break one's own off by impact (as by punching, shooting, running against)
+\1s wowákikse
+\1p wóuŋkiksapi
+\lf Y.S.
+\lv boksÁ
+\lf A.
+\lv mokíksA
+\dt 23/Feb/2021
+
+\lx wokíksaksa
+\ov
+\oe L
+\mr woksáksa, ki-
+\ps vdat1 (valency: 2)
+\sn
+\mn woksáksa
+\lf Y.S.
+\lv bokíksaksa
+\lf A.
+\lv mokíksaksa
+\dt 23/Feb/2021
+
+\lx wókiksuye
+\ov 1
+\oe LYSA
+\mr wó- kiksúyA
+\ps n
+\sn 1
+\de remembrance; a souvenir; memento, any object to keep for memory, smth commemorative
+\xv Itȟó, hé wókiksuye bluhá kte.
+\xe I think I'll keep that for a souvenir.
+\xv Wíŋyaŋ waŋ t’á čha úŋ wókiksuye waéčhuŋpi.
+\xe They were having a memorial for a woman who had died.
+\xv T’é k’uŋ hé wókiksuye úŋ wólwičhayapi.
+\xe They made a feast in memory of the deceased one.
+\xv Wókiksuye waŋží mak’ú we.
+\xe Give me something for memory (smth to remember you).
+\sn 2
+\de memories, recollection, reminiscence, smth memorable
+\xv Wókiksuye eyá oyáke.
+\xe He told some of his memories.
+\xv Lakȟóta kiŋ ómakȟa waŋ wókiksuye tȟáŋka lápi.
+\xe There was one year which the Lakotas regarded as memorable.
+\xv Hé wókiksuye héčha kte.
+\xe This will be something to remember.
+\sn 3
+\de monument, memorial
+\xv Wókiksuye waŋ pawóslal églepi.
+\xe They put up a monument.
+\lf dmod
+\lv wókiksuyeya
+
+\lx wókiksuye-aŋpétu
+\ov
+\oe LYS
+\mr
+\ps n
+\de anniversary, day of remembrance, jubilee
+
+\lx wókiksuyeya
+\ov
+\oe LYS
+\mr wókiksuye -ya
+\ps dmod
+\de having as a memory, remembrance, souvenir, memento, commemorative
+\1s
+\1p
+\lf
+\lv
+
+\lx wókikšu
+\ov
+\oe LYS
+\mr wókšu, ki-
+\ps vdat1 (valency: 2)
+\de to load smth with one's own things
+\xv Léna wókikšu-hiŋ na tokhíyotȟaŋ iyáye.
+\xe He was evidently packing and then he went off somewhere.
+\1s wówekšu
+\1p wóuŋkikšupi
+\dt 23/Feb/2021
+
+\lx wokíktaŋ
+\hm 1
+\ov
+\oe L
+\mr woktáŋ, ki-
+\ps vpos (valency: 2)
+\de to bend one's own by impact from a distance (as by shooting or collision)
+\1s wowákiktaŋ
+\1p woúŋkiktaŋ
+\lf Y.S.
+\lv bokíktaŋ
+\dt 23/Feb/2021
+
+\lx wokíktaŋ
+\hm 2
+\ov
+\oe L
+\mr woktáŋ, ki-
+\ps vdat1 (valency: 3)
+\de to bend smth pertaining to sb by impact from a distance (as by shooting or collision)
+\1s wowákiktaŋ
+\1p woúŋkiktaŋpi
+\lf Y.S.
+\lv bokíktaŋ
+\dt 23/Feb/2021
+
+\lx wokík’eǧA
+\hm 1
+\ov
+\oe L
+\mr wok’éǧA, ki-
+\ps vpos (valency: 2)
+\de to graze the surface of one's own when firing (to miss a shot), to scratch smth/sb with an impact (as a car scratching another)
+\1s wowék’eǧe
+\1p woúŋkik’eǧapi
+\lf Y.S.
+\lv bokík’eǧA
+\dt 23/Feb/2021
+
+\lx wokík’eǧA
+\hm 2
+\ov
+\oe L
+\mr wok’éǧA, ki-
+\ps vdat1 (valency: 3)
+\de to to graze the surface of smth pertaining to sb when firing (to miss a shot), to scratch smth/sb with an impact
+\1s wowákik’eǧe
+\1p woúŋkik’eǧapi
+\lf Y.S.
+\lv bokík’eǧA
+\dt 23/Feb/2021
+
+\lx wókila
+\ov
+\oe L
+\mr wó- kilá
+\ps vdat1 (valency: 2)
+\de to ask/beg for food of sb, ask sb for smth to eat
+\1s wówakila
+\1p wóuŋkilapi
+\lf Y.S.
+\lv wókida
+\dt 23/Feb/2021
+
+\lx wókile
+\ov
+\oe L
+\mr wa- okíle
+\ps vpos-abs (valency: 1)
+\de to seek/look for one's own things, to hunt 
+\1s wówakile
+\1p wóuŋkilepi
+\lf Y.S.
+\lv wókide
+\lf A.
+\lv wókine
+\dt 23/Feb/2021
+
+\lx wókilotA
+\ov
+\oe L
+\mr wólotA, ki-
+\ps vdat1-abs (valency: 2)
+\de to borrow or rent things from sb
+\1s wówakilote
+\1p waúŋkokilotapi / wóuŋkilotapi
+\lf Y.S.
+\lv wókidotA
+\dt 23/Feb/2021
+
+\lx wokíni
+\ov
+\oe L
+\mr wo- kiní
+\ps vt (valency: 2)
+\de to bring sb back to life by impact from afar
+\1s wowákini
+\1p woúŋkinipi
+\lf Y.S.
+\lv bokíni
+\lf A.
+\lv mokíni
+\dt 23/Feb/2021
+
+\lx wókini
+\ov
+\oe LYS
+\mr wa- okíni
+\ps vabs (valency: 1)
+\de to receive a share (unsolicited but wanted), acquire gifts (not an exchange)
+\1s wówakini
+\1p wóuŋkinipi
+\dt 23/Feb/2021
+
+\lx wókinihaŋ
+\ov
+\oe LYS
+\mr wó- okínihaŋ
+\ps n
+\de honor, respect, prominence
+\lf dmod
+\lv wókinihaŋyaŋ
+
+\lx wókinihaŋyaŋ
+\ov
+\oe LYS
+\mr wókinihaŋ -ya
+\ps dmod
+\de honorably, respectfully, prominently
+\lf
+\lv
+
+\lx wokíŋšya
+\ov
+\oe LYS
+\mr wo- kíŋžA -ya
+\ps dmod
+\de glancing off (as a bullet)
+\lf see
+\lv kiŋšyéla
+
+\lx wokípȟopA
+\ov
+\oe LY
+\mr wopȟópA, ki-
+\ps vpos (valency: 2)
+\de to make one's own explode by punching or shooting, blow smth up by shooting
+\1s wowépȟope
+\1p woúŋkipȟopapi
+\lf S.
+\lv wokíphopA
+\dt 23/Feb/2021
+
+\lx wokípȟowaya
+\ov
+\oe L
+\mr wopȟówaya, ki-
+\ps vpos (valency: 2)
+\de to dust one's own by blowing on it or by striking it with one's fingers (as a hat or clothes by hitting), to fluff smth up
+\1s wowákipȟowaya
+\1p waúŋkipȟowayapi
+\lf Y.
+\lv bokípȟowaya
+\lf S.
+\lv bokíphowaya
+\dt 23/Feb/2021
+
+\lx wokípotA
+\ov
+\oe L
+\mr wopótA, ki-
+\ps vdat1 (valency: 3)
+\de
+\mn wopótA
+\1s
+\1p
+\lf Y.S.
+\lv bokípotA
+\dt 23/Feb/2021
+
+\lx wokípsakA
+\ov
+\oe L
+\mr
+\ps dat1
+\mn wopsákA
+
+\lx wokípsakA
+\ov
+\oe L
+\mr
+\ps pos
+\mn wopsákA
+
+\lx wokíptuǧA
+\ov
+\oe L
+\mr
+\ps dat1
+\mn woptúǧA
+
+\lx wokíptuǧA
+\ov
+\oe L
+\mr
+\ps pos
+\mn woptúǧA
+
+\lx wokískičA
+\ov
+\oe L
+\mr
+\ps pos
+\mn woskíčA
+
+\lx wokíslutA
+\ov
+\oe L
+\mr
+\ps pos
+\mn woslútA
+
+\lx wokísni
+\hm 1
+\ov
+\oe L
+\mr wosní, ki-
+\ps vdat1 (valency: 3)
+\de to blow out (as a candle) smth pertaining to sb; to cool smth off by blowing, to extinguish by blowing (fire, flame)
+\1s wowákisni
+\1p woúŋkisnipi
+\lf Y.S.
+\lv bokísni
+\dt 23/Feb/2021
+
+\lx wokísni
+\hm 2
+\ov
+\oe L
+\mr wosní, ki-
+\ps vpos (valency: 2)
+\de to blow out one's own (as a candle); to cool smth off by blowing, to extinguish by blowing (fire, flame)
+\1s wowákisni
+\1p woúŋkisnipi
+\lf Y.S.
+\lv bokísni
+\dt 23/Feb/2021
+
+\lx wokísotA
+\ov
+\oe L
+\mr wosótA, ki-
+\ps vpos (valency: 2)
+\de to use one's own up by shooting (as the ammunition or game), kill off by shooting, to shoot to nothing
+\xv Waná sú wokísotapi.
+\xe By now they used up their bullets.
+\1s wowákisote
+\1p woúŋkisotapi
+\lf Y.S.
+\lv bokísotA
+\lf A.
+\lv mokísotA
+\dt 23/Feb/2021
+
+\lx wokíšičA
+\hm 2
+\ov
+\oe L
+\mr wošíčA, ki-
+\ps vdat1 (valency: 3)
+\de to spoil or ruin smth for sb by shooting or punching; to break smth down for sb by driving over a bad road (as a car)
+\1s wowákišiče
+\1p woúŋkišičapi
+\lf Y.S.
+\lv bokíšičA
+\lf A.
+\lv mokíšičA
+\dt 23/Feb/2021
+
+\lx wókišičA
+\hm 1
+\ov
+\oe LYS
+\mr wóšičA, ki-
+\ps vdat1 (valency: 2)
+\de to ruin/spoil things pertaining to sb
+\1s wówešiče
+\1p wóuŋkišičapi
+\dt 23/Feb/2021
+
+\lx wokíšičahowayA
+\ov
+\oe L
+\mr
+\ps dat1
+\mn wošíčahowayA
+
+\lx wokíšičahowayA
+\ov
+\oe L
+\mr
+\ps pos
+\mn wošíčahowayA
+
+\lx wokíšla
+\hm 1
+\ov
+\oe L
+\mr wošlá, ki-
+\ps vpos (valency: 2)
+\de to graze one's own by shooting, to shoot off hair/feather from one's own
+\1s wowákišla
+\1p woúŋkišlapi
+\lf conv
+\lv wokíšlaya
+\lf Y.S.
+\lv bokíšda
+\dt 23/Feb/2021
+
+\lx wokíšla
+\hm 2
+\ov
+\oe L
+\mr wošlá, ki-
+\ps vdat1 (valency: 3)
+\de to shoot off hair/feather from smth pertaining to sb, to graze smth pertaining to sb own by shooting
+\1s wowákišla
+\1p woúŋkišlapi
+\lf conv
+\lv wokíšlaya
+\lf Y.S.
+\lv bokíšda
+\dt 23/Feb/2021
+
+\lx wokíšlaya
+\ov
+\oe L
+\mr wokíšla -ya
+\ps conv
+\mn wokíšla
+
+\lx wokíšlečA
+\ov
+\oe L
+\mr wošléčA, ki-
+\ps vpos (valency: 2)
+\de to split smth of one's own that is heavy by shooting or punching, split/crack open by shooting or by action of lightning
+\1s wowákišleče
+\1p woúŋkišlečapi
+\lf Y.S.
+\lv bokíšdečA
+\lf A.
+\lv mokíšdečA
+\dt 23/Feb/2021
+
+\lx wokíšlokA
+\ov
+\oe L
+\mr wošlókA, ki-
+\ps vpos (valency: 2)
+\de to fire one's own off (a gun); to blow one's own out, clear one's own out by blowing (as through a tube)
+\1s wowákišloke
+\1p woúŋkišlokapi
+\lf Y.S.
+\lv wokíšdokA
+\dt 23/Feb/2021
+
+\lx wokíšna
+\ov
+\oe LYS
+\mr wošná, ki-
+\ps vpos (valency: 2)
+\de to miss one's own when shooting
+\1s wowákišna
+\1p woúŋkišnapi
+\lf Y.S.
+\lv bokíšna
+\lf A.
+\lv mokíšna
+\dt 23/Feb/2021
+
+\lx wokíšpA
+\hm 1
+\ov
+\oe L
+\mr wošpÁ, ki-
+\ps vpos (valency: 2)
+\de to break off a piece from one's own by impact (as by shooting)
+\1s wowákišpe
+\1p woúŋkišpapi
+\lf Y.S.
+\lv bokíšpA
+\dt 23/Feb/2021
+
+\lx wokíšpA
+\hm 2
+\ov
+\oe L
+\mr wošpÁ, ki-
+\ps vdat1 (valency: 3)
+\de to break off a piece from smth by impact (as by shooting) for sb
+\1s wowákišpe
+\1p woúŋkišpapi
+\lf Y.S.
+\lv bokíšpA
+\dt 23/Feb/2021
+
+\lx wokíšpu
+\ov
+\hm 1
+\oe L
+\mr wošpú, ki-
+\ps vpos (valency: 2)
+\de to shoot off or punch off a fragment of one's own
+\1s wowákišpu
+\1p woúŋkišpupi
+\lf redup
+\lv wokíšpušpu
+\lf Y.S.
+\lv bokíšpu
+\lf A.
+\lv mokíšpu
+\dt 23/Feb/2021
+
+\lx wokíšpu
+\ov
+\hm 2
+\oe L
+\mr wošpú, ki-
+\ps vdat1 (valency: 3)
+\de to shoot off or punch off a fragment of smth affecting sb
+\1s wowákišpu
+\1p woúŋkišpupi
+\lf redup
+\lv wokíšpušpu
+\lf Y.S.
+\lv bokíšpu
+\lf A.
+\lv mokíšpu
+\dt 23/Feb/2021
+
+\lx wokíšpušpu
+\ov
+\oe L
+\mr
+\ps redup
+\mn wokíšpu
+
+\lx wokíšpušpu
+\ov
+\oe L
+\mr
+\ps redup
+\mn wokíšpu
+
+\lx wokíš’akA
+\ov
+\oe L
+\mr
+\ps pos
+\mn woš’ákA
+
+\lx wokítakunišni
+\ov
+\oe L
+\mr wotákunišni, ki-
+\ps vpos (valency: 2)
+\de to shoot one's own to pieces, destroy by shooting
+\1s wowétakunišni
+\1p woúŋkitakunipišni
+\lf conv
+\lv wokítakunišniyaŋ
+\lf reduced speech
+\lv wokítagnišniyaŋ
+\lf Y.Si.
+\lv bokítakunašni
+\lf Sa.
+\lv bokítakudašni
+\lf A.
+\lv mokítakunašni
+\dt 23/Feb/2021
+
+\lx wokítakunišniyaŋ
+\ov
+\oe L
+\mr
+\ps conv
+\mn wokítakunišni
+
+\lx wókitaŋ
+\ov
+\oe LYSA
+\mr wó- kitáŋ
+\ps n
+\de a very small amount of smth
+\xv Iyóhila-ȟčiŋ wasná kiŋ haŋké táku wókitaŋ ȟčiŋ yušpá wičhák’u ké.
+\xe Then he gave every one a piece of the pemmican, in very small amounts.
+\xv Wókitaŋ mak’ú.
+\xe He gave me very little.
+
+\lx wokíthutka
+\ov
+\oe L
+\mr
+\ps pos
+\mn wothútka
+
+\lx wokítȟaŋtȟaŋ
+\ov
+\oe L
+\mr
+\ps pos
+\mn wotȟáŋtȟaŋ
+
+\lx wokítȟepA
+\ov
+\oe L
+\mr
+\ps dat1
+\mn wotȟépA
+
+\lx wokítȟepA
+\ov
+\oe L
+\mr
+\ps pos
+\mn wotȟépA
+
+\lx wokítkuǧA
+\ov
+\oe L
+\mr
+\ps dat1
+\mn wotkúǧA
+
+\lx wokítkuǧA
+\ov
+\oe L
+\mr
+\ps pos
+\mn wotkúǧA
+
+\lx wokít’A
+\hm 1
+\ov
+\oe L
+\mr wot’Á, ki-
+\ps vpos (valency: 2)
+\mn wot’Á
+\1s wowákit’e
+\1p woúŋkit’api
+\lf Y.S.
+\lv bokít’A
+\dt 23/Feb/2021
+
+\lx wokít’A
+\hm 2
+\ov
+\oe L
+\mr
+\ps vdat1 (valency: 3)
+\mn wot’Á
+\1s wowákit’e
+\1p woúŋkit’api
+\lf Y.S.
+\lv bokít’A
+\dt 23/Feb/2021
+
+\lx wokít’iŋzA
+\ov
+\oe L
+\mr
+\ps pos
+\mn wot’íŋzA
+
+\lx wokít’oǧA
+\ov
+\oe L
+\mr
+\ps dat1
+\mn wot’óǧA
+
+\lx wokít’oǧA
+\ov
+\oe L
+\mr
+\ps pos
+\mn wot’óǧA
+
+\lx wokíuŋkA
+\ov
+\oe L
+\mr
+\ps dat1
+\mn woúŋkA
+
+\lx wokíuŋkA
+\ov
+\oe L
+\mr
+\ps pos
+\mn woúŋkA
+
+\lx wókiuŋni
+\ov
+\oe LYS
+\mr wó- kiúŋni
+\ps n
+\de an injury
+
+\lx wókiwa
+\ov
+\oe LYS
+\mr wa- okíwa
+\ps vdat1 (valency: 2)
+\de to write to sb
+\1s wówakiwa
+\1p wóuŋkiwapi
+\dt 23/Feb/2021
+
+\lx wokíweǧA
+\hm 1
+\ov
+\oe L
+\mr wowéǧA, ki-
+\ps vdat1 (valency: 3)
+\de to break or snap smth by impact for sb (as by poking or shooting)
+\1s wowákiweǧe
+\1p woúŋkiweǧapi
+\lf Y.S.
+\lv bokíweǧA
+\dt 23/Feb/2021
+
+\lx wokíweǧA
+\hm 2
+\ov
+\oe L
+\mr wowéǧA, ki-
+\ps vpos
+\de to break or snap one's own by impact (as by poking or shooting)
+\1s wowákiweǧe
+\1p woúŋkiweǧapi
+\lf Y.S.
+\lv bokíweǧA
+
+\lx wókiyag
+\ov
+\oe LYS
+\mr < wókiyakA
+\ps vdat1-abs-cont (valency: 1)
+\de telling sb things
+\xv Wókiyag wahí.
+\xe I came to tell him things.
+\lf A.
+\lv wókiyak
+\dt 23/Feb/2021
+
+\lx wókiyakA
+\ov 4
+\oe LYSA
+\mr wóyakA, ki-
+\ps vdat1-abs (valency: 2)
+\de to tell sb things, talk to, speak to sb, communicate with sb
+\ue the form |fv{wóničiyaka} is ambiguous, it can mean 'he said things to you' (of |fv{wókiyaka}) or 'he said things concerning you' (of |fv{wókičiyaka})
+\xv Wóčhičiyakiŋ kte ȟčiŋ.
+\xe I am trying to talk to you (I want to tell you some things).
+\xv Wóničiyakiŋ kta čhíŋ.
+\xe He wants to talk to you.
+\xv Líla taŋyáŋ wómakiyake ló. 
+\xe He told me some good things.
+\xv Lakȟótiya wówičhawakiyaka-he.
+\xe I was telling them things in Lakota.
+\xv Wičháȟča wómakiyake.
+\xe My husband told me some things.
+\xv Wówičhuŋkiyakapi.
+\xe We spoke to them (told them things).
+\xv Wómakiyakiŋ kta čha, slolwákiye.
+\xe I know he has something to tell me.
+\xv Wóuŋkiyaka-haŋpi.
+\xe He kept telling us things.
+\xv Wókiyag máni.
+\xe He was telling him things as he walked.
+\xv Wókiyake k’uŋ hé gluótkuŋze.
+\xe He fulfilled his promise to him (the things he had told him).
+\xv Wómakiyake k’uŋ magnáye ló.
+\xe She did not keep her promise to me.
+\xv Naȟmá wókiyake.
+\xe He communicated something secretly to him.
+\xv Yuónihaŋyaŋ wókiyake.
+\xe He talked to her respectfully.
+\xv Tókȟa wówakiyake šni.
+\xe I have no way of telling him things.
+\xv Čhaŋlwášteya wókiyake.
+\xe She told him pleasant things.
+\xv Šičáya wókiyake.
+\xe She told him bad things.
+\xv Líla lé wóinihaŋ wómayakilake.
+\xe What you told me is very impressive.
+\xv Leháŋl tȟéčake čiŋ lená owókiyag šíčapi.
+\xe Nowadays the younger generation are difficult to talk to.
+\1s wówakiyake / wówakiblake
+\2s wóyakiyake / wóyakilake
+\1p wóuŋkiyakapi
+\lf cont
+\lv wókiyag
+\lf directional
+\lv éwokiyakA, ahíwokiyakA, aglíwokiyakA, akhíwokiyakA
+\lf vs
+\lv owókiyag wašté, owókiyag šíčA
+\dt 23/Feb/2021
+
+\lx wókiyaptA
+\ov
+\oe LYS
+\mr wóyaptA, ki-
+\ps vdat1-abs (valency: 2)
+\de to leave leftovers for sb
+\1s wówakiyapte
+\1p wóuŋkiyaptapi
+\lf
+\lv
+\dt 23/Feb/2021
+
+\lx wókiyuške
+\ov
+\oe LYS
+\mr wó- kiyúškA
+\ps n
+\de liberation, release (from prison or hospital)
+
+\lx wókiža
+\ov
+\oe LYS
+\mr wóža, ki-
+\ps vabs (valency: 2)
+\de to cook porridge / pudding / mashed things for sb
+\1s wówakiža
+\1p wóuŋkižapi
+\dt 23/Feb/2021
+
+\lx wokížatA
+\ov
+\oe L
+\mr
+\ps dat1
+\mn wožátA
+
+\lx wokížatA
+\ov
+\oe L
+\mr
+\ps pos
+\mn wožátA
+
+\lx wokížaža
+\ov
+\oe L
+\mr
+\ps pos
+\mn wožáža
+
+\lx wókižaža
+\ov
+\oe LYS
+\mr wóžaža, ki-
+\ps vabs-dat1 (valency: 2)
+\de
+\mn wóžaža
+\1s wówakižaža
+\1p wóuŋkižažapi
+\lf
+\lv
+\dt 23/Feb/2021
+
+\lx wókižu
+\ov
+\oe LYS
+\mr wóžu, ki-
+\ps vpos-abs (valency: 1)
+\de to plant/sow one's own things
+\1s wówakižu
+\1p wóuŋkižupi
+\dt 23/Feb/2021
+
+\lx wokpÁ
+\ov
+\oe L
+\mr wo- kpÁ
+\ps vt (valency: 2)
+\de to shoot smth out, punch out, puncture by impact
+\xv ištá wokpÁ
+\xe to make sb blind by shooting;
+\1s wowákpe
+\1p woúŋkpapi
+\lf pos
+\lv wokíkpA
+\lf vdat2
+\lv wokíčikpA
+\lf vrecip
+\lv wokíčhikpA
+\le (only with body parts)
+\lf vt-recip
+\lv awókičhikpA
+\lf Y.S.
+\lv bokpÁ
+\dt 23/Feb/2021
+
+\lx wókpamni
+\ov
+\oe LYSA
+\mr wó- kpamní
+\ps n
+\de distribution of annuity or commodity, annuity or commodity goods
+\xv Mniȟúha šá k’uŋ hená wókpamni.
+\xe Those red goods were given out as annuity issue.
+\lf see
+\lv ptewókpamni
+
+\lx wokpáŋ
+\hm 1
+\ov
+\oe L
+\mr wo- kpáŋ
+\ps vt (valency: 2)
+\de to pulverize smth, shatter, mash or break to tiny pieces by impact (by shooting, poking)
+\xv Ó yuŋkȟáŋ wokpáŋ wobléče.
+\xe He shot and hit it scattering it to pieces.
+\1s wowákpaŋ
+\1p woúŋkpaŋpi
+\lf redup
+\lv wokpáŋkpaŋ
+\lf pos
+\lv wokíkpaŋ
+\lf dat1
+\lv wokíkpaŋ
+\lf dat2
+\lv wokíčikpaŋ
+\lf loc
+\lv iwókpaŋ
+\lf vabs
+\lv wawókpaŋ
+\lf Y.S.
+\lv bokpáŋ
+\lf A.
+\lv mokpáŋ
+\dt 23/Feb/2021
+
+\lx wókpaŋ
+\hm 2
+\ov
+\oe LYSA
+\mr wa- yukpáŋ
+\ps vabs (valency: 1)
+\de to grind things, do grinding
+\xv Íŋyaŋ úŋ wókpaŋpi.
+\xe They were grinding with a stone.
+\1s wablúkpaŋ
+\1p waúŋyukpaŋpi
+\dt 23/Feb/2021
+
+\lx wokpáŋkpaŋ
+\ov
+\oe L
+\mr < wokpáŋ
+\ps vpos-red (valency: 2)
+\de
+\mn wokpáŋ
+\lf Y.S.
+\lv bokpáŋkpa
+\dt 23/Feb/2021
+
+\lx wókpaŋpi
+\ov
+\oe LYS
+\mr wókpaŋ -pi
+\ps n
+\de cornmeal
+
+\lx wókpaŋ-thípi
+\ov
+\oe LYS
+\ps n
+\de grinding mill
+
+\lx wókpȟaŋ
+\ov 2
+\oe LY
+\mr wó- o- kapȟáŋ
+\ps n
+\de parfleche bags, rawhide box
+\ue made of animal skin, used for storing meat, flat and oblong shaped, usually made in pairs
+\va wókapȟaŋ
+\xv Ptehá čha yubláya okátaŋpi na owápi na oíse tópa kiŋ pakšížapi na hená wókpȟaŋ ečíyapi tkȟá nakúŋ pápa ognákapi ečíyapi.
+\xe They staked down the raw buffalo hide and painted designs on it and (when dry) they bent the four corners (of a rectangle) over on itself (like an envelope), and that was called a wókpȟaŋ; but also it was called a container for dried meat.
+\lf S.A.
+\lv wókphaŋ
+\dt 23/Feb/2021
+
+\lx wokpí
+\ov
+\oe L
+\mr wo- kpí
+\ps vt (valency: 2)
+\de to cause smth to give a high-pitched cracking sound by hitting/poking
+\1s wowákpi
+\1p woúŋkpipi
+\lf Y.S.
+\lv bokpí
+\dt 23/Feb/2021
+
+\lx wokpúkpA
+\ov
+\oe L
+\mr wo- kpukpÁ
+\ps vt (valency: 2)
+\de to shoot smth into pieces so that it is shattered
+\1s wowákpukpe
+\1p woúŋkpukpapi
+\lf Y.S.
+\lv bokpúkpA
+\dt 23/Feb/2021
+
+\lx woksÁ
+\hm 1
+\ov
+\oe L
+\mr wo- ksÁ
+\ps vt (valency: 2)
+\de to break smth off by impact (as by punching, shooting, running against)
+\xv Osúŋ kiŋ uŋmá woksá iyéyapi.
+\xe One of his braids was shot off.
+\1s wowákse
+\1p woúŋksapi
+\lf redup
+\lv woksáksa
+\lf pos
+\lv wokíksA
+\lf refl
+\lv woíč’iksA
+\lf dat2
+\lv wokíčiksA
+\lf loc
+\lv khiwóksA, awóksA, owóksA
+\lf vabs
+\lv wawóksA
+\lf Y.S.
+\lv boksÁ
+\lf A.
+\lv moksÁ
+\dt 23/Feb/2021
+
+\lx wóksA
+\hm 2
+\ov
+\oe LYSA
+\mr wa- yuksÁ
+\ps vabs (valency: 1)
+\de to cut things, do cutting (as corn), to harvest things
+\1s wablúkse
+\1p waúŋyuksapi
+\dt 23/Feb/2021
+
+\lx woksáksa
+\ov
+\oe L
+\mr < woksÁ
+\ps vt-red (valency: 2)
+\de to break smth off by shooting in many splaces, to break many things off by shooting
+\mn woksÁ
+\1s wowáksaksa
+\1p woúŋksaksapi
+\lf pos
+\lv wokíksaksa
+\lf dat1
+\lv wokíksaksa
+\lf dat2
+\lv wokíčiksaksa
+\lf Y.S.
+\lv boksáksa
+\lf A.
+\lv moksáksa
+\dt 23/Feb/2021
+
+\lx wóksape
+\ov 3
+\oe LYS
+\mr wó- ksápA
+\ps n
+\de wisdom; philosophy
+
+\lx wóksape-wóeye
+\ov
+\oe LYS
+\mr
+\ps n
+\de proverb
+
+\lx wóksape-wóuŋspe
+\ov
+\oe LYS
+\mr
+\ps n
+\de philosophy (the discipline)
+
+\lx wóksapi
+\ov
+\oe LYS
+\mr wóksA -pi
+\ps n
+\sn 1
+\de the harvest; those engaged in harvesting
+\lf variant
+\lv wayúksapi
+\ps vabs (valency: 1)
+\sn 2
+\de 3p of |fv{wóksA}
+\dt 23/Feb/2021
+
+\lx wokšéčA
+\ov
+\oe L
+\mr wo- -kšečA
+\ps vt (valency: 2)
+\de to make sb/smth doubled up or cramped by impact (as by shooting, poking)
+\1s wowákšeče
+\1p woúŋkšečapi
+\lf cont
+\lv wokšél
+\lf Y.S.
+\lv bokšéčA
+\dt 23/Feb/2021
+
+\lx wokšél
+\ov
+\oe L
+\ps vt-cont
+\mn wokšéča
+
+\lx wókšu
+\ov
+\oe LYS
+\mr wa- okšú
+\ps vt-abs (valency: 2)
+\de to load smth with things
+\xv Itȟókšu kiŋ hé wówakšu.
+\xe I loaded the truck with things.
+\1s wówakšu
+\1p wóuŋkšupi
+\lf dat1
+\lv wókikšu
+\lf dat2
+\lv wókičikšu
+\lf vabs
+\lv wawókšu
+\dt 23/Feb/2021
+
+\lx woktáŋ
+\ov
+\oe L
+\mr wo- -ktaŋ
+\ps vt (valency: 2)
+\de to bend smth by impact from a distance (as by shooting or collision)
+\1s wowáktaŋ
+\1p woúŋktaŋpi
+\lf pos
+\lv wokíktaŋ
+\lf dat1
+\lv wokíktaŋ
+\lf dat2
+\lv wokíčiktaŋ
+\lf vabs
+\lv wawóktaŋ
+\lf Y.S.
+\lv boktáŋ
+\lf A.
+\lv moktáŋ
+\dt 23/Feb/2021
+
+\lx wókuŋ
+\ov
+\oe LYS
+\mr wó- kúŋ
+\ps n
+\de the object of desire, smth desirable
+\lf dmod
+\lv wókuŋyaŋ
+
+\lx wókuŋkA
+\ov
+\oe LYSA
+\mr wókuŋ -kA
+\ps n
+\de the object of desire, smth desirable or appealing
+
+\lx wókuŋyaŋ
+\ov
+\oe LYSA
+\mr wókuŋ -ya
+\ps dmod
+\de desirable, appealing
+
+\lx wókuŋze
+\ov
+\oe LYS
+\mr wo- kúŋzA
+\ps n
+\sn 1
+\de a decree, ceremonial or religious rule that must be observed (by participants in a ceremony or by people involved in religious practices)
+\xv Táku wókuŋze čha wičháša waŋ yuhá kte kiŋ hé kȟó héčhel okíyakapi. 
+\xe When a man is supposed to observe certain rules, then he is also told by them (by the Thunders).
+\sn 2
+\de a standard, regulation, legislation
+\xv wókuŋze tȟéča
+\xe new standards.
+
+\lx wok’éǧA
+\ov
+\oe L
+\mr wo- k’éǧA
+\ps vt (valency: 2)
+\de to to graze the surface of smth/sb when firing (to miss a shot), to scratch smth/sb with an impact (as a car scratching another)
+\xv Khuté éyaš wok’éǧe.
+\xe He shot at him but only scratched him.
+\1s wowák’eǧe
+\1p woúŋk’eǧapi
+\lf cont
+\lv wok’éȟ
+\lf redup
+\lv wok’éȟk’eǧA, wok’éȟk’eȟ
+\lf conv
+\lv wok’éȟya
+\lf pos
+\lv wokík’eǧA
+\lf dat1
+\lv wokík’eǧA
+\lf dat2
+\lv wokíčik’eǧA
+\lf vabs
+\lv wawók’eǧA
+\lf loc
+\lv awók’eǧA
+\lf Y.S.
+\lv bok’éǧA
+\dt 23/Feb/2021
+
+\lx wok’éȟ
+\ov
+\oe L
+\mr
+\ps vt-cont
+\mn wok’éǧA
+\lf Y.S.
+\lv bok’éȟ
+
+\lx wok’éȟk’eǧA
+\ov
+\oe L
+\mr
+\ps redup
+\mn wok’éǧA
+
+\lx wok’éȟk’eȟ
+\ov
+\oe L
+\mr
+\ps redup
+\mn wok’éǧA
+
+\lx wok’éȟya
+\ov
+\oe L
+\mr wok’éǧA -ya
+\ps conv
+\de grazing the surface of smth/sb when firing, missing a shot
+\lf Y.S.
+\lv bok’éȟya
+
+\lx wók’iŋ
+\ov
+\oe LYS
+\mr wó- k’íŋ
+\ps n
+\de a backpack, pack, burden, luggage, baggage, a load
+\xv Wók’iŋ kpaȟpé.
+\xe He took down his luggage.
+\lf variant
+\lv wak’íŋ
+\le more common
+
+\lx wók’iŋkA
+\ov
+\oe L
+\mr wók’iŋ -kA
+\ps n
+\de to be a burden
+\1s
+\1p
+\lf
+\lv
+
+\lx wók’u
+\ov 2
+\oe LYSA
+\mr wo- k’ú
+\ps vt (valency: 2)
+\de to feed sb, give or serve food to sb; issue rations
+\xv Ptewániyaŋpi kiŋ wówičhuŋk’upi.
+\xe We fed the cattle.
+\xv Uŋčí wómak’u.
+\xe My grandmother served me food.
+\xv Wóhaŋ bluštáŋ na wówičhawak’u.
+\xe I finished cooking and served them the food.
+\xv Wómak’u yé.
+\xe Please, give me food.
+\xv Wónič’upi kte.
+\xe They are going to feed you.
+\xv Líla ól’ota wówičhak’upi.
+\xe They issued rations to them in large amounts.
+\1s wówak’u
+\1p wóuŋk’upi
+\lf pos
+\lv wókič’u
+\lf refl
+\lv wóič’ič’u
+\lf dat2
+\lv wókičič’u
+\lf recip
+\lv wókičhič’u
+\dt 23/Feb/2021
+
+\lx wól
+\ov 1
+\oe L
+\mr < wótA
+\ps vabs-cont (valency: 1)
+\de eating
+\xv wól yaŋká
+\xe to sit eating;
+\xv wól íyotake
+\xe he sat down to eat;
+\xv wól iglúštaŋ
+\xe to finish eating
+\xv Otȟúŋwahe-ta wól wičhúŋgloipi.
+\xe We took them to town to eat.
+\lf redup
+\lv wólwol
+\lf Y.S.
+\lv wód, wón
+\lf A.
+\lv wón
+\dt 23/Feb/2021
+
+\lx wóla
+\ov
+\oe L
+\mr wó- lá
+\ps vi (valency: 1)
+\de to ask or beg for food, ask for smth to eat
+\xv Wóla šni haŋ kišíčapi.
+\xe They ordered him off before he even asked for food.
+\xv Wakȟáŋyeža waŋžígži wóla čhéyapi na líla oíyokišiče.
+\xe Some children cried asking for food and it was very sad.
+\1s wówala
+\1p wóuŋlapi
+\lf refl
+\lv wóič’ila
+\lf dat1
+\lv wókila
+\lf dat2
+\lv wókičila
+\lf Y.S.
+\lv wóda
+\lf A.
+\lv wóna
+\dt 23/Feb/2021
+
+\lx wólakȟota
+\ov 3
+\oe L
+\mr wó- Lakȟóta
+\ps n
+\de peace-time, a peace treaty, treaty, time of truce
+\xv wólakȟota káǧa
+\xe to make peace, sign a peace treaty
+\xv Tóhaŋni wólakȟota kiŋ hé uŋglúžužupi šni.
+\xe We never canceled that treaty.
+\xv Húŋȟ wólakȟota čhíŋpi.
+\xe Some of them wanted peace.
+\xv Waníyetu óta kičhízapi na haŋkéya wólakȟota káǧapi.
+\xe They fought for many years and then they finally made peace.
+\xv Wólakȟota kte kiŋ lé úŋ Wakȟáŋtȟaŋka wóphila ekíye.
+\xe He gave thanks to the Creator for the peace that was to take place.
+\xv Héhaŋ Lakȟóta-oyáte kiŋ wólakȟota wašíču ób káǧapi.
+\xe At that time the Lakotas made peace with the whites.
+\xv Kȟaŋǧí Wičháša zuyá ahí na Lakȟóta ób kičhízapi na hetáŋhaŋ wólakȟota kiŋ enákiyapi.
+\xe The Crows came on the war-path, and fought with the Lakotas, and thus ended the peace.
+\xv Oyáte waŋží okíčhiyušičapi čháŋna, čhaŋnúŋpa kiŋ úŋ wólakȟota káǧape ló.
+\xe When some people anger each other they make peace through the pipe.
+\xv Wólakȟota wimáčhaša yeló.
+\xe I am a man of peace.
+\lf Y.
+\lv wódakȟota
+\lf S.
+\lv wódakhota
+
+\lx wóla s’a
+\ov
+\oe L
+\ps n
+\de beggar, one who asks for food often
+\lf Y.S.
+\lv wóda s’a
+\dt 24/Feb/2021
+
+\lx wóle
+\ov
+\oe L
+\mr wa- olé
+\ps vabs (valency: 1)
+\de to look/search for things/people, seek/hunt for things/people, do searching or hunting
+\xv Wóle-iyáye.
+\xe He left to seek for things (to hunt).
+\xv Wóle ománipi.
+\xe They roamed about hunting.
+\xv wóle wičháša
+\xe a hunter.
+\1s wówale
+\1p wóuŋlepi
+\lf pos
+\lv wókile
+\lf dat2
+\lv wókičile
+\lf refl
+\lv wóič’ile
+\lf recip
+\lv awókičhile
+\lf Y.S.
+\lv wóde
+\lf A.
+\lv wóne
+\dt 23/Feb/2021
+
+\lx wóle-wičháša
+\ov
+\oe L
+\mr
+\ps n
+\de hunter
+\lf Y.
+\lv wóde-wičháša
+\lf S.
+\lv wóde-wičhášta
+
+\lx wól iyútȟA
+\ov
+\oe L
+\mr
+\ps vabs (valency: 1)
+\de to taste things (such as food)
+\1s wól iblútȟe
+\1p wól uŋkíyutȟapi
+\lf Y.
+\lv wód iyútȟA
+\lf S.
+\lv wón iyúthA
+\dt 24/Feb/2021
+
+\lx wólkhiyA
+\ov
+\oe L
+\mr wótA -khiyA
+\ps vcaus-abs (valency: 2)
+\de to feed sb, make a feast for sb
+\xv Wólkhiyapi.
+\xe They made a feast for her.
+\1s wólwakhiye
+\1p wól’uŋkhiyapi
+\lf recip
+\lv wólkičhičhiyA
+\lf Y.S.
+\lv wótkhiyA
+\lf A.
+\lv wónkhiyA
+\dt 23/Feb/2021
+
+\lx wólkičhičhiyA
+\ov
+\oe L
+\mr wólkhiyA, kičhi-
+\ps vrecip (valency: 1)
+\de to feed each other, to give each other food, to share food
+\xv Wólkičhičhiyapi.
+\xe They invited each other to a meal.
+\1p wól’uŋkičhičhiyapi
+\2p wólyečhičhiyapi
+\lf Y.S.
+\lv wónkičhičhiyA
+\dt 23/Feb/2021
+
+\lx wólkičhiyA
+\ov
+\oe L
+\mr wólyA, kičhi-
+\ps vrecip (valency: 1)
+\de to feed or feast each other, to give each other food, to share food
+\xv Iyúha ptáyela úŋpi naháŋ nakúŋ wólkičhiyapi.
+\xe They all got together and feasted each other.
+\1p wól’uŋkičhiyapi
+\2p wólyečhiyapi
+\lf Y.S.
+\lv wónkičhiyA
+\dt 23/Feb/2021
+
+\lx wólkičičhiyA
+\ov
+\oe L
+\mr wólyA, kíči-
+\ps vdat2 (valency: 3)
+\de to feed sb pertaining to sb
+\1s wólwečičhiye
+\1p wól’uŋkičičhiyapi
+\lf Y.S.
+\lv wónkíčičhiyA
+\dt 23/Feb/2021
+
+\lx wólkiyA
+\ov
+\oe L
+\mr wólyA, ki-
+\ps vpos (valency: 2)
+\de to feed/feast one's own
+\xv Winúȟčala kiŋ wóhiŋ na wakȟáŋheža kiŋ wólwičhakiye.
+\xe The old woman cooked and fed her children.
+\1s wólwakiye
+\1p wól’uŋkiyapi
+\lf Y.S.
+\lv wónkiyA
+\dt 23/Feb/2021
+
+\lx wólol
+\ov
+\oe L
+\mr < wólotA
+\ps vabs-cont (valency: 1)
+\de borrowing things
+\mn wólotA
+\lf Y.S.
+\lv wódon
+\lf A.
+\lv wónon
+\dt 23/Feb/2021
+
+\lx wólotA
+\ov
+\oe L
+\mr wa- olótA
+\ps vabs (valency: 1)
+\de to borrow/rent things; to hire people
+\xv Wólol-wahí.
+\xe I have come to borrow things (as cooking utensils).
+\xv Hé líla wólote s’a.
+\xe He often borrows things.
+\1s wówalote
+\1p wóuŋlotapi
+\lf cont
+\lv wólol
+\lf dat1
+\lv wókilotA
+\lf dat2
+\lv wókičilotA
+\lf loc
+\lv awólotA
+\lf vrecip
+\lv awókičhilotA
+\lf Y.S.
+\lv wódotA
+\lf A.
+\lv wónotA
+\dt 23/Feb/2021
+
+\lx wolší
+\ov
+\oe L
+\mr wótA + ší
+\ps vt (valency: 2)
+\de to tell or ask sb to eat
+\1s wolwáši
+\1p wol’úŋšipi
+\lf Y.S.A.
+\lv wonší
+\dt 23/Feb/2021
+
+\lx wolú
+\ov
+\oe L
+\mr wo- lú
+\ps vi (valency: 1)
+\de to blow (as wind)
+\xv Tȟatúye kiŋ íŋš-eyá khilíya wolú.
+\xe The four winds, too, blow mightily.
+\1s
+\1p
+\lf
+\lv
+\dt 23/Feb/2021
+
+\lx wóluta
+\ov
+\oe L
+\ps n
+\de the round of a beef animal when dried
+\lf Y.S.
+\lv -
+
+\lx wolúyA
+\ov
+\oe L
+\mr wolú -yA
+\ps vcaus (valency: 2)
+\de to blow (with one's mouth)
+\1s wolúwaye
+\1p wolúuŋyaŋpi
+\lf
+\lv
+\dt 23/Feb/2021
+
+\lx wóluzahe
+\ov
+\oe L
+\mr wó- lúzahAŋ
+\ps n
+\de speed, swiftness, rapidity
+\lf Y.S.
+\lv wóduzahe
+
+\lx wóluzahe-islólye
+\ov
+\oe L
+\mr
+\ps n
+\de speedometer
+\lf Y.S.
+\lv -
+
+\lx wólwičhayapi
+\ov 1
+\oe L
+\mr < wólyA, wičha-, -pi
+\ps n
+\de a feast, banquet, reception, celebration
+\xv Lečhála wólwičhayapi čhaŋkhé ektá óuŋpȟapi.
+\xe There was a feast recently so we went there.
+\lf Y.S.
+\lv wódwičhayapi
+
+\lx wólwol
+\ov
+\oe L
+\mr < wótA
+\ps vi-cont (valency: 1)
+\de eating things
+\xv Wólwol ománi yá-he.
+\xe He walked about eating.
+\xv Wólwol wóuŋglakapi kte.
+\xe We will talk and eat.
+\lf Y.S.
+\lv wónwon
+\lf A.
+\lv wónwon
+\dt 23/Feb/2021
+
+\lx wólyA
+\ov
+\oe L
+\mr wótA -yA
+\ps vcaus-abs (valency: 2)
+\de to feed sb, make a feast for sb
+\xv Húŋku na atkúku kiŋ wólwičhayapi na wíȟpeyapi.
+\xe Her mother and father put on a feast and a give-away ceremony.
+\1s wólwaye
+\1p wól’uŋyaŋpi
+\lf pos
+\lv wólkiyA
+\lf recip
+\lv wólkičhiyA
+\lf dat2
+\lv wólkičičhiyA
+\lf Y.S.
+\lv wónyA
+\dt 23/Feb/2021
+
+\lx wol’ígluštaŋ
+\ov
+\oe L
+\mr wótA + iglúštaŋ
+\ps vrefl (valency: 1)
+\de to finish eating
+\1s wolmígluštaŋ
+\1p wol’úŋkigluštaŋpi
+\lf Y.
+\lv won’ígduštaŋ
+\lf S.
+\lv won’íhduštaŋ
+\lf A.
+\lv wonkíčhuŋni
+\dt 23/Feb/2021
+
+\lx wómaǧaǧa
+\ov
+\oe LYS
+\mr wó- maǧáǧa
+\ps n
+\de amusement
+
+\lx wómna
+\ov
+\oe LYSA
+\mr wa- ómna
+\ps vabs (valency: 1)
+\de to smell things, be able to smell things well
+\xv Šúŋka kiŋ wómnamna úŋ.
+\xe The dog is sniffing around.
+\va waómna
+\1s wówamna
+\1p wóuŋmnapi
+\lf redup
+\lv wómnamna
+\lf conv
+\lv wómnakel
+\dt 23/Feb/2021
+
+\lx wómnakA
+\ov
+\oe LYS
+\mr wómna -kA
+\ps n
+\sn 1
+\de a person or animal that perceives scents easily (as a dog, bear)
+\sn 2
+\de a bird dog
+
+
+\lx yaǧób yatkÁŋ
+\ov
+\oe LYSA
+\mr
+\ps vt (valency: 2)
+\de to sip on smth, to sip when drinking smth;
+\1s yaǧób blatké
+\1p yaǧób uŋyátkaŋpi
+\lf
+\lv
+\dt 24/Feb/2021
+
+\lx yaǧópA
+\ov
+\oe LYS
+\mr ya- ǧópA
+\ps vt (valency: 2)
+\de to sip smth noisily, to slurp, draw in one's breath with a noise, suck up or draw up into one's mouth, suck the honey from a blossom
+\1s blaǧópe
+\1p uŋyáǧopapi
+\lf cont
+\lv yaǧób
+\lf pos
+\lv glaǧópA
+\lf dat1
+\lv kiyáǧopA
+\lf dat2
+\lv kíčiyaǧopA
+\lf vabs
+\lv wayáǧopA
+\lf see
+\lv ayáǧopA, yatítaŋ
+\dt 23/Feb/2021
+
+\lx yaǧú
+\ov
+\oe LYSA
+\mr ya- ǧú
+\ps vt (valency: 2)
+\de to reach the last of a pipeful of tobacco in smoking; to finish up a pipe, to burn up tobacco in a pipe
+\xv Ówaŋžila úŋpapi na toháŋl yaǧúpi čháŋ, pȟéta kiŋ él akášloke.
+\xe They would smoke sharing a pipe and when they had finished it he would empty the burnt tobacco over the fire.
+\1s blaǧú
+\1p uŋyáǧupi
+\lf pos
+\lv glaǧú
+\lf dat1
+\lv kiyáǧu
+\lf dat2
+\lv kíčiyaǧu
+\lf see
+\lv iyáǧu
+\dt 23/Feb/2021
+
+\lx yaǧúǧuǧapi-čháŋ
+\ov
+\oe LYS
+\ps n
+\de hackberry (Celtis occidentalis)
+\lf syn
+\lv yamnúmnuǧapi-čháŋ
+
+\lx yaháhala
+\ov
+\oe L
+\mr ya- hahála
+\ps vt (valency: 2)
+\de to throw sb off their balance by one's words / arguments, make sb uncertain, shake sb's opinion
+\1s blaháhala
+\1p uŋyáhahalpi
+\lf conv
+\lv yaháhayela
+\lf pos
+\lv glaháhala
+\lf dat2
+\lv kíčiyahahala
+\lf recip
+\lv kičhíyahahala
+\lf vabs
+\lv wayáhahala, wayáhahalakA
+\lf Y.Si.A.
+\lv yaháhana
+\lf Sa.
+\lv yaháhada
+\dt 23/Feb/2021
+
+\lx yahÁŋ
+\ov
+\oe LYS
+\ps vs (valency: 1)
+\de to have smth pricked in (as a thorn, splinter)
+\xv Yuŋkȟáŋ waŋží uŋkčéla waŋ yahé.
+\xe One of them ran into a cactus thorn.
+\xv Žaŋžáŋ kabléča waŋ sí mayáhe.
+\xe I have a piece of glass in my foot.
+\1s mayáhe
+\1p uŋyáhaŋpi
+\dt 23/Feb/2021
+
+\lx yaháŋskA
+\ov
+\oe LYSA
+\mr ya- háŋskA
+\ps vt (valency: 2)
+\de to lengthen smth by talking (as a story), lenghten smth by action of one's mouth
+\1s blaháŋske
+\1p uŋyáhaŋskapi
+\lf pos
+\lv glaháŋskA
+\lf dat1
+\lv kiyáhaŋskA
+\lf dat2
+\lv kíčiyahaŋskA
+\lf conv
+\lv yaháŋskeya
+\lf abs
+\lv wayáhaŋskA
+\dt 23/Feb/2021
+
+\lx yaháŋskeya
+\ov
+\oe LYS
+\mr yaháŋskA -ya
+\ps conv
+\de lengthening smth by talking (as a story), lenghtening smth by action of one's mouth
+\xv Yaháŋskeskeya wóglake.
+\xe He makes his speeches long.
+\lf red
+\lv yaháŋskeskeya
+\lf emph
+\lv yaháŋskeyakel, ayáhaŋskeyakel
+
+\lx yaháŋskeyakel
+\ov
+\oe LYS
+\ps emph
+\mn yaháŋskeya
+
+\lx yahéktab
+\ov
+\oe LYS
+\mr ya- héktab
+\ps adv
+\sn
+\de forcing smth/sb back by the action of one's mouth
+
+\lx yahíŋl
+\ov
+\oe L
+\ps vt-cont (valency: 1)
+\mn yahíŋtA
+\dt 23/Feb/2021
+
+\lx yahíŋtA
+\ov
+\oe LYSA
+\mr ya- -hiŋtA
+\ps vt (valency: 2)
+\sn 1
+\de to eat all of smth up, consume all of the available food
+\sn 2
+\de to disprove smth (as an argument)
+\1s blahíŋte
+\1p uŋyáhiŋtapi
+\lf cont
+\lv yahíŋl
+\lf pos
+\lv glahíŋtA
+\lf dat1
+\lv kiyáhiŋtA
+\lf dat2
+\lv kíčiyahiŋtA
+\lf vabs
+\lv wayáhiŋtA
+\dt 23/Feb/2021
+
+\lx yahóǧilya
+\ov
+\oe L
+\mr yahóǧitA -ya
+\ps conv
+\de being hoarse from much talking
+\lf Y.S.
+\lv yahóǧinya
+
+\lx yahóǧitA
+\ov
+\oe LYS
+\mr ya- hoǧítA
+\ps vt (valency: 2)
+\de to make sb hoarse from much talking
+\1s blahóǧite
+\1p uŋyáhoǧitapi
+\lf conv
+\lv yahóǧilya
+\lf refl
+\lv igláhoǧitA
+\dt 23/Feb/2021
+
+\lx yahóho
+\ov
+\oe LYS
+\mr ya- -hoho
+\ps vt (valency: 2)
+\de to loosen smth at its base with one's mouth or teeth
+\1s blahóho
+\1p uŋyáhohopi
+\lf conv
+\lv yahóhoya
+\lf pos
+\lv glahóho
+\lf dat1
+\lv kiyáhoho
+\lf dat2
+\lv kíčiyahoho
+\lf vabs
+\lv wayáhoho
+\dt 23/Feb/2021
+
+\lx yahóhoya
+\ov
+\oe LYS
+\mr yahóho -ya
+\ps conv
+\de loosening smth at its base with one's mouth or teeth
+
+\lx yahókitȟuŋ
+\ov
+\oe LYS
+\mr ya- hokítȟuŋ
+\ps vt (valency: 2)
+\de (linguistics) to voice smth (i.e. a phone)
+\mn
+\1s blahókitȟuŋ
+\1p uŋyáhokitȟuŋpi
+\lf conv
+\lv yahókitȟuŋyaŋ
+\le voicing smth (as a phone)
+\lf conv-neg
+\lv yahókitȟuŋšniyaŋ
+\le unvoicing smth (as a phone)
+\dt 23/Feb/2021
+
+\lx yahókšila
+\ov
+\oe L
+\mr ya- hokšíla
+\ps vt (valency: 2)
+\de to call sb a boy, speak to sb as to a boy
+\1s blahókšila
+\1p uŋyáhokšilapi
+\lf Y.Si.
+\lv yahókšina
+\lf Sa.
+\lv yahókšida
+\dt 23/Feb/2021
+
+\lx yahólyA
+\ov
+\oe L
+\mr yahótA -yA
+\ps vcaus (valency: 2)
+\de to cause sb to choke on smth swallowed hurriedly, gasp for breath
+\1s yahólwawaye
+\1p yahól’uŋyaŋpi
+\lf Y.S.A.
+\lv yahónyA
+\dt 23/Feb/2021
+
+\lx yahómni
+\ov
+\oe LYSA
+\mr ya- -homni
+\ps vt (valency: 2)
+\sn 1
+\de to convince or influence sb by talking, persuade or change sb's mind
+\xv Yahómni čhaŋkhé kičhí yíŋ kta kéye.
+\xe He convinced him so he said he would go with him.
+\xv Mayáhomnipi.
+\xe They convinced me.
+\sn 2
+\de to cause sb to convert (as used by the missionaries)
+\xv Wakȟáŋtȟaŋka étkiya wičháyahomni kte ló.
+\xe He will convert them towards God.
+\1s blahómni
+\1p uŋyáhomnipi
+\lf conv
+\lv yahómniyaŋ
+\lf conv-neg
+\lv yahómniphičašniyaŋ
+\lf pos
+\lv glahómni
+\lf dat2
+\lv kíčiyahomni
+\lf recip
+\lv kičhíyahomni
+\lf vabs
+\lv wayáhomni
+\dt 23/Feb/2021
+
+\lx yahómniphičašniyaŋ
+\ov
+\oe LYS
+\mr yahómni -phiča šni -ya
+\ps dmod-neg
+\de being impossible to persuade or change sb's mind, unable to convince
+
+\lx yahómniyaŋ
+\ov
+\oe LYSA
+\mr
+\ps conv
+\mn yahómni
+
+\lx yahótA
+\ov
+\oe LYSA
+\mr ya- -hotA
+\ps vt (valency: 2)
+\de to choke on smth swallowed hurriedly, gasp for breath
+\1s blahóte
+\1p uŋyáhotapi
+\lf pos
+\lv glahótA
+\lf caus
+\lv yahólyA
+\lf vabs
+\lv wayáhotA
+\lf see
+\lv sniyáhotA, kahól iyéyA
+\dt 23/Feb/2021
+
+\lx yahótȟuŋ
+\ov
+\oe LY
+\mr ya- hotȟúŋ
+\ps vt (valency: 2)
+\sn 1
+\de to cause smth to cry out by biting it (as an animal)
+\sn 2
+\de to play smth (of brass instruments, such as a trumpet)
+\1s blahótȟuŋ
+\1p uŋyáhotȟuŋpi
+\lf redup
+\lv yahótȟuŋtȟuŋ
+\lf pos
+\lv glahótȟuŋ
+\lf dat1
+\lv kiyáhotȟuŋ
+\lf dat2
+\lv kíčiyahotȟuŋ
+\lf vabs
+\lv wayáhotȟuŋ
+\lf S.A.
+\lv yahóthuŋ
+\dt 23/Feb/2021
+
+\lx yahótȟuŋtȟuŋ
+\ov
+\oe LY
+\mr
+\ps redup
+\mn yahótȟuŋ
+\dt 23/Feb/2021
+
+\lx yahúkhuta
+\ov
+\oe LYS
+\mr ya- hukhúta
+\ps vt (valency: 2)
+\de to denigrate sb/smth, downgrade smth/sb
+\1s blahúkhuta
+\1p uŋyáhukhutapi
+\lf pos
+\lv glahúkhuta
+\lf refl
+\lv igláhukhuta
+\lf dat1
+\lv kiyáhukhuta
+\lf dat2
+\lv kíčiyahukhuta
+\lf recip
+\lv kičhíyahukhuta
+\lf A.
+\lv yahókhutu
+\dt 23/Feb/2021
+
+\lx yahúŋhuŋs
+\ov
+\oe LYS
+\ps vt-cont (valency: 1)
+\mn yahúŋhuŋzA
+\dt 23/Feb/2021
+
+\lx yahúŋhuŋsya
+\ov
+\oe LYS
+\mr
+\ps conv
+\mn yahúŋhuŋzA
+
+\lx yahúŋhuŋzA
+\ov
+\oe LYS
+\mr ya- huŋhúŋzA
+\ps vt (valency: 2)
+\de to shake or rock smth with one's mouth; to thrill sb by talking, to shake one's resolution by talking to
+\xv Wičhóoyake kiŋ lé úŋ wičháyahuŋhuŋze.
+\xe He thrilled them with the story.
+\1s blahúŋhuŋze
+\1p uŋyáhuŋhuŋzapi
+\lf cont
+\lv yahúŋhuŋs
+\lf conv
+\lv yahúŋhuŋsya
+\lf pos
+\lv glahúŋhuŋzA
+\lf dat1
+\lv kiyáhuŋhuŋzA
+\lf dat2
+\lv kíčiyahuŋhuŋzA
+\lf vt-recip
+\lv akíčhiyahuŋhuŋzA
+\lf vabs
+\lv wayáhuŋhuŋzA
+\dt 23/Feb/2021
+
+\lx yahúŋkešni
+\ov
+\oe LYS
+\mr ya- húŋkešni
+\ps vt (valency: 2)
+\de to cause sb to be weak using words, make sb weak using one's mouth or teeth
+\1s blahúŋkešni
+\1p uŋyáhuŋkapišni
+\lf vpos
+\lv glahúŋkešni
+\lf vdat1
+\lv kiyáhuŋkešni
+\lf vdat2
+\lv kíčiyahuŋkešni
+\lf recip
+\lv kičhíyahuŋkešni
+\lf vt-recip
+\lv akíčhiyahuŋkešni
+\lf vabs
+\lv wayáhuŋkešni
+\lf
+\lv
+\dt 23/Feb/2021
+
+\lx yáȟ
+\ov
+\oe LYS
+\ps interj
+\de indicates doubt and surprise when something funny has been stated. Girls alone seem to use it (Bue)
+
+\lx yaȟéb
+\ov
+\oe LYS
+\mr < yaȟépA
+\ps vt-cont (valency: 1)
+\de drinking smth up, imbibing until empty
+\lf A.
+\lv yaȟém
+\dt 23/Feb/2021
+
+\lx yuktáŋ
+\ov 2
+\oe LYS
+\mr yu- -ktaŋ
+\ps vt (valency: 2)
+\de to bend smth sharply with one's hand, make crooked
+\xv Čháŋ kiŋ hé taŋyéȟčiŋ yuktáŋ na čhaŋgléška waŋ káǧe.
+\xe He carefully bent the stick and made a hoop.
+\xv Wóopȟe kiŋ hená iyé tókhel iwáštepi kta waŋ ogná yuktáŋpi.
+\xe They bend the law in a way which benefits them.
+\xv Čháŋ čík’ala waŋ miméya yuktáŋpi.
+\xe A small stick is bent into a circle.
+\1s bluktáŋ
+\1p uŋyúktaŋpi
+\lf conv
+\lv yuktáŋyaŋ
+\lf redup
+\lv yuktáŋktaŋ
+\lf pos
+\lv gluktáŋ
+\lf dat1
+\lv kiyúktaŋ
+\lf dat2
+\lv kíčiyuktaŋ
+\lf vabs
+\lv wayúktaŋ
+\lf loc
+\lv ayúktaŋ, ayúktaŋyaŋ, oyúktaŋ
+\dt 23/Feb/2021
+
+\lx yuktáŋktaŋ
+\ov
+\oe LYS
+\mr < yuktáŋ
+\ps vt-red (valency: 2)
+\de
+\mn yuktáŋ
+\dt 23/Feb/2021
+
+\lx yuktáŋktaŋyaŋ
+\ov
+\oe LYS
+\ps dmod-red
+\mn yuktáŋyaŋ
+
+\lx yuktáŋyaŋ
+\ov
+\oe LYS
+\mr yuktáŋ -ya
+\ps dmod
+\de crookedly, being curved
+\xv Yuktáŋyaŋ púze.
+\xe It dried in a curved shape.
+\lf redup
+\lv yuktáŋktaŋyaŋ
+
+\lx yukúŋtA
+\ov
+\oe LYSA
+\mr yu- -kuŋtA
+\ps vt (valency: 2)
+\sn 1
+\de to probe into (as a hollow object or cavity); to pick (as ears or nose)
+\ue obsolete
+\sn 2
+\de to wear smth partly out by handling (as a strap or rope making it thinner)
+\ue archaic
+\1s blukúŋte
+\1p uŋyúkuŋtapi
+\dt 23/Feb/2021
+
+\lx yuk’éǧA
+\ov
+\oe LYSA
+\mr yu- k’éǧA
+\ps vt (valency: 2)
+\de to scratch smth with one's hand
+\xv Wakhéya kiŋ yuk’éȟk’eǧe.
+\xe He scratched the tent (asking for permission to come in).
+\1s bluk’éǧe
+\1p uŋyúk’eǧapi
+\lf cont
+\lv yuk’éȟ
+\lf conv
+\lv yuk’éȟya
+\lf redup
+\lv yuk’éȟk’eǧA, yuk’éȟk’eȟ
+\lf pos
+\lv gluk’éǧA
+\lf refl
+\lv iglúk’eǧA
+\lf dat1
+\lv kiyúk’eǧA
+\lf dat2
+\lv kíčiyuk’eǧA
+\lf vabs
+\lv wayúk’eǧA
+\lf loc
+\lv iyúk’eǧe
+\dt 23/Feb/2021
+
+\lx yuk’éȟ
+\ov
+\oe LYSA
+\mr
+\ps vt-cont (valency: 1)
+\mn yuk’éǧA
+\de
+\dt 23/Feb/2021
+
+\lx yuk’éȟk’eǧA
+\ov
+\oe LYSA
+\ps vt-red (valency: 2)
+\mn yuk’éǧA
+\dt 23/Feb/2021
+
+\lx yuk’éȟk’eȟ
+\ov
+\oe LYSA
+\mr
+\ps redup
+\mn yuk’éǧA
+
+\lx yuk’éȟya
+\ov
+\oe LYS
+\mr yuk’éǧA -ya
+\ps conv
+\de scratching smth with one's hand
+
+\lx yuk’ék’eǧA
+\ov
+\oe LYS
+\ps vt-red (valency: 2)
+\mn yuk’éǧA
+\dt 23/Feb/2021
+
+\lx yuk’és
+\ov
+\oe LYS
+\ps vt-cont (valency: 1)
+\mn yuk’ézA
+\dt 23/Feb/2021
+
+\lx yuk’ésk’es
+\ov
+\oe LYS
+\mr
+\ps redup
+\mn yuk’ézA
+
+\lx yuk’ésk’ezA
+\ov
+\oe LYS
+\ps vt-red (valency: 2)
+\mn yuk’ézA
+\1s bluk’ésk’eze
+\1p uŋyúk’esk’ezapi
+\dt 23/Feb/2021
+
+\lx yuk’ézA
+\ov
+\oe LYS
+\mr yu- k’ézA
+\ps vt (valency: 2)
+\de to shear smth, clip off close; make smooth
+\1s bluk’éze
+\1p uŋyúk’ezapi
+\lf cont
+\lv yuk’és
+\lf redup
+\lv yuk’ésk’ezA, yuk’ésk’es
+\lf vabs
+\lv wayúk’ezA
+\dt 23/Feb/2021
+
+\lx yuk’óǧA
+\ov
+\oe LYS
+\mr yu- -k’oǧA
+\ps vt (valency: 2)
+\de to scrape or scratch smth off with one's hand/s or by pulling motion
+\xv Kȟokȟóyaȟ’aŋla kiŋ makȟá kiŋ yuk’óȟk’oȟ wókilepi.
+\xe Chickens search for food by scratching the ground.
+\1s bluk’óǧe
+\1p uŋyúk’oǧapi
+\lf cont
+\lv yuk’óȟ
+\lf redup
+\lv yuk’óȟk’oǧA, yuk’óȟk’oȟ
+\lf pos
+\lv gluk’óǧA
+\lf dat1
+\lv kiyúk’oǧA
+\lf dat2
+\lv kíčiyuk’oǧA
+\lf vabs
+\lv wayúk’oǧA
+\lf see also
+\lv yuk’éǧA
+\dt 23/Feb/2021
+
+\lx yuk’óȟ
+\ov
+\oe LYS
+\mr < yuk’óǧA
+\ps vt-cont (valency: 1)
+\de
+\mn yuk’óǧA
+\dt 23/Feb/2021
+
+\lx yuk’óȟk’oǧA
+\ov
+\oe LYS
+\mr
+\ps vt-red (valency: 2)
+\mn yuk’óǧA
+\lf
+\lv
+\dt 23/Feb/2021
+
+\lx yuk’óȟk’oȟ
+\ov
+\oe LYS
+\mr
+\ps vt-red-cont (valency: 1)
+\mn yuk’óǧA
+\lf
+\lv
+\dt 23/Feb/2021
+
+\lx yuk’ós
+\ov
+\oe LYS
+\ps vt-cont (valency: 1)
+\mn yuk’ózA
+\dt 23/Feb/2021
+
+\lx yuk’ósk’ozA
+\ov
+\oe LYS
+\mr
+\ps vt-red (valency: 2)
+\mn yuk’ózA
+\dt 23/Feb/2021
+
+\lx yuk’ózA
+\ov
+\oe LYS
+\mr yu- k’ozÁ
+\ps vt (valency: 2)
+\de to make smth (i.e., ground) smooth and hard by taking off the grass; to massage smth to numbness
+\1s bluk’óze
+\1p uŋyúk’ozapi
+\lf redup
+\lv yuk’ósk’ozA
+\lf cont
+\lv yuk’ós
+\lf pos
+\lv gluk’ózA
+\lf dat1
+\lv kiyúk’ozA
+\lf dat2
+\lv kíčiyuk’ozA
+\lf vabs
+\lv wayúk’ozA
+\lf loc
+\lv oyúk’ozA
+\dt 23/Feb/2021
+
+\lx yúl
+\ov 3
+\oe L
+\mr < yútA
+\ps vt-cont (valency: 1)
+\de eating smth
+\xv Khúžapi k’uŋ yul-wíčhaši čha yútapi.
+\xe They told the sick to eat it so they did.
+\xv Waníyetu ópta hená yúl úŋpi.
+\xe They ate those things during winter.
+\xv Uŋžíŋžiŋtka yúl ománi.
+\xe He walked about (picking and) eating rose hips.
+\xv Uŋmápi kiŋ henála tȟaló yúl úŋpi
+\xe The others (animals) are meat eaters.
+\xv Tȟaspáŋ yúl yaŋkápi.
+\xe They sat eating apples
+\xv Yúlyul kú.
+\xe He was eating it on his way back.
+\xv Yul-wáčhiŋ na.
+\xe Try to eat it.
+\lf redup
+\lv yúlyul
+\mn yútA
+\lf Y.S.
+\lv yún
+\dt 23/Feb/2021
+
+\lx yulákȟolyakel
+\ov
+\oe L
+\mr yu- Lakȟóta -yakel
+\ps conv
+\de doing smth in a traditional Lakota/Indian way
+\xv Yulákȟolyakel waéčhuŋpi.
+\xe They do things in a traditional way.
+\lf Y.
+\lv yudákȟodyaken
+\lf S.
+\lv yudákhonyaken
+
+\lx yulákȟol’iya
+\ov
+\oe L
+\mr yu- Lakȟól’iya
+\ps cov
+\de (translating) into/in the Lakota language
+\xv Yulákȟol’iya yuíyeskapi.
+\xe They translated it into the Lakota language.
+
+\lx yulákȟota
+\ov
+\oe L
+\mr yu- Lakȟóta
+\ps vt (valency: 2)
+\de to adapt smth (as a foreign concept) into Lakota culture
+\xv Wičhóȟ’aŋ kiŋ yulákȟotapi čha leháŋl wičhóta-šna ektá yápi.
+\xe That custom has been adapted into Lakota culture so many attend it nowadays.
+\1s blulákȟota
+\1p uŋyúlakȟotapi
+\lf Y.
+\lv yudákȟota
+\lf S.
+\lv yudákhota
+\dt 23/Feb/2021
+
+\lx yuléblepA
+\ov
+\oe L
+\mr yu- -lepA
+\ps vt (valency: 2)
+\de to make little notches in smth (using scissors), make a serrate margin edge on smth
+\1s bluléblepe
+\1p uŋyúleblepapi
+\lf Y.S.
+\lv yudébdepA
+\dt 23/Feb/2021
+
+\lx yuléčhala
+\ov
+\oe L
+\mr yu- lečhála
+\ps cov
+\de making smth seem as though it had been yesterday
+\lf Y.S.
+\lv yudéčhana
+
+\lx yuléhaŋyaŋg
+\ov
+\oe L
+\mr yu- leháŋyaŋg
+\ps adv (valency: 2)
+\de pulling sb/smth apart, pulling sb/smth apart from the others
+\va |fl{reduced speech} yuléhaŋg
+\xv Yuléhaŋyaŋg iwíčhaču.
+\xe He pulled them apart.
+\lf Y.
+\lv yudéhaŋyaŋg
+\lf S.
+\lv ?
+\dt 23/Feb/2021
+
+\lx yuléna s’e
+\ov
+\oe L
+\mr yu- léna
+\ps id
+\de as if it was right here, making smth unexpectedly quick (as one's return from a supposedly long trip), off hand
+\xv Yuléna s’e yaglíhuŋni yeló.
+\xe You came back unexpectedly quickly.
+\lf Y.S.
+\lv yudéna s’e
+\dt 24/Feb/2021
+
+\lx yuléšležA
+\ov
+\oe L
+\mr yu- lešléžA
+\ps vt-red (valency: 2)
+\de to make sb urinate by squeezing or tickling
+\1s bluléšleže
+\1p uŋyúlešležapi
+\lf Y.S.
+\lv yudéšdežA
+\dt 23/Feb/2021
+
+\lx yulíla s’e
+\ov
+\oe L
+\mr yu- líla
+\ps dmod
+\de with more speed, faster
+\ue colloquial
+\lf Y.S.
+\lv ?
+\dt 24/Feb/2021
+
+\lx yul-íyutȟA
+\ov
+\oe L
+\mr yútA + iyútȟA
+\ps vt (valency: 2)
+\de to taste smth, sample smth by eating
+\1s yul-íblutȟe
+\1p yul-úŋkiyutȟapi
+\lf Y.S.
+\lv yun-íyuthA
+\dt 23/Feb/2021
+
+\lx yulkhíyA
+\ov
+\oe L
+\mr yútA -khiyA
+\ps vcaus (valency: 3)
+\de to let sb eat smth, have sb eat smth; to feed sb with smth
+\xv Pȟežúta yulkhíye.
+\xe He made him eat some medicine.
+\xv Yulwíčhakhiye.
+\xe She fed them with it.
+\xv Táku wašté kiŋ oyás’iŋ tȟokéya yulkhíyapi.
+\xe They let him be the first to eat all the good things (as an honor).
+\1s yulwákhiye
+\1p yul’úŋkhiyapi
+\lf Y.S.
+\lv yutkhíyA
+\lf A.
+\lv yunkhíyA
+\dt 23/Feb/2021
+
+\lx yulób
+\ov
+\oe L
+\mr
+\ps conv-cont
+\mn yulópA
+
+\lx yulólob
+\ov
+\oe L
+\mr
+\ps conv-cont
+\mn yulólopA
+
+\lx yulólopA
+\ov
+\oe L
+\mr yu- lolópA
+\ps vt-red (valency: 2)
+\de to mash smth up
+\1s blulólope
+\1p uŋyúlolopapi
+\lf cont
+\lv yulólob
+\lf Y.S.
+\lv yudódopA
+\dt 23/Feb/2021
+
+\lx yulópA
+\ov
+\oe L
+\mr yu- -lopA
+\ps vt (valency: 2)
+\de to mash smth up
+\1s blulópe
+\1p uŋyúlopapi
+\lf cont
+\lv yulób
+\lf redup
+\lv yulólopA
+\lf Y.S.
+\lv yudópA
+\dt 23/Feb/2021
+
+\lx yulphíča
+\ov
+\oe L
+\mr yútA -phiča
+\ps vs (valency: 1)
+\de to be edible, good for eating, suitable as food, be advisable for eating
+\xv Ziŋtkála kiŋ hená oyás’iŋ yulphíča kiŋ héčhapi.
+\xe All of those (types of) birds are good for food.
+\xv Táku yulphíča ke éyaš olépi.
+\xe They were looking for anything edible.
+\lf dmod
+\lv yulphíčaya
+\lf Y.S.
+\lv yunphíča
+\dt 23/Feb/2021
+
+\lx yulphíča šni
+\ov
+\oe L
+\mr
+\ps vs (valency: 1)
+\de to be inedible, uneatable, unsavory, unpalatable
+\xv Yulphíča-šniyaŋ lol’íȟ’aŋ.
+\xe His cooking is uneatable.
+\lf dmod
+\lv yulphíčašniyaŋ
+\le being uneatable
+\lf Y.S.
+\lv yunphíča šni
+\dt 24/Feb/2021
+
+\lx yulphíčašniyaŋ
+\ov
+\oe L
+\mr yulphíča šni -ya
+\ps dmod
+\de being inedible or uneatable, unpalatable 
+\lf
+\lv
+
+\lx yulphíčaya
+\ov
+\oe L
+\mr < yútA -phiča
+\ps dmod
+\mn yulphíča
+
+\lx yulší
+\ov
+\oe L
+\mr yútA + ší
+\ps ph
+\de to tell sb to eat smth
+\1s yulwáši
+\1p yul’úŋšipi
+\lf Y.S.
+\lv yunší
+
+\lx yulúpi šni
+\ov
+\oe L
+\ps partic
+\de to be unopened, untouched, still whole, intact (as a fresh bag of tobacco untouched by hands)
+\lf compare
+\lv walúpi šni
+\dt 24/Feb/2021
+
+\lx yulúzahAŋ
+\ov
+\oe L
+\mr yu- lúzahAŋ
+\ps vt (valency: 2)
+\de to make sb/smth swift
+\1s blulúzahe
+\1p uŋyúluzahaŋpi
+\lf Y.S.
+\lv yudúzahAŋ
+\dt 23/Feb/2021
+
+\lx yúlyul
+\ov
+\oe L
+\mr < yútA
+\ps adv
+\de eating smth repeatedly, snacking, eating while doing smth else
+\xv Áta heȟáka kiŋ íyot’iŋst’iŋs pȟeží kiŋ yúlyul hiyáye.
+\xe The elk was filling his mouth with grass as he went grazing. 
+\lf Y.S.
+\lv yúnyun
+
+\lx yul’áya-wayázaŋ
+\ov
+\oe L
+\mr yúta + áyA wayázaŋ
+\ps n
+\de cancer
+\va yul’áya-wičhókhuže
+\lf Y.S.
+\lv yun’áya-wayázaŋ
+
+\lx yumÁ
+\ov
+\oe LYSA
+\mr yu- -mA
+\ps vt (valency: 2)
+\de to sharpen smth by grinding, filing or whetting
+\1s blumé
+\1p uŋyúmapi
+\lf pos
+\lv glumÁ
+\lf dat1
+\lv kiyúmA
+\lf dat2
+\lv kíčiyumA
+\lf vabs
+\lv wayúmA
+\lf loc
+\lv iyúmA, ayúmA
+\dt 23/Feb/2021
+
+\lx yumáhel
+\ov 1
+\oe L
+\mr yu- mahél
+\ps adv (valency: 2)
+\de pulling/drawing smth/sb inside towards oneself, tucking smth in
+\xv yumáhel ičú
+\xe to draw smth in (can imply tucking smth in one's clothes)
+\xv Patȟáŋkal hiyúyiŋ na akhé šna yumáhel ičú.
+\xe He would push it out and then draw it in again.
+\xv Oyáptapi kiŋ yumáhel ičúpi.
+\xe They took the leftovers and put them within (their clothes/blankets).
+\xv "Itȟó, hé wókiksuye bluhá kte," eyíŋ na yumáhel ičú.
+\xe "I think I'll keep that for a souvenir," he said and tucked it away.
+\xv Ičú na á oȟláthe yumáhel ičú.
+\xe She took it and tucked it under her arm.
+\xv Táku k’eyá yumáhel ičúpi.
+\xe Some things pulled him inside (a hole).
+\xv Pȟatkáša kiŋ pȟá na hú kȟó yumáhel glúze.
+\xe The turtle held its head and legs inside (the shell).
+\xv Napé nuŋphíŋ šiná yumáhel ikíkču.
+\xe He hid both of his hands under the blanket.
+\lf abs
+\lv wayúmahel
+\lf Y.
+\lv yumáhed
+\lf S.A.
+\lv yumáhen
+\dt 23/Feb/2021
+
+\lx yumáhetuya
+\ov
+\oe LYS
+\mr yu- mahétuya
+\ps cov
+\de making smth deep or profound
+\lf red
+\lv yumáhelhetuya
+\1s
+\1p
+\lf
+\lv
+
+\lx yumátȟo
+\ov
+\oe LY
+\mr yu- matȟó
+\ps vt (valency: 2)
+\de to enrage sb
+\lt make into a bear
+\xv Líla yumátȟopi.
+\xe They made him very angry.
+\xv Áta mayúmatȟo.
+\xe He really made me angry.
+\1s blumátȟo
+\1p uŋyúmatȟopi
+\lf refl
+\lv iglúmatȟo
+\lf pos
+\lv glumátȟo
+\lf recip
+\lv kičhíyumatȟo
+\lf vabs
+\lv wayúmatȟo
+\lf see
+\lv yamátȟo
+\lf S.
+\lv yumátho
+\dt 23/Feb/2021
+
+\lx yumázaska
+\ov
+\oe LYS
+\mr yu- mázaska
+\ps vt (valency: 2)
+\de to sell smth for gain, make smth available for monetary profit
+\1s blumázaska
+\1p uŋyúmazaskapi
+\lf pos
+\lv glumázaska
+\lf dat2
+\lv kíčiyumazaska
+\lf vabs
+\lv wayúmazaska
+\dt 23/Feb/2021
+
+\lx yumázaska-phiča
+\ov
+\oe L
+\mr
+\ps vs (valency: 1)
+\de to be saleable; marketable, sellable, merchantable, vendible
+\mn
+\1s
+\1p
+\lf dmod
+\lv yumázaska-phičaya
+\lf dmod-neg
+\lv yumázaska-phičašniyaŋ
+\dt 23/Feb/2021
+
+\lx yumázaska-phičašniyaŋ
+\ov
+\oe L
+\ps dmod-neg
+\mn yumázaska-phiča
+
+\lx yumázaska-phičaya
+\ov
+\oe L
+\ps dmod
+\mn yumázaska-phiča
+
+\lx yumímA
+\ov
+\oe LYS
+\mr yu- mimÁ
+\ps vt (valency: 2)
+\de to make smth circular, make smth into a circle
+\1s blumíme
+\1p uŋyúmimapi
+\lf conv
+\lv yumímeya
+\lf redup
+\lv yumímama
+\lf pos
+\lv glumímA
+\lf dat1
+\lv kiyúmimA
+\lf dat2
+\lv kíčiyumimA
+\lf vabs
+\lv wayúmimA
+\dt 23/Feb/2021
+
+\lx yumímama
+\ov
+\oe LYS
+\mr
+\ps redup
+\mn yumímA
+
+\lx yumímemeya
+\ov
+\oe LYS
+\mr
+\ps redup
+\mn yumímeya
+
+\lx yumímeya
+\ov
+\oe LYS
+\mr yumímA -ya
+\ps cov
+\de making smth into a circle
+\va yumímeyela
+\xv Yumímeya yaŋká po.
+\xe Sit round in a circle.
+\xv Yumímeya wičhóthi.
+\xe Their camp formed a circle.
+\xv Yumímeya inážiŋpi.
+\xe They lined up in a circle.
+\lf redup
+\lv yumímemeya
+\lf abs
+\lv wayúmimeya
+
+\lx yumímeya ičázo
+\ov
+\oe LYS
+\mr
+\ps vt (valency: 2)
+\de to mark smth with a circle
+\1s yumímeya iwákazo
+\1p yumímeya uŋkíkazopi
+\lf
+\lv
+\dt 24/Feb/2021
+
+\lx yumímeya kazó
+\ov
+\oe LYS
+\mr
+\ps vi (valency: 2)
+\de to draw a circle
+\1s yumímeya wakázo
+\1p yumímeya uŋkázopi
+\lf loc
+\lv yumímeya ičázo
+\dt 24/Feb/2021
+
+\lx yumná
+\ov
+\oe LYSA
+\mr yu- -mna
+\ps vt (valency: 2)
+\de to rip smth (as a seam by pulling with one's hands)
+\1s blumná
+\1p uŋyúmnapi
+\lf conv
+\lv yumnáyaŋ
+\lf redup
+\lv yumnámna
+\lf pos
+\lv glumná
+\lf dat1
+\lv kiyúmna
+\lf dat2
+\lv kíčiyumna
+\lf vabs
+\lv wayúmna
+\dt 23/Feb/2021
+
+\lx yumnámna
+\ov
+\oe LYS
+\ps vt-red (valency: 2)
+\mn yumná
+\1s blumnámna
+\1p uŋyúmnamnapi
+\dt 23/Feb/2021
+
+\lx yumnáyaŋ
+\ov
+\oe LYS
+\mr
+\ps conv
+\mn yumná
+\lf
+\lv
+
+\lx yumní
+\ov
+\oe LYS
+\mr yu- -mni
+\ps vt (valency: 2)
+\de to turn smth around (as an auger)
+\1s blumní
+\1p uŋyúmnipi
+\lf redup
+\lv yumnímni
+\lf loc
+\lv íčhiyumni
+\dt 23/Feb/2021
+
+\lx yumnímni
+\ov
+\oe LYS
+\mr < yumní
+\ps vt-red (valency: 2)
+\de to turn smth around (as an auger)
+\1s blumnímni
+\1p uŋyúmnimnipi
+\lf conv
+\lv yumnímniyaŋ
+\dt 23/Feb/2021
+
+\lx yumnímniš
+\ov
+\oe LYS
+\ps v-cont
+\mn yumnímnižA
+
+\lx yumnímnišya
+\ov
+\oe LYS
+\mr yumnímnižA -ya
+\ps dmod
+\de curly, curled, making curled
+
+\lx yumnímniyaŋ
+\ov
+\oe LYS
+\mr yumnímni -ya
+\ps conv
+\de turning smth around (as an auger)
+
+\lx yumnímnižA
+\ov
+\oe LYS
+\mr < yumnížA
+\ps vs (valency: 1)
+\sn 1
+\de it is wrinkled (as a hide), ruffled (as hair on a hide), curly, wavy, kinky (as hair)
+\xv pȟehíŋ yumnímnižA
+\xe wavy hair
+\1s mayúmnimniže
+\1p uŋyúmnimnižapi
+\lf A.
+\lv čhičhá
+\ps vt (valency: 2)
+\sn 2
+\de to make smth curled (as hair with a curler or electric iron), to perm smth (as hair)
+\xv Pȟehíŋ míčiyumnimniže.
+\xe She curled my hair.
+\1s blumnímniže
+\1p uŋyúmnimnižapi
+\lf cont
+\lv yumnímniš
+\lf dmod
+\lv yumnímnišya
+\lf pos
+\lv glumnímnižA
+\lf dat1
+\lv kiyúmnimnižA
+\lf dat2
+\lv kíčiyumnimnižA
+\lf vabs
+\lv wayúmnimnižA
+\lf A.
+\lv yučhíčha
+\dt 23/Feb/2021
+
+\lx yumníš
+\ov
+\oe LYS
+\mr < yumnížA
+\ps vin-cont (valency: 1)
+\de being wrinkled (as a hide), ruffled (as hair on a hide), curly, wavy, kinky (as hair)
+\lf
+\lv
+\dt 23/Feb/2021
+
+\lx yumníšya
+\ov
+\oe LYS
+\mr yumnížA -ya
+\ps dmod
+\de being wrinkled (as a hide), ruffled (as hair on a hide), curly, wavy, kinky (as hair)
+
+\lx yumnížA
+\ov
+\oe LYS
+\mr yu- mnižA
+\ps v
+\de it is wrinkled (as a hide), ruffled (as hair on a hide), curly, wavy, kinky (as hair)
+\xv Pȟehíŋ mayúmnimniže.
+\xe My hair is curly.
+\lf cont
+\lv yumníš
+\lf redup
+\lv yumnímnižA
+\lf dmod
+\lv yumníšya
+\dt 23/Feb/2021
+
+\lx yumnúmnuǧA
+\ov
+\oe LYS
+\mr yu- mnumnúǧA
+\ps vt (valency: 2)
+\de to handle smth in one's hands producing noise (such as crackling or crunching or the sound of rustling paper)
+\1s blumnúmnuǧe
+\1p uŋyúmnumnuǧapi
+\lf cont
+\lv yumnúmnuȟ
+\lf conv
+\lv yumnúmnuȟya
+\dt 23/Feb/2021
+
+\lx yumnúmnuȟ
+\ov
+\oe LYS
+\mr
+\ps conv-cont
+\mn yumnúmnuǧA
+
+\lx yumnúmnuȟya
+\ov
+\oe LYS
+\mr
+\ps conv
+\mn yumnúmnuǧA
+
+\lx yunákheiŋyaŋ
+\ov
+\oe LYS
+\mr yu- nakhéiŋyaŋ
+\ps cov
+\de tilting smth/sb, making smth slope or lean
+\lf reduced speech
+\lv yunákheya
+\lf abs
+\lv wayúnakheiŋyaŋ
+
+\lx yunáŋkenuŋs’e
+\ov
+\oe LYS
+\mr
+\ps dmod
+\de for a very long time
+\xv Yunáŋkenuŋs’e waŋkíčhiyaŋke šni uŋk’úŋ kte.
+\xe You and I won't see each other for a very long time.
+
+\lx yunáyekhiyA
+\ov 1
+\oe LY
+\mr yunáyeyA, ki-
+\ps vdat1 (valency: 3)
+\de to share with sb what one obtained, to pass smth received to sb, give to sb what one has
+\xv Wóyute kiŋ yunáyeničhiyiŋ kte ló.
+\xe He will share the food he received with you.
+\xv Pasíkel ophímič’iyiŋ na wóayupte kiŋ lená yunáyečhičhiyiŋ kte.
+\xe I made some research and will pass the answers to you.
+\xv Yunáyemakhiya yo.
+\xe Share with me what you received.
+\xv Mičhúŋwiŋtku waŋ ažúŋtka waŋ yunáyemakhiya čha hé úŋ leháŋhuŋniyaŋ ní waúŋ.
+\xe One of my daughters gave me one of her kidneys and that is why I am still alive today.
+\1s yunáyewakhiye
+\1p yunáyeuŋkhiyapi
+\lf S.
+\lv ?
+\dt 23/Feb/2021
+
+\lx yunáyeyA
+\ov
+\oe LY
+\ps vcaus (valency: 2)
+\de to share smtht that one obtained, to pass on smth received
+\xv Waúŋspewičhakhiyapi na wóableze yunáyeyapi.
+\xe They teach them and (thus) they pass on the knowledge.
+\1s yunáyewaye
+\1p yunáyeuŋyaŋpi
+\lf dat1
+\lv yunáyekhiyA
+\lf S.
+\lv ?
+\dt 23/Feb/2021
+
+\lx yunáyeyakel
+\ov
+\oe L
+\mr yunáyeyA -kel
+\ps conv
+\de sharing/passing smth on
+\lf Y.
+\lv yunáyeyaken
+\lf S.
+\lv ?
+
+\lx yunáyeyakel yekhíyA
+\ov
+\oe L
+\mr < 
+\ps dat2
+\mn yunáyeyakel yeyÁ
+\dt 24/Feb/2021
+
+\lx yunáyeyakel yekíyA
+\ov
+\oe L
+\mr
+\ps vpos (valency: 2)
+\de to pass one's own on, share one's own by passing it on
+\1s yunáyeyakel yewákiye
+\1p yunáyeyakel yeúŋkiyapi
+\dt 24/Feb/2021
+
+\lx yunáyeyakel yeyÁ
+\ov
+\oe L
+\mr
+\ps vt (valency: 2)
+\de to pass on smth received, share smth by passing it on
+\1s yunáyeyakel yewáye
+\1p yunáyeyakel yeúŋyaŋpi
+\lf pos
+\lv yunáyeyakel yekíyA
+\lf dat2
+\lv yunáyeyakel yekhíyA
+\dt 24/Feb/2021
+
+\lx yunážiŋ
+\ov
+\oe LYS
+\mr yu- nážiŋ
+\ps vt (valency: 2)
+\de to pull sb into a standing position
+\1s blunážiŋ
+\1p uŋyúnažiŋpi
+\lf refl
+\lv iglúnažiŋ
+\lf recip
+\lv kičhíyunažiŋ
+\lf abs
+\lv wayúnažiŋ
+\dt 23/Feb/2021
+
+
+\lx yuškíškičA
+\ov
+\oe LYS
+\ps vt-red (valency: 2)
+\mn yuškíčA
+\dt 23/Feb/2021
+
+\lx yuškíškil
+\ov
+\oe LYSA
+\mr
+\ps redup
+\mn yuškíčA
+
+\lx yuškíškitA
+\ov
+\oe LYS
+\mr yu- škitA
+\ps vt (valency: 2)
+\de to make notches / grooves / ruffles in smth, make jagged
+\xv Čhuwígnaka kiŋ yuškíškitapi káǧe.
+\xe She made ruffles on the dress.
+\1s bluškíškite
+\1p uŋyúškiškitapi
+\lf pos
+\lv gluškíškitA
+\lf dat1
+\lv kiyúškiškitA
+\lf dat2
+\lv kíčiyuškiškitA
+\lf vabs
+\lv wayúškiškitA
+\dt 23/Feb/2021
+
+\lx yuškíya
+\ov
+\oe LYS
+\mr yuškí -ya
+\ps conv
+\de ruffling smth, wriniling smth into folds
+
+\lx yuškób
+\ov
+\oe LYSA
+\mr
+\ps vt-cont (valency: 1)
+\mn yuškópA
+\dt 23/Feb/2021
+
+\lx yuškóbya
+\ov
+\oe LYSA
+\mr yuškópA -ya
+\ps conv (valency: 1)
+\de making smth bowed / arched / concave with hands
+\xv Tónačhaŋ yuwášte-hiŋ na yuškóbya éyuštaŋ.
+\xe For some days he was improving it and finishing it by bending it.
+\dt 23/Feb/2021
+
+\lx yuškókpa
+\ov
+\oe LYSA
+\mr yu- škokpá
+\ps vt (valency: 2)
+\de to hollow smth out with one's hands, to make concave or hollow
+\xv Očhéthi kta makȟá kiŋ haákabyela yuškókpa.
+\xe He made a shallow hollow in the ground for the firepit.
+\1s bluškókpa
+\1p uŋyúškokpapi
+\lf pos
+\lv gluškókpa
+\lf dat1
+\lv kiyúškokpa
+\lf dat2
+\lv kíčiyuškokpa
+\lf vabs
+\lv wayúškokpa
+\dt 23/Feb/2021
+
+\lx yuškópA
+\ov
+\oe LYSA
+\mr yu- škópA
+\ps vt (valency: 2)
+\de to make smth bowed / arched / concave with hands, make smth bent / curved in a gentle line
+\1s bluškópe
+\1p uŋyúškopapi
+\lf cont
+\lv yuškób
+\lf conv
+\lv yuškóbya
+\lf redup
+\lv yuškóškopA
+\lf pos
+\lv gluškópA
+\lf dat1
+\lv kiyúškopA
+\lf dat2
+\lv kíčiyuškopA
+\lf vabs
+\lv wayúškopA
+\dt 23/Feb/2021
+
+\lx yuškóškopA
+\ov
+\oe LYSA
+\ps vt-red (valency: 2)
+\mn yuškópA
+\dt 23/Feb/2021
+
+\lx yuškú
+\ov
+\oe LYSY
+\mr yu- -šku
+\ps vt (valency: 2)
+\de to shell/scrape smth off with one's hands/by pulling motion (ref. to small hard objects)
+\1s bluškú
+\1p uŋyúškupi
+\lf redup
+\lv yuškúšku
+\dt 23/Feb/2021
+
+\lx yuškúšku
+\ov
+\oe LYSY
+\mr < yuškú
+\ps vt-red (valency: 2)
+\mn yaškú
+\dt 23/Feb/2021
+
+\lx yušlá
+\ov 1
+\oe L
+\mr yu- šlá
+\ps vt (valency: 2)
+\sn 1
+\de to make smth bare by pulling, to pull out, to pluck (as weeds, hair, feathers, chicken), to weed smth; to shear (as sheep)
+\xv Pȟežíȟota yušlášla na owíŋštȟuŋ.
+\xe He was pulling up quantities of sage and making a bed of it.
+\xv Šináhiŋšma kiŋ yušlápi.
+\xe They removed the hair from the robe.
+\xv Šiyóla k’uŋ hená wičháyušla.
+\xe He plucked the prairie chickens.
+\xv Makȟá kiŋ ok’ósya pheží kiŋ oyás’iŋ yušlápi.
+\xe They made a smooth spot on the ground plucking all the grass off.
+\sn 2
+\de to worry sb to death (usually by making them wait)
+\ue this idiom is based on the idea that plucking sb's hair or feathers hurts and it is deliberate
+\1s blušlá
+\1p uŋyúšlapi
+\lf redup
+\lv yušlášla
+\lf pos
+\lv glušlá
+\lf dat1
+\lv kiyúšla
+\lf dat2
+\lv kíčiyušla
+\lf recip
+\lv kičhíyušla
+\lf vt-recip
+\lv akíčhiyušla
+\lf vabs
+\lv wayúšla
+\lf incor
+\lv maȟyúšla
+\lf Y.S.
+\lv yušdá
+\dt 23/Feb/2021
+
+\lx yušlášla
+\ov
+\oe L
+\mr < yušlá
+\ps vt-red (valency: 2)
+\sn 1
+\de to make bare by pulling, to pull out, to pluck, to weed (in several places or large quantities)
+\mn yušlá
+\1s blušlášla
+\1p uŋyúšlašlapi
+\sn 2
+\de to rattle smth (only in ref. to deer hoof rattle)
+\xv Tȟašákȟa yušlášla.
+\xe He rattled with the deer hooves.
+\lf syn
+\lv kašlášla
+\lf Y.S.
+\lv yušdášda
+\dt 23/Feb/2021
+
+\lx yušléčA
+\ov
+\oe L
+\mr yu- -šléčA
+\ps vt (valency: 2)
+\de to split smth heavy apart by pulling with one's hand (as a piece of wood), to tear smth off (as a board)
+\1s blušléče
+\1p uŋyúšlečapi
+\lf cont
+\lv yušlél
+\lf redup
+\lv yušléšlečA
+\lf pos
+\lv glušléčA
+\lf dat1
+\lv kiyúšlečA
+\lf dat2
+\lv kíčiyušlečA
+\lf vabs
+\lv wayúšlečA
+\lf Y.S.
+\lv yušdéčA
+\dt 23/Feb/2021
+
+\lx yušlél
+\ov
+\oe L
+\mr
+\ps conv-cont
+\mn yušléčA
+
+\lx yušléšlečA
+\ov
+\oe L
+\mr
+\ps redup
+\mn yušléčA
+
+\lx yušlí
+\ov
+\oe L
+\mr yu -šlí
+\ps vt (valency: 2)
+\de to squeeze smth out with one's hands (of a thick semi-liquid matter, such as gum or pus)
+\ue infrequent, see |fv{yuslí}
+\1s blušlí
+\1p uŋyúšlipi
+\lf conv
+\lv yušlíya
+\lf redup
+\lv yušlíšli
+\lf pos
+\lv glušlí
+\lf dat1
+\lv kiyúšli
+\lf dat2
+\lv kíčiyušli
+\lf vabs
+\lv wayúšli
+\lf vdit
+\lv oyúšli, ayúšli
+\lf Y.S.
+\lv yušdí
+\dt 23/Feb/2021
+
+\lx yušlíšli
+\ov
+\oe L
+\mr
+\ps redup
+\mn yušlí
+
+\lx yušlíya
+\ov
+\oe L
+\mr yušlí -ya
+\ps conv
+\de squeezing smth out with one's hands (of a thick semi-liquid matter)
+\lf Y.S.
+\lv yušdíya
+
+\lx yušlóg
+\ov
+\oe L
+\mr < yušlókA
+\ps vt-cont (valency: 1)
+\de taking smth off, pulling off (as a piece of clothing); pulling out (as a cork), taking out (as smth in a case or pocket)
+\xv yušlóg khí
+\xe to snatch smth away from sb;
+\xv yušlóg ičú
+\xe to jerk smth out.
+\lf Y.S.
+\lv yušdóg
+\lf A
+\lv yušnók
+\dt 23/Feb/2021
+
+\lx yušlóg ičú
+\ov
+\oe L
+\mr
+\ps vt (valency: 2)
+\de to jerk smth out (as a hair from the head)
+\xv Wapȟégnake k’uŋ hé yušlóg ičú.
+\xe She jerked out the hair ornament.
+\1s yušlóg iwáču
+\1p yušlóg uŋkíčupi
+\lf Y.S.
+\lv yušdóg ičú
+\dt 24/Feb/2021
+
+\lx yušlóg khí
+\ov
+\oe L
+\ps vdit (valency: 3)
+\de to snatch smth away from sb
+\xv Šiná kiŋ yušlóg khí.
+\xe He snatched the blanket from her.
+\1s yušlóg wakhí
+\1p yušlóg uŋkhípi
+\lf Y.S.
+\lv yušdóg khí
+\dt 24/Feb/2021
+
+\lx yušlógya
+\ov
+\oe L
+\mr yušlókA -ya
+\ps conv
+\de pulling smth off (a piece of clothing); pulling out (as a cork), taking out (as smth in a case or pocket)
+\lf Y.S.
+\lv yušdógya
+\lf A.
+\lv yušnókya
+
+\lx yušlókA
+\ov 3
+\oe L
+\mr yu- -šlokA
+\ps vt (valency: 2)
+\de to take smth off, pull smth off (a clothing item); pull out (as a cork), take out (as smth in a case or pocket)
+\xv Háŋpa kiŋ yušlóke.
+\xe He pulled off the moccasins.
+\xv Wapȟáha kiŋ hé yušlóke.
+\xe He took off the warbonnet.
+\xv Míla kiŋ blušlóke.
+\xe I took out the knife.
+\xv Íyoštaŋ yušlókA.
+\xe To uncork a bottle.
+\1s blušlóke
+\1p uŋyúšlokapi
+\lf cont
+\lv yušlóg
+\lf conv
+\lv yušlógya
+\lf redup
+\lv yušlóškokA, yušlóšlog
+\lf pos
+\lv glušlókA
+\lf refl
+\lv --
+\lf dat1
+\lv kiyúšlokA
+\lf dat2
+\lv kíčiyušlokA
+\lf vdat2-pos
+\lv kíčiglušlokA
+\lf vt-recip
+\lv akíčhiyušlokA
+\lf vabs
+\lv wayúšlokA
+\lf Y.S.
+\lv yušdókA
+\lf A.
+\lv yušnókA
+\dt 23/Feb/2021
+
+\lx yušlóškokA
+\ov
+\oe L
+\mr
+\ps redup
+\mn yušlókA
+
+\lx yušlóšlog
+\ov
+\oe L
+\mr
+\ps redup
+\mn yušlókA
+
+\lx yušlóšlokA
+\ov
+\oe L
+\ps vt-red (valency: 2)
+\mn yušlókA
+\lf Y.S.
+\lv yušdóšdokA
+\dt 23/Feb/2021
+
+\lx yušlúl
+\ov
+\oe L
+\mr < yušlútA
+\ps vt-cont (valency: 1)
+\de
+\mn yušlútA
+\lf Y.S.
+\lv yušdún
+\dt 23/Feb/2021
+
+\lx yušlúšlul
+\ov
+\oe L
+\mr
+\ps redup
+\mn yušlútA
+
+\lx yušlúšlulya
+\ov
+\oe L
+\mr
+\ps conv
+\mn yušlúšlutA
+
+\lx yušlúšlutA
+\ov
+\oe L
+\mr < yušlútA
+\ps vt-red (valency: 2)
+\de to make smth smooth or slippery
+\xv Hokšíla kiŋ wahíŋkpe kiŋ waŋípame waŋ úŋ yušlúšlute.
+\xe The boy smoothed down his arrows with a stone.
+\1s blušlúšlute
+\1p uŋyúšlušlutapi
+\lf conv
+\lv yušlúšlulya
+\lf abs
+\lv wayúšlušlutA
+\lf Y.S.
+\lv yušdúšdutA
+\dt 23/Feb/2021
+
+\lx yušlútA
+\ov
+\oe L
+\mr yu- šlútA
+\ps vt (valency: 2)
+\de to draw smth out
+\xv Thíŋpsiŋla waŋ yušlúte.
+\xe She drew a turnip out of the ground.
+\1s blušlúte
+\1p uŋyúšlutapi
+\lf cont
+\lv yušlúl
+\lf redup
+\lv yušlúšlutA, yušlúšlul
+\lf pos
+\lv glušlútA
+\lf dat1
+\lv kiyúšlutA
+\lf dat2
+\lv kíčiyušlutA
+\lf vabs
+\lv wayúšlutA
+\lf Y.S.
+\lv yušdútA
+\lf A.
+\lv yušnútA
+\dt 23/Feb/2021
+
+\lx yušmÁ
+\ov
+\oe LYS
+\mr yu- šmÁ
+\ps vt (valency: 2)
+\de to make smth deep, to deepen smth
+\1s blušmé
+\1p uŋyúšmapi
+\lf pos
+\lv glušmÁ
+\lf dat1
+\lv kiyúšmA
+\lf dat2
+\lv kíčiyušmA
+\lf vabs
+\lv wayúšmA
+\dt 23/Feb/2021
+
+\lx yušná
+\ov 2
+\oe LYSA
+\mr yu- -šna
+\ps vt (valency: 2)
+\sn 1
+\de to drop smth, let fall
+\xv Wípȟe kiŋ yušná po.
+\xe Drop the weapons.
+\xv Makȟóȟloka waŋ él blušná.
+\xe I dropped it into a hole in the ground.
+\xv Mayálušna kte.
+\xe You will drop me.
+\sn 2
+\de to miss smth
+\xv Tuwá čhaŋšká šákpe wičháyawa kéyapi k’éyaš núŋm wičháblušna.
+\xe Someone counted six redtailed hawks but I missed two of them (I only counted four).
+\xv Haŋpínaȟme kiŋ yušná.
+\xe He missed the hider (in the moccasin game).
+\xv yušná šni
+\xe without failing, accurately
+\1s blušná
+\1p uŋyúšnapi
+\lf redup
+\lv yušnášna
+\lf pos
+\lv glušná
+\lf dat1
+\lv kiyúšna
+\lf vabs
+\lv wayúšna, wóšna
+\lf loc
+\lv ayúšna, oyúšna
+\lf directional
+\lv ahíyušna, éyušna, aglíyušna, akhíyušna
+\lf see also
+\lv waíglušna, waíč’iglušna, wakíyušna, wóyušnašnapi
+\dt 23/Feb/2021
+
+\lx yušnápi
+\ov
+\oe LYS
+\mr yušná -pi
+\ps partic
+\de it is dropped, it is missed out
+
+\lx yušnášna
+\ov
+\oe LYS
+\mr < yušná
+\ps vt-redudp (valency: 2)
+\de to drop smth repeatedly
+\1s blušnášna
+\1p uŋyúšnašnapi
+\dt 23/Feb/2021
+
+\lx yušná šni
+\ov
+\oe LYS
+\ps cov
+\de accurately, precisely, exactly, properly, without failing
+\xv Átaya yušná šni taŋyéȟčiŋ ečhúŋpi.
+\xe They did it very well without failing.
+\lf variant
+\lv yušnášniyaŋ
+\dt 24/Feb/2021
+
+\lx yušnášniyaŋ
+\ov
+\oe LYS
+\mr yušná -šniyaŋ
+\ps conv
+\de doing smth accurately, without making a mistake
+
+\lx yušóšA
+\ov
+\oe LYSA
+\mr yu- šošÁ
+\ps vt (valency: 2)
+\de to stir smth up and make turbid with one's hands, to roil, foul (as water)
+\1s blušóše
+\1p uŋyúšošapi
+\lf pos
+\lv glušóšA
+\lf dat1
+\lv kiyúšošA
+\lf dat2
+\lv kíčiyušošA
+\lf vt-recip
+\lv akíčhiyušošA
+\lf vabs
+\lv wayúšošA
+\dt 23/Feb/2021
+
+\lx yušpÁ
+\ov
+\oe LYS
+\mr yu- -špA
+\ps vt (valency: 2)
+\sn 1
+\de to break off a piece of smth with one's hands, break and divide
+\xv Aǧúyapi yušpášpa wičhák’u.
+\xe He broke the bread to pieces and gave one to each.
+\xv tópakiya yušpÁ
+\xe to break smth into four quarters
+\xv tópakiya yušpápi waŋží
+\xe one quarter
+\sn 2
+\de to cut off a piece using scissors or a knife
+\xv Tȟáȟča-há kiŋ čísčiyela yušpápi.
+\xe They cut the buckskin into small pieces.
+\xv Tȟaló kiŋ haŋké čík’ala yušpá ičú.
+\xe He cut off and took a small piece of the meat.
+\1s blušpé
+\1p uŋyúšpapi
+\lf redup
+\lv yušpášpa
+\lf refl
+\lv iglúšpA
+\lf pos
+\lv glušpÁ
+\lf dat1
+\lv kiyúšpA
+\lf dat2
+\lv kíčiyušpA
+\lf vabs
+\lv wayúšpA
+\lf los
+\lv khiyúšpA, aíglušpA, akíčhiyušpA
+\dt 23/Feb/2021
+
+\lx yušpášpa
+\ov
+\oe LYS
+\mr < yušpÁ
+\ps vt-red (valency: 2)
+\de to break off pieces of smth with one's hands, break and divide
+\1s blušpášpa
+\1p uŋyúšpašpapi
+\lf conv
+\lv yušpášpaya
+\dt 23/Feb/2021
+
+\lx yušpášpa wawíyopȟeyA
+\ov
+\oe LY
+\mr
+\ps vabs
+\mn yušpášpa wíyopȟeyA
+\dt 24/Feb/2021
+
+\lx yušpášpa wíyopȟeyA
+\ov
+\oe LY
+\ps vcaus (valency: 2)
+\de to retail smth, sell smth retail
+\1s yušpášpa wíyopȟewaye
+\1p yušpášpa wíyopȟeuŋyaŋpi
+\lf vabs
+\lv yušpášpa wawíyopȟeyA
+\le to sell things
+\lf S.
+\lv yušpášpa wíyopheyA
+\dt 24/Feb/2021
+
+\lx yušpášpaya
+\ov
+\oe LYS
+\mr yušpášpa -ya
+\ps conv
+\de in fractions, in separate pieces, in detached groups
+\xv Lakȟóta kiŋ tuktéktel yušpášpaya wičhóthi háŋtaŋhaŋ oyáte kiŋ slolkíčhiyapi.
+\xe When Lakotas lived in separate camps they (still) knew each other.
+
+\lx yušpí
+\ov 3
+\oe LYSA
+\mr yu- -špi
+\ps vt (valency: 2)
+\de to pick or gather smth (only in ref. to small objects, usually berries or other fruits)
+\xv Blokétu háŋtaŋhaŋš čhaŋpȟá yušpípi na kaškípi na pusyápi.
+\xe In summer they would pick chokecherries, pounded and dried them.
+\1s blušpí
+\1p uŋyúšpipi
+\lf redup
+\lv yušpíšpi
+\lf refl
+\lv iglúšpi
+\lf dat2
+\lv kíčiyušpi
+\lf vabs
+\lv wayúšpi, wóšpi
+\lf loc
+\lv oyúšpi, oyúšpi wašté, oyúšpi šíčA
+\dt 23/Feb/2021
+
+\lx yušpíšpi
+\ov
+\oe LYS
+\ps vt-red (valency: 3)
+\mn yušpí
+\de
+\dt 23/Feb/2021
+
+\lx yušpú
+\ov 2
+\oe LYSA
+\mr yu- -špu
+\ps vt (valency: 2)
+\de to pull a piece off smth, to pick smth off with one's hand (of things adhering tightly); unbutton, unhook, disconnect
+\xv Tuwá tókhel waštélaka héči yušpúpi.
+\xe Everybody pulls off whatever he likes.
+\xv Khéya kiŋ čhehúpa waš’áka čhaŋkhé yušpúpi okíhipi šni.
+\xe The turtle had a strong jaw so they could not pull it off (his hand).
+\xv Íyoštaŋ yušpú.
+\xe To uncap a bottle.
+\1s blušpú
+\1p uŋyúšpupi
+\lf redup
+\lv yušpúšpu
+\lf pos
+\lv glušpú
+\lf refl
+\lv iglúšpu
+\lf dat1
+\lv kiyúšpu
+\lf dat2
+\lv kíčiyušpu
+\lf vabs
+\lv wayúšpu
+\lf loc
+\lv ayúšpu, iyúšpu, oyúšpu
+\dt 23/Feb/2021
+
+\lx yušpúla óta
+\ov
+\oe L
+\ps n
+\de pigweed (Amaranthus retroflexus)
+\lf Y.S.
+\lv ?
+\dt 24/Feb/2021
+
+\lx yušpú-phiča
+\ov
+\oe LYS
+\mr
+\ps vs (valency: 1)
+\de it is detachable
+\mn
+\1s
+\1p
+\lf dmod
+\lv yušpú-phičaya
+\dt 23/Feb/2021
+
+\lx yušpú-phiča šni
+\ov
+\oe LYS
+\mr
+\ps vs (valency: 1)
+\de to be non-detachable, undetacheable
+\mn
+\1s
+\1p
+\lf dmod
+\lv yušpú-phičašniyaŋ
+\dt 24/Feb/2021
+
+\lx yušpú-phičašniyaŋ
+\ov
+\oe LYS
+\ps dmod
+\mn yušpú-phiča šni
+
+\lx yušpú-phičaya
+\ov
+\oe LYS
+\ps dmod
+\mn yušpú-phiča
+
+\lx yušpúšpu
+\ov 1
+\oe LYSA
+\mr < yušpú
+\ps vt-red (valency: 2)
+\sn 1
+\de to pull smth into small pieces with one's hand; to crumble smth with one's hand; pick off with one's hand (of things adhering tightly); unbutton, unhook
+\sn 2
+\de to cash smth (an amount of money), to break down a bill or check (into coins or smaller bills), to turn into change
+\xv Yušpúšpupi wéčhu kte.
+\xe I will give her back her change.
+\1s blušpúšpu
+\1p uŋyúšpušpupi
+\lf pos
+\lv glušpúšpu
+\lf dat1
+\lv kiyúšpušpu
+\lf dat2
+\lv kíčiyušpušpu
+\lf A.
+\lv íŋčhiyopheyapi
+\dt 23/Feb/2021
+
+\lx yušpúšpupi
+\ov
+\oe LYS
+\mr yušpúšpu -pi
+\ps n
+\sn 1
+\de change (money), coins
+\xv Yušpúšpupi kiŋ míčhu šni.
+\xe He didn't give me back the change.
+\ps vt (valency: 2)
+\sn 2
+\de 3p of |fv{yušpúšpu}
+\dt 23/Feb/2021
+
+\lx yuštáŋ
+\ov 4
+\oe LYSA
+\ps vt (valency: 2)
+\sn 1
+\de to finish smth, to perfect, to complete
+\ue if a verb precedes it is in 3s and contracted when possible
+\xv Heháŋyaŋ bluštáŋ s’eléčheča.
+\xe I think that is where I finish it.
+\xv Tóhaŋni yuštáŋpi kte šni.
+\xe They will never finish it.
+\xv Owá bluštáŋ.
+\xe I have finished writing it.
+\xv Kaskú yuštáŋpi
+\xe They finished peeling it off.
+\xv Káǧapi na yuštáŋpi.
+\xe They finished making it.
+\xv Wóhaŋ bluštáŋ.
+\xe I finished cooking.
+\xv Wasé wičhákičičuŋpi na wičháyuštaŋpi k’uŋháŋ, iyúha yunážiŋwičhakhiyapi.
+\xe They painted them with red clay paint, and when that was done, they were raised to their feet.
+\sn 2
+\de to accomplish or achieve smth
+\xv Táku óta luštáŋ načhéče.
+\xe It seems that you accomplished a lot of things.
+\xv Táku waŋ bluštáŋ éyaš hená úŋ miglátaŋ wačhíŋ šni.
+\xe I did accomplish something but I do not want to brag about those things.
+\sn 3
+\de to settle smth (as a question in a meeting); to decree; to arrange; to agree to smth, decide, conclude, plan; to appoint
+\xv Wakíčhuŋza kiŋ mníčiyapi na kákhel yuštáŋpi.
+\xe The chiefs had a council and that is what they decided upon.
+\xv Hakákta kiŋ hé hiŋgnáyiŋ kta kéya yuštáŋpi.
+\xe They decided that the youngest one would marry him.
+\xv Wičháša núm wičháyuštaŋpi.
+\xe They appointed two men.
+\1s bluštáŋ
+\1p uŋyúštaŋpi
+\lf pos
+\lv gluštáŋ
+\lf refl
+\lv iglúštaŋ
+\lf dat1
+\lv kiyúštaŋ
+\lf dat2
+\lv kíčiyuštaŋ
+\lf vabs
+\lv wayúštaŋ, wóštaŋ, wakíčiyuštaŋ
+\lf directional
+\lv ahíyuštaŋ, éyuštaŋ
+\lf loc
+\lv ayúštaŋ
+\dt 23/Feb/2021
+
+\lx yuštášta
+\ov
+\oe LYS
+\mr yu- štaštá
+\ps vt (valency: 2)
+\de to soak smth (as a hide before tanning)
+\xv Tkápi na iyúŋtȟuŋpi na yuštáštapi na kpaŋyáŋpi.
+\xe They removed the hair, and then greased and soaked it, and then they tanned it.
+\1s bluštášta
+\1p uŋyúštaštapi
+\lf pos
+\lv gluštášta
+\lf dat1
+\lv kiyúštašta
+\lf dat2
+\lv kíčiyuštašta
+\lf vabs
+\lv wayúštašta
+\lf incor
+\lv tȟahá-yuštášta
+\dt 23/Feb/2021
+
+\lx yuštíŋčakA
+\ov
+\oe LYS
+\mr
+\ps vt (valency: 2)
+\de to have low expectations of smth/sb
+\1s bluštíŋčake
+\1p uŋyúštiŋčakapi
+\dt 23/Feb/2021
+
+\lx yušúŋuŋpa kaȟyá
+\ov
+\oe LYS
+\mr
+\ps conv
+\de making the form of "V", making a "V" shape
+\lf
+\lv
+\dt 24/Feb/2021
+
+\lx yuš’é
+\ov
+\oe LYS
+\mr yu- š’é
+\ps vt (valency: 2)
+\de to cause smth liquid to drip or fall in drops (as a medicine)
+\1s bluš’é
+\1p uŋyúš’epi
+\lf redup
+\lv yuš’éš’e
+\lf vabs
+\lv wayúš’e
+\lf loc
+\lv oyúš’e, ayúš’e
+\lf A.
+\lv šmuyÁ
+\dt 23/Feb/2021
+
+\lx yuš’éš’e
+\ov
+\oe LYS
+\mr < yuš’é
+\ps vt-red (valency: 2)
+\sn 1
+\de to cause smth liquid to fall in drops (as a medicine)
+\1s bluš’éš’e
+\1p uŋyúš’eš’epi
+\lf pos 
+\lv gluš’éš’e
+\lf dat1
+\lv kiyúš’eš’e
+\lf dat2
+\lv kíčiyuš’eš’e
+\lf vt-recip
+\lv akíčhiyuš’eš’e
+\lf vabs
+\lv wayúš’eš’e
+\lf loc
+\lv ayúš’eš’e
+\ps v
+\sn 2
+\de it drips or dribbles (as a faucet, blood from a wound)
+\xv Wé yuš’éš’e íŋyaŋke.
+\xe He ran dripping blood.
+\dt 23/Feb/2021
+
+\lx yuš’íŋš’iŋ
+\ov 1
+\oe LYSA
+\mr < yu- š’íŋ
+\ps vt (valency: 2)
+\de to tickle sb (with one's hands)
+\xv Yuš’íŋš’iŋ-t’eyé s’a.
+\xe He often tickles him nearly to death.
+\xv Amáyuštaŋ ye. Mayúš’iŋš’iŋ šni ye.
+\xe Leave me alone. Don't tickle me.
+\xv Yuš’íŋš’iŋp s’e iȟát’e.
+\xe He laughed as if someone tickled him.
+\1s bluš’íŋš’iŋ
+\1p uŋyúš’iŋš’iŋpi
+\lf pos
+\lv gluš’íŋš’iŋ
+\lf refl
+\lv iglúš’iŋš’iŋ
+\lf recip
+\lv kičhíyuš’iŋš’iŋ
+\lf vabs
+\lv wayúš’iŋš’iŋ
+\dt 23/Feb/2021
+
+\lx yuš’íŋš’iŋpi s’e
+\ov
+\oe LYS
+\mr
+\ps dmod
+\de being over-enthusiastic, having a wiggling walk
+\lt like being tickled
+\dt 24/Feb/2021
+
+\lx yuš’íŋyayA
+\ov 1
+\oe LYS
+\ps vs (valency: 1)
+\de to be frightened; be shocked or surprised, startled, astonished
+\xv Hé wáŋčala líla ȟčiŋ mayúš’iŋyaye.
+\xe That was only once that I had that great a scare.
+\xv Sáŋm iyótaŋ niyúš’iyayiŋ kte ló.
+\xe You will be surprised even more.
+\xv Niyúš’iŋyaye kiló.
+\xe Do not become startled.
+\xv Tákuwe uŋyúš’iŋyayapi kta he?
+\xe Why should we be startled?
+\1s mayúš’iŋyaye
+\1p uŋyúš’iŋyayapi
+\3p yuš’íŋyayapi / wičháyuš’iŋyaye
+\lf see
+\lv iyúš’iŋyaya
+\le perhaps more common now
+\lf see
+\lv iglúš’iŋyayA, wičháyuš’iŋyaye s’e
+\lf see
+\lv wičháyuš’iŋyaye s’e
+\le in a frightening or shocking way
+\dt 23/Feb/2021
+
+\lx yuš’íŋyeič’iyA
+\ov
+\oe LYS
+\mr yuš’íŋyeyA, ič’i-
+\ps vrefl (valency: 1)
+\de to surprise oneself, to startle oneself
+\xv Iyé kayéš yuš’íŋyeič’iye.
+\xe She surprised even herself.
+\1s yuš’íŋyemič’iye
+\1p yuš’íŋyeuŋkič’iyapi
+\dt 23/Feb/2021
+
+\lx yuš’íŋyekhiyA
+\ov
+\oe LYS
+\mr yuš’íŋyeyA, ki-
+\ps vdat1 (valency: 3)
+\de to surprise sb belonging to sb
+\1s yuš’íŋyewakhiye
+\1p yuš’íŋyeuŋkhiyapi
+\dt 23/Feb/2021
+
+\lx yuš’íŋyekičhiyA
+\ov
+\oe LYS
+\mr
+\ps recip
+\mn yuš’íŋyeyA
+
+\lx yuš’íŋyekiyA
+\ov
+\oe LYS
+\mr yuš’íŋyeyA, ki-
+\ps vpos (valency: 2)
+\de to surprise one's own, frighten, startle, scare, terrify, astonish, shock
+\1s yuš’íŋyewakiye
+\1p yuš’íŋyeuŋkiyapi
+\lf
+\lv
+\dt 23/Feb/2021
+
+\lx yuš’íŋyeyA
+\ov 3
+\oe LYS
+\ps vcaus (valency: 2)
+\de to surprise sb, frighten, startle, scare, terrify, astonish, shock
+\xv Itȟó yuš’íŋyewayiŋ kte.
+\xe Let me scare him.
+\xv Yuš’íŋyemayaye.
+\xe You startled me.
+\xv Táku waŋ yuš’íŋyewičhaye.
+\xe Something startled them.
+\xv Obláka yuŋkȟáŋ yuš’íŋyewičhawaye.
+\xe I frightened them with what I said.
+\xv Wakíŋyaŋ hotȟúŋpi nawáȟ’uŋ na yuš’íŋyemayaŋpi.
+\xe I was frightened when I heard the thunder.
+\1s yuš’íŋyewaye
+\1p yuš’íŋyeuŋyaŋpi
+\lf pos
+\lv yuš’íŋyekiyA
+\lf dat1
+\lv yuš’íŋyekhiyA
+\lf recip
+\lv yuš’íŋyekičhiyA
+\lf refl
+\lv yuš’íŋyeič’iyA
+\lf vabs
+\lv wayúš’iŋyeyA, wóš’iŋyeyA
+\lf n
+\lv wóyuš’iŋyeye
+\dt 23/Feb/2021
+
+\lx yútA
+\ov 4
+\oe LYSA
+\ps vt (valency: 2)
+\de to be eating smth
+\xv Táku yáta he?
+\xe What did you eat?
+\xv Tȟaspáŋ waŋ wáte.
+\xe I ate an apple.
+\xv Táku uŋyútiŋ kta he?
+\xe What shall we eat (you and I)?
+\xv Spayóla wóyute etáŋ uŋyútiŋ kte.
+\xe Let's eat some Mexican food.
+\xv Omníča yúl awášteyalaka he?
+\xe Do you like to eat beans?
+\xv Šúŋka kiŋ tȟaló tákuni yúte šni.
+\xe The dog didn't eat any meat.
+\xv Toháŋl mat’é kiŋháŋ, makȟá kiŋ mayútiŋ kte.
+\xe When I die the earth will eat me.
+\xv Mayálutiŋ kta he?
+\xe Are you going to eat me?
+\xv Táku yáta yačhíŋ he?
+\xe What do you want to eat?
+\1s wáte
+\2s yáte
+\1p uŋyútapi |fl{(reduced speech:} úŋtapi|fl{)}
+\lf cont
+\lv yúl
+\lf cont-redup
+\lv yúlyul
+\lf pos
+\lv glútA
+\lf dat1
+\lv kiyútA
+\lf dat2
+\lv kíčiyutA
+\lf recip
+\lv kičhíyutA
+\lf vabs
+\lv wótA
+\lf caus
+\lv yulkhíyA
+\lf conv
+\lv yútešniyaŋ
+\le not eating smth
+\lf directional
+\lv ahíyutA, éyutA, aglíyutA, akhíyutA
+\lf see also
+\lv yulší, yulphíča, oyúl
+\lf n
+\lv wóyute
+\lf A.
+\lv yútA |fl{(1s:} mnúte|fl{), (2s:} núte|fl{)}
+\dt 23/Feb/2021
+
+\lx yutágnišni
+\ov
+\oe LY
+\ps vt (valency: 2)
+\mn yutákunišni
+\lf Y.S.
+\lv -
+\dt 23/Feb/2021
+
+\lx yutákukA
+\ov
+\oe LYS
+\mr yu- táku -kA
+\ps vt (valency: 2)
+\de to make smth/sb into something, to make smth into a useful/good thing
+\xv Tákunišni éyaš škáŋ na yutákuke.
+\xe It was nothing but he made something out of it.
+\xv Matágni šni éyaš mayútakuke.
+\xe I was nothing but he made me into something (made me a good person).
+\xv Hé yaŋká-haŋ čha ičú na yutákuke.
+\xe It was sitting there so he took it and made it useful.
+\1s blutákuke
+\1p uŋyútakukapi
+\lf pos
+\lv glutákukA
+\lf dat1
+\lv kiyútakukA
+\lf dat2
+\lv kíčiyutakukA
+\lf vabs
+\lv wayútakukA
+\dt 23/Feb/2021
+
+\lx yutákunišni
+\ov 3
+\oe L
+\mr yu- tákuni šni
+\ps vt (valency: 2)
+\de to reduce smth to nothing, destroy smth, waste
+\va |fl{reduced speech} yutágnišni
+\xv Oyás’iŋ yutákunipišni.
+\xe They destroyed everything.
+\xv Wašíču kiŋ makȟá kiŋ átaya ičú aúpe ló, eyápi úŋ héčhel áyapi na Lakȟóta-oyáte kiŋ átaya yutákunipi kte šni.
+\xe The whites were grabbing up the land bit by bit, and by so continuing they would reduce the Lakota nation to nothing.
+\xv Blutákuni kte šni šni.
+\xe I won't destroy it.
+\1s blutákunišni
+\1p uŋyútakunipišni
+\lf conv
+\lv yutákunišniyaŋ
+\lf pos
+\lv glutákunišni
+\lf refl
+\lv iglútakunišni, ič’íglutakunišni
+\lf dat1
+\lv kiyútakunišni
+\lf dat2
+\lv kíčiyutakunišni
+\lf vdat2-pos
+\lv kíčiglutakunišni
+\lf recip
+\lv kičhíyutakunišni
+\lf vt-recip
+\lv akíčhiyutakunišni
+\lf vabs
+\lv wayútakunišni
+\lf n
+\lv wóyutakunišni
+\lf reduced speech
+\lv yutágnišni
+\lf syn
+\lv yuwáničA
+\lf Y.Si.A.
+\lv yutákunašni
+\lf Sa.
+\lv yutákudašni
+\dt 23/Feb/2021
+
+\lx yutákunišniyaŋ
+\ov
+\oe L
+\mr yutákunišni -yaŋ
+\ps conv (valency: 1)
+\de reducing smth to nothing, destroying smth, wasting
+\lf Y.Si.
+\lv yutákunašniyaŋ
+\lf Sa.
+\lv yutákudašniyaŋ
+\dt 23/Feb/2021
+
+\lx yutáŋ
+\ov
+\oe LYS
+\mr
+\ps vt (valency: 2)
+\de to pull smth (i.e. arrow), cock smth (i.e. gun)
+\1s blutáŋ
+\1p uŋyútaŋpi
+\lf vrefl
+\lv aíglutaŋ
+\lf vdat1
+\lv kiyútaŋ
+\lf vdat2
+\lv kíčiyutaŋ
+\lf vt-recip
+\lv akíčhiyutaŋ
+\dt 23/Feb/2021
+
+\lx yutáŋyaŋkel
+\ov
+\oe L
+\mr yu- taŋyáŋ -kel
+\ps conv
+\de in earnest, correctly; seriously, decently, ceremoniously, with attention to proper protocol
+\xv Wičhóȟ’aŋ kiŋ yutáŋyaŋkel ečhúŋk’uŋpi kte héčha.
+\xe We have to do the ceremony correctly.
+\xv Yutáŋyaŋkel oyáke.
+\xe He tells it correctly.
+\xv Yutáŋyaŋkel yúze.
+\xe He holds it rather steadily.
+\lf Y.S.
+\lv yutáŋyaŋked
+
+\lx Yútapi Wakȟáŋ
+\ov
+\oe LY
+\ps nprop
+\de Holy Communion
+\lf S.
+\lv Yútapi Wakháŋ
+\dt 24/Feb/2021
+
+\lx yútešniyaŋ
+\ov
+\oe LYS
+\mr yútA -šniyaŋ
+\ps conv (valency: 2)
+\de without eating smth
+\xv Yútešniyaŋ uŋkhúwapi s’a.
+\xe They always made sure we wouldn't eat it.
+\dt 23/Feb/2021
+
+\lx yuthíb
+\ov
+\oe LYSA
+\mr
+\ps conv-cont
+\mn yuthípA
+
+\lx yuthíb iyáyA
+\ov
+\oe LYS
+\mr < yuthípA
+\ps v
+\de to draw up (as does leather when it is near a fire)
+\dt 24/Feb/2021
+
+\lx yuthíbkiyA
+\ov
+\oe LYS
+\mr
+\ps pos
+\mn yuthíbyA
+
+\lx yuthíbthipA
+\ov
+\oe LYS
+\mr < yuthípA
+\ps vs (valency: 1)
+\de to have cramps
+\va yuthípthipa
+\1s mayúthibthipe
+\1p uŋyúthibthipapi
+\dt 23/Feb/2021
+
+\lx yuthíbya
+\hm 1
+\ov
+\oe LYS
+\mr < yuthípA
+\ps dmod
+\de having cramps (in one's body part)
+\lf red
+\lv yuthípthibya
+
+\lx yuthíbyA
+\hm 2
+\ov
+\oe LYS
+\mr yuthípA -yA
+\ps vcaus (valency: 2)
+\de to cause sb to have cramps
+\1s yuthíbwaye
+\1p yuthíb’uŋyaŋpi
+\lf pos
+\lv yuthíbkiyA
+\dt 23/Feb/2021
+
+\lx yuthíma
+\ov
+\oe LYS
+\mr yu- thimá
+\ps adv (valency: 2)
+\mn yuthímahel
+\dt 23/Feb/2021
+
+\lx yuthímahel
+\ov
+\oe L
+\mr yu- thimáhel
+\ps adv
+\de pulling or taking smth/sb inside
+\va yuthíma
+\xv Yuthímahel ičú.
+\xe He took it inside.
+\xv Yuthímahel imáču wo.
+\xe Take me inside.
+\lf Y.S.
+\lv yuthímahen
+
+\lx yuthípA
+\ov
+\oe LYSA
+\mr yu- -thipA
+\ps vs (valency: 1)
+\de to have cramps (in one's body part)
+\xv Tȟahú mayúthipe.
+\xe I have a cramp in my neck.
+\xv Simáyuthipe.
+\xe I have a cramp in my foot.
+\1s mayúthipe
+\1p uŋyúthipapi
+\lf cont
+\lv yuthíb
+\lf dmod
+\lv yuthíbya
+\lf redup
+\lv yuthípthipA, yuthípthib
+\lf see
+\lv nathípA
+\dt 23/Feb/2021
+
+\lx yuthípthib
+\ov
+\oe LYSA
+\mr < yu- -thipA
+\ps redup
+\mn yuthípA
+
+\lx yuthípthipA
+\ov
+\oe LYSA
+\mr < yuthípA
+\ps vs-red (valency: 1)
+\de to have cramps
+\1s mayúthipthipe
+\1p uŋyúthipthipapi
+\dt 23/Feb/2021
+
+\lx yuthúȟ
+\ov
+\oe LYS
+\mr yu- thúǧA
+\ps cov
+\de being doubled up, stooping, bending over
+\va yuthúȟyela
+\xv Šúŋkawakȟáŋ kiŋ yuthúȟ íŋyaŋke.
+\xe The horse ran all doubled up.
+
+\lx yuthúȟyela
+\ov
+\oe L
+\mr yu- thúǧA -yela
+\ps cov
+\de stooping, bending over, being doubled up
+\va thuȟyéla
+\lf Y.Si.
+\lv yuthúȟyena
+\lf Sa.
+\lv yuthúȟyeda
+
+\lx yuthútka
+\ov
+\oe LYS
+\mr yu- thutká
+\ps vt (valency: 2)
+\de to break smth into small pieces
+\1s bluthútka
+\1p uŋyúthutkapi
+\lf conv
+\lv yuthútkaya, yuthútkayakel
+\lf pos
+\lv gluthútka
+\lf dat1
+\lv kiyúthutka
+\lf dat2
+\lv kíčiyuthutka
+\lf vdat2-pos
+\lv kíčigluthutka
+\lf vt-recip
+\lv akíčiyuthutka
+\lf vabs
+\lv wayúthutka
+\lf see
+\lv oyúthutkayakel, iyúthutkayakel
+\dt 23/Feb/2021
+
+\lx yuthútkaya
+\ov
+\oe LYS
+\mr
+\ps conv
+\mn yuthútka
+
+\lx yuthútkayakel
+\ov
+\oe L
+\mr yuthútka -yakel
+\ps conv
+\de breaking smth into small pieces / portions / parts
+
+\lx yutȟáhena
+\ov
+\oe LY
+\mr yu- tȟahéna
+\ps adv
+\de pulling smth nearer, pulling towards oneself
+\xv Yutȟáhena ičú.
+\xe He pulled it towards himself.
+\lf S.
+\lv yutháhena
+\dt 23/Feb/2021
+
+\lx yutȟáŋ
+\ov
+\oe LY
+\mr yu- -tȟaŋ
+\ps vt (valency: 2)
+\de to touch/feel smth/sb with one's hand, to grope; to fondle
+\xv Hú kiŋ yutȟáŋ.
+\xe He felt her leg.
+\xv Líla oíyokpaza čhaŋkhé yutȟáŋtȟaŋ yá-haŋ ké.
+\xe It was very dark so he went feeling his way.
+\1s blutȟáŋ
+\1p uŋyútȟaŋpi
+\lf redup
+\lv yutȟáŋtȟaŋ
+\lf pos
+\lv glutȟáŋ
+\lf refl
+\lv iglútȟaŋ
+\lf vrefl
+\lv aíglutȟaŋtȟaŋ
+\lf dat2
+\lv kíčiyutȟaŋ
+\lf recip
+\lv kičhíyutȟaŋ
+\lf loc
+\lv oyútȟaŋ
+\lf vabs
+\lv wayútȟaŋ
+\lf directional
+\lv éyutȟaŋ, ahíyutȟaŋ
+\lf S.
+\lv yutháŋ
+\dt 23/Feb/2021
+
+\lx yuzúkA
+\ov
+\oe LYS
+\mr yu- -zukA
+\ps vt (valency: 2)
+\de to stretch smth out making it hang down
+\xv yuzúg ičú
+\xe to pull smth down stretching it
+\1s bluzúke
+\1p uŋyúzukapi
+\lf cont
+\lv yuzúg
+\lf conv
+\lv yuzúgya
+\lf pos
+\lv gluzúkA
+\lf dat1
+\lv kiyúzukA
+\lf dat2
+\lv kíčiyuzukA
+\lf vabs
+\lv wayúzukA
+\dt 23/Feb/2021
+
+\lx yuzúkapi s’e
+\ov
+\oe LYS
+\mr < yuzúkA
+\ps dmod
+\de hanging down as if being stretched
+\dt 24/Feb/2021
+
+\lx yuzúŋlya
+\ov
+\oe L
+\mr yu- zúŋtA -ya
+\ps adv
+\de honestly
+\lf Y.S.
+\lv yuzúŋnya
+
+\lx yuzúŋlyakel
+\ov
+\oe L
+\mr yu- zuŋlyákel
+\ps conv
+\de honestly
+\lf Y.S.
+\lv yuzúŋnyaken
+
+\lx yužá
+\ov
+\oe LYSA
+\mr yu- -ža
+\ps vt (valency: 2)
+\de to cook smth into a porridge
+\xv Čhaŋpȟá yužá.
+\xe She was cooking a chokecherry mush.
+\xv Wičháakiȟ’aŋ čhaŋkhé winúȟčala kiŋ uŋžíŋžiŋtka yužá čha yútapi.
+\xe There was a famine so they ate mush from rose berries that the old woman cooked.
+\xv Wá kiŋ yužápi s’e yuŋké ló.
+\xe The snow lies as if cooked into a mush (an idiom said when the snow is thawing).
+\1s blužá
+\1p uŋyúžapi
+\lf pos
+\lv glužá
+\lf dat1
+\lv kiyúža
+\lf dat2
+\lv kíčiyuža
+\lf vabs
+\lv wayúža, wóža
+\lf partic
+\lv yužápi
+\lf see
+\lv wóžapi, oyúžaps’e
+\dt 23/Feb/2021
+
+\lx yužág
+\ov
+\oe LYS
+\mr
+\ps vt-cont (valency: 1)
+\de
+\mn yužákA
+\dt 23/Feb/2021
+
+\lx yužáheya
+\ov
+\oe LYS
+\mr yu- žahéya
+\ps cov
+\de making smth full of confused sound, causing a din, medley of confused sounds
+
+\lx yužákA
+\ov
+\oe LYSA
+\mr yu- -žakA
+\ps vt (valency: 2)
+\de to pull smth apart or open, to strain open (as one's eye for putting eye drops)
+\1s blužáke
+\1p uŋyúžakapi
+\lf cont
+\lv yužág
+\lf pos
+\lv glužákA
+\lf dat1
+\lv kiyúžakA
+\lf dat2
+\lv kíčiyužakA
+\lf vabs
+\lv wayúžakA
+\dt 23/Feb/2021
+
+\lx yužápi
+\ov
+\oe LYS
+\mr yužá -pi
+\ps partic
+\de to be cooked into a porridge
+
+\lx yužápi s’e
+\ov
+\oe LYS
+\mr < yužá
+\ps dmod
+\de being mixed or confused, in confusion
+\xv Leháŋl tȟéča kiŋ yužápi s’e ičháǧapi.
+\xe Nowadays the young people grow up in confusion.
+\lf syn
+\lv wóžapi s’e
+\dt 24/Feb/2021
+
+\lx yužáža
+\ov 4
+\oe LYSA
+\mr yu- -žaža
+\ps vt (valency: 2)
+\de to wash smth, wash by rubbing, handling (as clothes)
+\xv Čhaŋpȟá kiŋ yušpípi na yužážapi.
+\xe They picked the chokecherries and washed them.
+\xv Wakšíča kiŋ yužáža ye. (Wakšíyužaža ye.)
+\xe Wash the dishes.
+\xv Hayúžaža yo.
+\xe Do the laundry.
+\xv Owáŋka blužáža kte héčha.
+\xe I have to wash the floor.
+\xv Uŋzóǧe kiŋ yužážapi kač’úŋ saŋsáŋ.
+\xe The pants were faded by washing.
+\xv wóžaža
+\xe to do laundry;
+\1s blužáža
+\1p uŋyúžažapi
+\lf pos
+\lv glužáža
+\lf refl
+\lv iglúžaža
+\lf dat1
+\lv kiyúžaža
+\lf dat2
+\lv kíčiyužaža
+\lf recip
+\lv kičhíyužaža
+\lf vrecip-pos
+\lv kičhíglužaža
+\lf vdat-pos
+\lv kiglúžaža, kíčiglužaža
+\lf vt-recip
+\lv akíčhiyužaža, akíčhiglužaža
+\lf vabs
+\lv wayúžaža, wóžaža
+\lf loc
+\lv oyúžaža
+\lf incor
+\lv hayúžaža, owáŋgyužaža, thiyúžaža, wakšíyužaža
+\dt 23/Feb/2021
+
+\lx yužáža-phiča
+\ov
+\oe LYS
+\mr
+\ps vs (valency: 1)
+\de it is washable
+\1s
+\1p
+\lf dmod
+\lv yužáža-phičaya
+\dt 23/Feb/2021
+
+\lx yužáža-phiča šni
+\ov
+\oe LYS
+\mr
+\ps vs
+\de it is not washable
+\lf dmod
+\lv yužáža-phičašniyaŋ
+\dt 24/Feb/2021
+
+\lx yužáža-phičašniyaŋ
+\ov
+\oe LYS
+\ps dmod
+\mn yužáža-phiča šni
+
+\lx yužáža-phičaya
+\ov
+\oe LYS
+\ps dmod
+\mn yužáža-phiča
+
+\lx yužíb
+\ov
+\oe LYS
+\mr < yužípA
+\ps vt-cont
+\mn yužípA
+\lf A.
+\lv yužím
+
+\lx yužíbyela
+\ov
+\oe L
+\mr yužípA -yela
+\ps conv
+\de pinching up with one's fingers
+\xv Napé akátaŋhaŋ él há kiŋ yužíbyela okíčhiyuspapi.
+\xe They held each other's skin on top of the hand in a pinching way (an old time boys' game).
+\lf Y.Si.
+\lv yužíbyena
+\lf Sa.
+\lv yužíbyeda, yuǧímnana
+\lf Sa.
+\lv yužímyena
+
+\lx yužíbyela yúzA
+\ov
+\oe L
+\mr
+\ps vt (valency: 2)
+\de to hold smth pinched, to hold smth by the tips of one's fingers (as smth one does not want to hold)
+\1s yužíbyela blúze
+\1p yužíbyela uŋyúzapi
+\lf Y.Si.
+\lv yužíbyena yúzA
+\lf Sa.
+\lv yužíbyeda yúzA, yuǧímnana yúzA
+\lf Sa.
+\lv yužímyena yúzA
+\dt 24/Feb/2021
+
+\lx yužíbžib
+\ov
+\oe LYS
+\mr < yužíbžipA
+\ps vt-cont (valency: 1)
+\de pinching sb/smth repeatedly
+\lf A.
+\lv yužímžim
+\dt 23/Feb/2021
+
+\lx yužíbžib khuwá
+\ov
+\oe LYS
+\mr
+\ps vt (valency: 2)
+\de to nitpick smth/sb
+\1s yužíbžib wakhúwa
+\1p yužíbžib uŋkhúwapi
+\lf
+\lv
+\dt 24/Feb/2021
+
+\lx yužíbžibya
+\ov
+\oe LYS
+\mr
+\ps conv
+\mn yužípžipA
+
+\lx yužíbžipA
+\ov
+\oe LYS
+\ps vt-red
+\mn yužípA
+
+\lx yužípA
+\ov 1
+\oe LYSA
+\mr yu- -žipa-
+\ps vt (valency: 2)
+\de to pinch sb, pinch sb with one's fingers (lift a tiny piece of skin and pinch)
+\xv Hokšíla kiŋ hé mayúžipe.
+\xe That boy pinched me.
+\xv yužíb yúzA
+\xe to hold smth pinched, hold by the tips of the fingers (as something one does not want to hold)
+\1s blužípe
+\1p uŋyúžipapi
+\lf cont
+\lv yužíb
+\lf conv
+\lv yužíbyela
+\lf redup
+\lv yužíbžipA, yužíbžib
+\lf pos
+\lv glužípA
+\lf refl
+\lv iglúžipA
+\lf dat2
+\lv kíčiyužipA
+\lf recip
+\lv kičhíyužipA
+\lf vabs
+\lv wayúžipA
+\dt 23/Feb/2021
+
+\lx yužípžipA
+\ov
+\oe LYS
+\mr < yužípA
+\ps vt-red (valency: 2)
+\de to pinch sb/smth repeatedly
+\1s blužíbžipe
+\1p uŋyúžibžipapi
+\lf cont
+\lv yužíbžib
+\lf conv
+\lv yužíbžibya
+\dt 23/Feb/2021
+
+\lx yužóžo
+\ov
+\oe LYS
+\mr < yužó
+\ps vt-red (valency: 2)
+\de to cause smth to whistle (as a siren)
+\1s blužóžo
+\1p uŋyúžožopi
+\dt 23/Feb/2021
+
+\lx yužúŋ
+\ov 1
+\oe LYSA
+\mr yu- -žuŋ
+\ps vt (valency: 2)
+\de to pull smth up with the roots, to uproot (as a tooth, plant or hair), extract (as a tooth)
+\xv Pȟežúta eyá yužúŋ.
+\xe She pulled out some herbs.
+\xv Hiáphiye kiŋ hí waŋ yužúŋ.
+\xe The dentist extracted one of his teeth.
+\xv Wihíŋpaspa etáŋ blužúŋ.
+\xe I pulled up some of the tipi pegs.
+\xv Wíyaka kiŋ iyúha yužúŋ.
+\xe He pulled out all the feathers.
+\xv Minápe etáŋ blužúŋ.
+\xe I pulled it out of my hand.
+\1s blužúŋ
+\1p uŋyúžuŋpi
+\lf redup
+\lv yužúŋžuŋ
+\lf pos
+\lv glužúŋ
+\lf dat1
+\lv kiyúžuŋ
+\lf dat2
+\lv kíčiyužuŋ
+\lf vdat2-pos
+\lv kíčiglužuŋ
+\lf vt-recip
+\lv akíčhiyužuŋ
+\lf vabs
+\lv wayúžuŋ
+\lf directional
+\lv ahíyužuŋ, éyužuŋ
+\dt 23/Feb/2021
+
+\lx yužúŋtA
+\ov
+\oe LYSA
+\mr yu- -žuŋtA
+\ps vt (valency: 2)
+\de to touch smth briefly, to thrust into smth (usually reference to a cavity)
+\xv ištá yužúŋtA
+\xe to accidently touch sb's eye.
+\1s blužúŋtA
+\1p uŋyúžuŋtapi
+\lf pos
+\lv glužúŋtA
+\lf loc
+\lv oyúžuŋtA
+\lf incor
+\lv íyužuŋtA
+\dt 23/Feb/2021
+
+\lx yužúŋžuŋ
+\ov
+\oe LYSA
+\ps vt-red
+\mn yužúŋ
+\1s blužúŋžuŋ
+\1p uŋyúžuŋžuŋpi
+
+\lx yužúžu
+\ov 4
+\oe LYSA
+\mr yu- -žužu
+\ps vt (valency: 2)
+\sn 1
+\de to unwrap smth, unpack, undo (as a bundle, bag, suitcase, packed things)
+\xv Wóheyuŋ kiŋ yužúžu.
+\xe She unwrapped the luggage.
+\xv Yužúžu-phičašniyaŋ pȟaȟtápi.
+\xe They tie it in such a way that it can't be undone.
+\xv Oyás’iŋ yužúžupi.
+\xe They unpacked everything.
+\sn 2
+\de to take smth apart, to pull to pieces, undo, take down (as a tipi), dismantle
+\xv Čheyágtȟuŋpi kiŋ yužúžupi.
+\xe They pulled the bridge apart.
+\xv Owáŋg-káǧapi k’uŋ hé yužúžu.
+\xe He undid the altar (after the ceremony).
+\xv thi-yúžužu
+\xe to take down a tipi.
+\lf see
+\lv oyúžužu
+\sn 3
+\de to undo smth, annul, cancel, abolish, dissolve, make void (as an organization, marriage, law)
+\xv Wóopȟe kiŋ hé yužúžupi čhíŋpi.
+\xe They want to undo that regulation.
+\xv Okȟólakičhiye kiŋ yužúžupi.
+\xe They dissolved that society.
+\sn 4
+\de to strip sb, undress sb, take sb's clothes off
+\ue |fv{hakhí} is more common now
+\xv Čhethí na waná iyókȟata čhaŋkhé yužúžu. 
+\xe He built a fire and when it was warm inside he undressed her.
+\xv "Ičhéthi na mayúžužu." eyá ké.
+\xe "Make a fire and undo my wrappings," she said.
+\1s blužúžu
+\1p uŋyúžužupi
+\lf pos
+\lv glužúžu
+\lf refl
+\lv iglúžužu
+\lf dat1
+\lv kiyúžužu
+\lf dat2
+\lv kíčiyužužu
+\lf vabs
+\lv wayúžužu, wóžužu
+\dt 23/Feb/2021
+
+\lx yužúžuphičašniyaŋ
+\ov
+\oe LYS
+\mr yužúžu -phičašniyaŋ
+\ps dmod
+\de being impossible to untie
+
+\lx -za
+\ov
+\oe LYS
+\ps root
+\de separate into units
+\lf see
+\lv kazá, yuzá, yuzáza, sukáza
+\lf sound symbolism
+\lv -za, -ža, -ǧa
+
+\lx -zamni
+\ov
+\oe LYS
+\ps root
+\de uncover, exposed by removal of a cover, push aside and reveal what is underneath; push open (as a door)
+\lf instr
+\lv kazámni, nazámni, pazámni, yuzámni
+\lf vs
+\lv zamníhAŋ
+\lf dmod
+\lv zamní s’e
+
+\lx zamníhAŋ
+\ov
+\oe LYS
+\mr zamni + hÁŋ
+\ps vs (valency: 2)
+\de it is uncovered
+\lf dmod
+\lv zamníheya
+\dt 23/Feb/2021
+
+\lx zamníheya
+\ov
+\oe LYS
+\mr zamníhAŋ -ya
+\ps dmod
+\de uncovered
+\lf
+\lv
+
+\lx zamnímni s’e
+\ov
+\oe LYS
+\ps dmod
+\de (said of persons whose garments fly loosely about them)
+\dt 24/Feb/2021
+
+\lx zamní s’e
+\ov
+\oe LYS
+\ps dmod
+\de with clothes fly loosely about, uncovered
+\dt 24/Feb/2021
+
+\lx zamníyaŋ
+\ov
+\oe LYS
+\mr zamní -ya
+\ps dmod
+\de uncovered
+
+\lx zaní
+\ov 4
+\oe LYS
+\ps vs (valency: 1)
+\de to be healthy, be well, in good health (ref. to both physical and psychological health); unmolested, whole
+\va zaŋní
+\xv Mitȟáŋčhaŋ kiŋ zaní.
+\xe My body is healthy.
+\xv Wayáčhi háŋtaŋš nitȟáŋčhaŋ kiŋ hé líla zaní kte.
+\xe If you dance your body will be healthy.
+\xv Leháŋl táku yútapi kiŋ úŋ líla zanípi šni.
+\xe Today people are very unhealthy from the food they eat.
+\xv Wičháša zaní waŋ iyéčhel phiíč’iye.
+\xe He behaves like a healthy man.
+\xv Hógna ečéla oyáte kiŋ zanípi kte.
+\xe Only that way the people will be healthy (will be doing alright).
+\1s mazáni
+\1p uŋzánipi
+\lf dmod
+\lv zaníya
+\lf caus
+\lv zaníyA
+\lf col
+\lv wičházani
+\lf see
+\lv wičhózani
+\le health
+\lf vs-dat2
+\lv kíčizani
+\lf loc
+\lv izáni
+\lf ant
+\lv wayázaŋ, khúžA
+\dt 23/Feb/2021
+
+\lx zaníič’iyA
+\ov
+\oe LYS
+\mr zaníyA, ič’i-
+\ps vrefl (valency: 1)
+\de to cause oneself to be healthy, to restore one's health
+\1s zanímič’iye
+\1p zaníuŋkič’iyapi
+\dt 23/Feb/2021
+
+\lx zaníkA
+\ov
+\oe LYS
+\mr zaní -kA
+\ps vs (valency: 1)
+\de to be generally healthy, be sound and well
+\1s mazánike
+\1p uŋzánikapi
+\dt 23/Feb/2021
+
+\lx zaní šni
+\ov
+\oe LYS
+\mr
+\ps vs (valency: 1)
+\de to be unhealthy, unwell, sickly, ill
+\mn zaní
+\1s mazáni šni
+\1p uŋzánipi šni
+\lf dmod
+\lv zaníšniyaŋ
+\dt 24/Feb/2021
+
+\lx zaníšniyaŋ
+\ov
+\oe LYS
+\mr zaní šni -ya
+\ps dmod-neg
+\de being unhealthy
+\lf
+\lv
+
+\lx zaníya
+\hm 1
+\ov 2
+\oe LYSA
+\mr zaní -ya
+\ps dmod
+\de being healthy, in good health, healthily
+\va zaníyaŋ, zaŋníyaŋ
+\xv Zaníya waúŋ.
+\xe I am in good health.
+\xv Zaníya mánipi kta čha wačhéwakiye ló.
+\xe I prayed that they may be healthy.
+\xv Čhiŋčá zaníya waŋgláke.
+\xe She saw her child well and sound.
+\xv Zaníyaŋ waglí.
+\xe I returned home healthy.
+\xv Héčhel úŋ ókiwaŋžila zaŋníyaŋ úŋ.
+\xe That is why he is always in good health.
+
+\lx zaníyA
+\hm 2
+\ov
+\oe LYS
+\mr zaní -yA
+\ps vcaus (valency: 2)
+\de to cause one to be healthy
+\1s zaníwaye
+\1p zaníuŋyaŋpi
+\lf refl
+\lv zaníič’iyA
+\dt 23/Feb/2021
+
+\lx zaníyaŋ
+\ov
+\oe LYS
+\ps dmod
+\de being healthy, in good health, healthily
+\mn zaníya
+
+\lx zaníyaŋ úŋ šni
+\ov
+\oe LYSA
+\mr
+\ps vi (valency: 1)
+\de to be permanently unhealthy
+\1s zaníyaŋ waúŋ šni
+\1p zaníyaŋ uŋk’úŋpi šni
+\lf
+\lv
+\dt 24/Feb/2021
+
+\lx zaníya úŋ
+\ov
+\oe LYS
+\mr
+\ps vi (valency: 1)
+\de to be in good health, to enjoy good health
+\1s zaníyaŋ waúŋ
+\1p zaníyaŋ uŋk’úŋpi
+\lf
+\lv
+\dt 24/Feb/2021
+
+\lx -zaŋ
+\ov
+\oe LYS
+\ps root
+\sn 1
+\de loose material, such as hair, hay is separated; it is loosely woven; open woods (so that one can look through)
+\lf instr
+\lv pazáŋ, yuzáŋ
+\lf also
+\lv zaŋzáŋla, ózaŋ
+\sn 2
+\de hurt, pain
+\lf instr
+\lv kazáŋ, wozáŋ, yazáŋ
+
+\lx záŋgzaŋg
+\ov
+\oe LYS
+\mr
+\ps vi-cont
+\mn záŋgzaŋkA
+
+\lx záŋgzaŋkA
+\ov
+\oe LYS
+\mr < záŋkA
+\ps vi (valency: 1)
+\de to whine, whimper
+\xv Záŋgzaŋg wíyuškiŋyaŋ azíŋpila 
+\xe They sucked milk whining happily.
+\xv Ektá šuŋȟpála záŋgzaŋkapi.
+\xe There cubs were whining.
+\lf cont
+\lv záŋgzaŋg
+\dt 23/Feb/2021
+
+\lx záŋkA
+\ov
+\oe LYS
+\mr
+\ps vi (valency: 1)
+\de to whine, whimper
+\lf redup
+\lv záŋgzaŋkA
+\dt 23/Feb/2021
+
+\lx zaŋní
+\ov
+\oe LYS
+\ps vs (valency: 1)
+\mn zaní
+\dt 23/Feb/2021
+
+\lx zaŋní šni
+\ov
+\oe LYS
+\mr
+\ps vs (valency: 1)
+\de to be unhealthy
+\mn zaní šni
+\dt 24/Feb/2021
+
+\lx zaŋníyaŋ
+\ov
+\oe LYS
+\ps dmod
+\de in good health
+\mn zaníya
+
+\lx zaŋníyaŋkel
+\ov
+\oe L
+\ps dmod
+\mn zaŋníyaŋ
+\lf loc
+\lv ozáŋniyaŋkel
+
+\lx zaŋzáŋla
+\ov
+\oe L
+\mr -zaŋ -la
+\ps vs (valency: 1)
+\sn 1
+\de to have spaces in between, to be few and far between, be loosely woven, be of thin or sparse growth (as trees, hairs), light (as clothing)
+\xv Waŋná makáŋ čha mazáŋzaŋla.
+\xe I am old now so I get cold easily.
+\xv Zaŋzáŋla iglúze.
+\xe He wore light (or thin) clothing (that does not protect from cold).
+\1s mazáŋzaŋla
+\1p
+\lf dmod
+\lv zaŋzáŋyela
+\ps n
+\sn 2
+\de gauze; mosquito net
+\lf Y.S.
+\lv zaŋzáŋna
+\dt 23/Feb/2021
+
+\lx zaŋzáŋyela
+\ov
+\oe L
+\mr zaŋzáŋla -ya
+\ps dmod
+\de thinly covering
+\xv zaŋzáŋyela iglúzA
+\xe to wear light or thin clothing (that does not protect from cold)
+\lf Y.Si.
+\lv zaŋzáŋyena
+\lf Sa.
+\lv zaŋzáŋyeda
+
+\lx -zapA
+\ov
+\oe LYS
+\ps root
+\de it is in the state of being ripped off easily (like the skin of a chicken)
+\ue archaic
+\lf sound symbolism series
+\lv -zapa -ǧapa
+\lf see
+\lv kazápA, wazápA, zapáhAŋ
+
+\lx zapáhAŋ
+\ov
+\oe LYS
+\mr zapA -hAŋ
+\ps vs (valency: 1)
+\de it is torn off in strips
+\dt 23/Feb/2021
+
+\lx záptaŋ
+\ov 4
+\oe LYSA
+\ps num
+\sn 1
+\de five
+\xv Letáŋhaŋ aŋpétu záptaŋ kiŋháŋ, waú kte.
+\xe I will come in five days.
+\xv Wičháša záptaŋ hípi.
+\xe Five men came here.
+\ps vs (valency: 1)
+\sn 2
+\de to be five
+\xv Waníyetu mazáptaŋ.
+\xe I am five years old.
+\xv Uŋzáptaŋpi
+\xe There are five of us.
+\xv Tȟašúŋke kiŋ záptaŋpi.
+\xe He has five horses. (Lit.: 'His horses are five.')
+\lf redup
+\lv záptaŋptaŋ
+\lf dim
+\lv záptaŋla
+\dt 23/Feb/2021
+
+\lx záptaŋčhaŋ
+\ov
+\oe LYS
+\mr záptaŋ + čháŋ
+\ps vimp
+\de (it is a period of) five days
+\lf loc
+\lv izáptaŋčhaŋ
+\le it is the fifth day
+\lf dim
+\lv záptaŋčhaŋla
+\le only five days
+
+\lx záptaŋkiya
+\ov
+\oe LYS
+\mr záptaŋ -kiya
+\ps adv
+\de in five ways, in five places
+
+\lx záptaŋla
+\ov 1
+\oe L
+\mr záptaŋ -la
+\ps num
+\de only five
+\lf red
+\lv záptaŋptaŋla
+\lf Y.S.
+\lv záptaŋna
+
+\lx záptaŋptaŋ
+\ov
+\oe LYS
+\mr < záptaŋ
+\ps num-red
+\de in five ways, by fives, five each
+
+\lx -zaza
+\ov
+\oe LYS
+\mr
+\ps root
+\de it is shredded, in strips
+\lf instr
+\lv kazáza, wazáza, yuzáza
+
+\lx zazáhAŋ
+\ov
+\oe LYS
+\mr zaza- -hAŋ
+\ps v
+\de it is shredded (frail material)
+\dt 23/Feb/2021
+
+\lx zazéča
+\ov
+\oe LYS
+\ps vs (valency: 1)
+\de to have spaces in between, to be few and far between, be of thin or scarce growth (as trees, hairs)
+\xv Pȟeží kiŋ zazéčala yaŋké ló.
+\xe The grass is of thin growth.
+\lf see
+\lv huzázeča, máza zazéča
+\dt 23/Feb/2021
+
+\lx zazéčala
+\ov
+\oe L
+\mr zazéča -la
+\ps vs-dim
+\mn zezéča
+
+\lx -ze
+\ov
+\oe LYS
+\ps root
+\sn 1
+\de it is dangling, suspended, hanging; dipping out; ladle out
+\lf see
+\lv kazé, yazé, yuzé; ayúze, wóze; azé, zézeya, azézeyakel, ókazeze, nazéyA
+\sn 2
+\de disturbed
+\lf see
+\lv čhaŋzé
+
+\lx zézeya
+\ov
+\oe LYS
+\mr -ze -ya
+\ps dmod
+\de dangling, swinging, hanging, being suspended
+\xv Hukhútakiya zézeya otké.
+\xe It hangs downward dangling.
+\xv zézeya otkÁ
+\xe to hang dangling;
+\xv Táku waŋ zézeya yuhá.
+\xe He held something hanging from his hand.
+\lf loc
+\lv ózezeya
+\lf syn
+\lv ǧéǧeya
+
+\lx -zi
+\ov
+\oe LYSA
+\mr
+\ps root
+\de at rest, at ease, healing, calmed
+\lf see
+\lv okízi
+\le to heal up
+\lf see
+\lv ozíkiya
+\le to rest
+\lf see
+\lv iyázi
+\le calm down
+
+\lx zí
+\ov 4
+\oe LYSA
+\ps vs (valency: 1)
+\sn 1
+\de to be yellow
+\xv Šiná zí kiŋ hé makáu wo.
+\xe Bring me that yellow blanket.
+\xv Bébela kiŋ tȟápa zí kiŋ čhíŋ.
+\xe The baby wants the yellow ball.
+\xv Hutkȟáŋ kiŋ hená zizí.
+\xe Its roots are yellow.
+\lf sound symbolism series
+\lv zí - ží - ǧí
+\sn 2
+\de to be pale
+\xv Wakȟáŋyeža kiŋ lé líla zí; hé khúže séče.
+\xe This child is very pale; he must be sick.
+\1s mazí
+\1p uŋzípi
+\lf redup
+\lv zizí
+\lf dmod
+\lv ziyá, ziyéla, ziyákel, ziyáhaŋ, ziyéȟčiŋ, azíyela, azíyakel, azílakA
+\lf caus
+\lv ziyÁ
+\lf loc
+\lv ozí, ozíyela
+\dt 23/Feb/2021
+
+\lx zí áya-wayázaŋ
+\ov
+\oe LYS
+\mr
+\ps vs (valency: 1)
+\de to be sick with hepatitis
+\lf variant
+\lv zí áya-khúžA
+\dt 24/Feb/2021
+
+\lx zibzípela
+\ov 1
+\oe L
+\mr -zipa-
+\ps vs (valency: 1)
+\de to be thin, fine (as is silk or fine cloth)
+\ue inanimate only
+\va zizípela, zipzípela
+\xv Mniȟúhakȟakȟáka kiŋ lé zibzípela.
+\xe This paper is thin.
+\xv Míla opȟé kiŋ líla zibzípela.
+\xe This knife blade is very thin.
+\xv Mniȟúhakȟakȟáka zibzípela ečé bluhá.
+\xe I have only thin paper.
+\xv Šiná óta amíglaȟpe ičhíŋ waléhaŋl wahíhuŋni kiŋ há kiŋ líla mazíbzipela.
+\xe I cover myself with a lot of blankets because my skin has gotten really thin by now.
+\1s mazíbzípela
+\1p uŋzíbzípelapi
+\lf dmod
+\lv zizíbyela
+\lf Y.Si.A.
+\lv zibzípena
+\lf Sa.
+\lv zibzípeda
+\dt 23/Feb/2021
+
+\lx -zičA-
+\ov
+\oe LYS
+\ps root
+\de it is stretching, it is stretched out, it is elastic
+\lf see
+\lv kazíčA, nazíčA, pazíčA, yazíčA, yuzíčA, ozíič’iyA, ózičA
+
+\lx zičá
+\ov
+\oe LYS
+\ps n
+\de squirrel, reddish gray squirrel (tree squirrel)
+\xv Maštíŋčala na zičá na hetkála kȟó thiyáta awíčhaglipi s’a.
+\xe They brought home rabbits and squirrels and chipmunks.
+\lf A.
+\lv čhaŋyúphiphina, sičá
+
+\lx zičáȟota
+\ov
+\oe LYS
+\mr zičá + ȟóta
+\ps n
+\de gray squirrel (tree squirrel)
+
+\lx zigzíčA
+\ov
+\oe LYS
+\ps vs (valency: 1)
+\sn 1
+\de to be elastic
+\xv Spáyeyiŋ na waná eyáš štaštá na zigzíče.
+\xe He soaked it in water until it was sufficiently soft and elastic.
+\xv ógle zigzíča
+\xe a sweater.
+\ps n
+\sn 2
+\de rubber
+\lf Y.
+\le also means "turkey" in Y.
+\dt 23/Feb/2021
+
+\lx ziíč’iyA
+\ov
+\oe LYSA
+\mr ziyÁ, ič’i
+\ps vrefl (valency: 1)
+\de to paint oneself yellow
+\1s zimíč’iye
+\1p ziúŋkič’iyapi
+\dt 23/Feb/2021
+
+\lx zikhíyA
+\ov
+\oe LYSA
+\mr zí -khiyA
+\ps vdat1 (valency: 3)
+\de to paint another's yellow
+\1s ziwákhiye
+\1p ziúŋkhiyapi
+\dt 23/Feb/2021
+
+\lx zikíčičhiyA
+\ov
+\oe LYS
+\mr ziyÁ, kiči-
+\ps vdat2 (valency: 3)
+\de to paint smth yellow for sb
+\1s ziwéčičhiye
+\1p ziúŋkičičhiyapi
+\lf A.
+\lv zikíčiyA
+\dt 23/Feb/2021
+
+\lx zizíbyela
+\ov
+\oe L
+\ps dmod
+\de thin, fine, in a thin layer
+\xv Tȟaló zizíbyela kablá.
+\xe She sliced the meat very thinly.
+\xv Líla zizíbyela ȟčiŋ wakáblapi.
+\xe They made very thin slices of meat (for drying).
+\xv Zizíbyela wičháȟapi.
+\xe They were burried in a shallow grave.
+\lf Y.Si.
+\lv zizíbyena
+\lf Sa.
+\lv zizíbyeda
+\lf A.
+\lv zizímyena
+
+\lx zizíčha
+\ov
+\oe LY
+\ps n
+\de turkey (female, used as generic in the north)
+\ue northern
+\xv Yašlé kiŋ zizíčha kiŋ wičhákhuwa.
+\xe The coyote chased the turkeys.
+\lf see
+\lv waglékšuŋ
+\le southern
+\lf S.
+\lv zíčhathaŋka
+
+\lx zizípela
+\ov
+\oe L
+\mr -zipa- -la
+\ps vs (valency: 1)
+\de to be thin, fine (as a blade, beads, cloth)
+\va zibzípela
+\xv Šiná zizípela glowíŋ.
+\xe She wore a thin shawl.
+\xv Iȟ’é waŋ líla zizípela čha k’ú.
+\xe She gave him stone that was very fine.
+\lf see
+\lv wazízipela
+\lf Y.Si.A.
+\lv zizípena
+\lf Sa.
+\lv zizípeda
+\dt 23/Feb/2021
+
+\lx zizíškopela
+\ov
+\oe L
+\mr zizí + škópA -la
+\ps n
+\de banana
+\va škópela
+\lf Y.
+\lv iyáǧezizi
+\lf Si.
+\lv zizíškopena
+\lf Sa.
+\lv zizíškopeda
+
+\lx zizíya
+\ov
+\oe LYS
+\mr zizí -ya
+\ps dmod-redup
+\de (inan. pl.) yellow
+
+\lx zizíyela
+\ov
+\oe L
+\mr zizí -yela
+\ps dmod
+\de each having a yellow color
+\lf Y.Si.
+\lv zizíyena
+\lf Sa.
+\lv zizíyeda
+
+\lx -zo-
+\ov
+\oe LYS
+\ps root
+\de a line is drawn on a surface; it is marked with a line, it shows
+\xv kazó
+\xe to draw a line;
+\xv pazó
+\xe to point at, to display.
+
+\lx -zokA
+\ov
+\oe LYS
+\ps root
+\de it is being tasted, licked, sucked; to taste
+\xv yazókA
+\xe to lick, to suck, to taste.
+
+\lx zomí
+\ov
+\oe LYS
+\ps vs (valency: 1)
+\de to be a schemer, plotter, be shrewd
+\xv Líla zomípi na agná lílakapi.
+\xe They are schemers, and what is worse, they are good at it.
+\xv Hokšíla kiŋ hé zomíla.
+\xe That boy is a little schemer.
+\1s mazómi
+\1p uŋzómipi
+\lf variant
+\lv zomíla, zomíkA
+\lf dmod
+\lv zomíyaŋkel
+\lf dat1
+\lv kizómi
+\dt 23/Feb/2021
+
+\lx zomíkA
+\ov
+\oe LYS
+\mr zomí -kA
+\ps vs (valency: 1)
+\de to be a schemer
+\1s mazómike
+\1p uŋzómikapi
+\dt 23/Feb/2021
+
+\lx zomíyaŋkel
+\ov
+\oe L
+\mr zomí -yakel
+\ps dmod
+\de in a tricky/scheming manner
+\lf Y.S.
+\lv zomíyaken
+
+\lx zugzúkA
+\ov
+\oe LYS
+\ps vs (valency: 1)
+\de it hangs in mucous strings; it is drenched, soaked
+\xv Thípi kiŋ áyataya zugzúke.
+\xe The tipi was all drenched.
+\1s mazúgzuke
+\1p uŋzúgzukapi
+\dt 23/Feb/2021
+
+\lx -zukA-
+\ov
+\oe LYS
+\ps root
+\de it hangs in mucous strings
+\lf see
+\lv zugzúka, kazúgzuka
+
+\lx zúŋgzuŋtA
+\ov
+\oe LYSA
+\mr
+\ps redup
+\mn zúŋtA
+
+\lx zuŋlyá
+\ov
+\oe L
+\mr zúŋtA -ya
+\ps dmod
+\de being virtuous, honest or balanced; in a parallel way
+\xv Zuŋlyákel ečhúŋpi.
+\xe They did it honestly.
+\lf emph
+\lv zuŋlyákel
+\lf Y.S.
+\lv zunyá
+
+\lx zuŋlyáhaŋ
+\ov
+\oe L
+\mr zuŋlyá -hAŋ
+\ps dmod
+\de being virtuous, honest or balanced; in a parallel way
+
+\lx zuŋlyákel
+\ov
+\oe L
+\mr zuŋlyá -kel
+\ps dmod-emph
+\sn 1
+\de honestly
+\sn 2
+\de eloquently
+\xv Zuŋlyákel wóglake.
+\xe He spoke eloquently.
+\lf instr.
+\lv yuzúŋlyakel
+\lf Y.S.
+\lv zuŋnyáken
+
+\lx zúŋtA
+\ov
+\oe LYSA
+\ps vs (valency: 1)
+\sn 1
+\de to be woven
+\lf redup
+\lv zúŋgzuŋtA
+\lf instr
+\lv kazúŋtA, pazúŋtA, yazúŋtA, yuzúŋlya
+\lf see also
+\lv opázuŋtA, okázuŋte, čhaŋkázuŋtapi, siókazuŋte, napókazuŋte, wakázuŋtA
+\sn 2
+\de to be honest; straight, parallel, upright in behavior, balanced, virtuous
+\1s mazúŋte
+\1p uŋzúŋtapi
+\lf dmod
+\lv zuŋlyá, zuŋlyákel, yuzúŋlyakel
+\dt 23/Feb/2021
+
+\lx zúŋte šni
+\ov
+\oe LYS
+\ps vs (valency: 1)
+\de to be dishonest
+\dt 24/Feb/2021
+
+\lx zúŋtešniyaŋ
+\ov
+\oe LYS
+\mr zúŋtA -šniyaŋ
+\ps dmod
+\de being dishonest, dishonestly
+\lf
+\lv
+
+\lx zuyá
+\ov 1
+\oe LYS
+\ps cov
+\sn 1
+\de making war, going or being on a warpath, going to fight
+\ue precedes a verb of going or coming, or a noun (originally a verb but now used only as a coverb)
+\xv Waŋná zuyá yápi.
+\xe They went on the warpath.
+\xv Zuyá glípi.
+\xe They returned from the warpath.
+\xv Mniwáŋča kȟowákataŋ zuyá iyáye.
+\xe He left for war overseas.
+\xv Lakȟóta-hokšíla kiŋ wašíčuŋ kiŋ ób šna zuyá éyayiŋ na óta t’ápi.
+\xe Lakota boys have been fighting wars alongside the whites (Americans) and many have died.
+\xv Zuyá yápi waŋ ópȟa.
+\xe He joined a war party.
+\xv Kȟaŋǧí wičháša zuyá ahí.
+\xe The Crow Indians came on the warpath.
+\xv Zuyá í s’a ečé léčhel gluónihaŋpi.
+\xe Only those who went to war many times were honored this way.
+\xv zuyá-itȟáŋčhaŋ
+\xe a war leader, war chief;
+\xv Zuyá-wóhaŋpi.
+\xe They made a war feast (as before going on the warpath).
+\ps n
+\sn 2
+\de warrior, war party, war
+\xv Zuyá k’eyá wičhótapi čha él inážiŋpi.
+\xe A large group of warriors made a stop at it.
+\xv Zuyá-wóhitika k’uŋ.
+\xe He was a fierce warrior.
+\lf loc
+\lv ozúye
+\ps vi (valency: 1)
+\sn 3
+\de go to war
+\ue out of use as a verb, only as a co-verb now (see above)
+\dt 23/Feb/2021
+
+\lx zuyá-itȟáŋčhaŋ
+\ov
+\oe LY
+\mr
+\ps n
+\de war leader, war chief
+\lf S.
+\lv zuyá-itháŋčhaŋ
+\dt 23/Feb/2021
+
+\lx zuyá-wičháša
+\ov
+\oe LY
+\mr
+\ps n
+\de warrior; mariner
+\lf S.
+\lv zuyá wičhášta
+
+\lx zuzéča
+\ov 3
+\oe LS
+\ps n
+\de snake
+\xv Zuzéča kiŋ sloháŋpi.
+\xe Snakes crawl.
+\xv Zuzéča kiŋ škóškope.
+\xe The snake was wriggling.
+\xv Zuzéča kiŋ kakšá yuŋké.
+\xe The snake lay coiled around it.
+\xv Zuzéča kiŋ kšaŋkšáŋyaŋ sloháŋpi.
+\xe Snakes crawl in a winding manner.
+\lf Y.
+\lv zuzúeča, zuzúečena
+\lf S.
+\lv + wabdúška
+\lf A.
+\lv snohéna
+
+\lx zuzéča-hoǧáŋ
+\ov
+\oe L
+\ps n
+\de eel
+\va hoká, howábluška
+\lf Y.S.
+\lv howábduška
+
+\lx zuzéča-othí
+\ov
+\oe LS
+\mr
+\ps n
+\de snake hole 
+\lf Y.
+\lv zuzúeča-othí
+
+\lx zuzéča-tȟapȟéžuta
+\ov
+\oe L
+\ps n
+\de slender beardtongue (Penstemon gracilis)
+\lt snake's medicine
+\ue roots used in treating snake-bite
+\lf syn
+\lv úŋ huŋká lowáŋpi iyéčheča
+\lf Y.
+\lv zuzúeča-tȟapȟéžuta
+\lf S.
+\lv zuzéča-thaphéžuta
+
+\lx zuzéča-tȟawóte
+\ov
+\oe L
+\ps n
+\de wolfberry (Symphoricarpos occidentalis)
+\lt snake's food
+\va uŋšúŋgnasapi hú
+\lf Y.
+\lv zuzúeča-tȟawóte
+\lf S.
+\lv zuzéča-thawóte
+
+\lx zuzéča-tȟawóte-hú tȟaŋkíŋyaŋ héčha
+\ov
+\oe L
+\ps n
+\de Solomon's seal (Polygonatum biflorum)
+\lf Y.S.
+\lv ?
+\dt 24/Feb/2021
+
+\lx zuzéča-tȟawóte ptápta ikȟóyaka
+\ov
+\oe L
+\ps n
+\de carrion flower (Smilax herbacea)
+\lf syn
+\lv čhaŋíyuwi čík’ala
+\lf Y.S.
+\lv ?
+\dt 24/Feb/2021
+
+\lx zuzéča-tȟawóte uŋmá apé tȟotȟó hé
+\ov
+\oe L
+\ps n
+\de blue lobelia (Lobelia siphilitica)
+\lf Y.S.
+\lv ?
+\dt 24/Feb/2021
+
+\lx -žá
+\ov
+\oe LYS
+\ps root
+\de it is agitated, stirred together, mix, mixed
+\lf see
+\lv yužá, wóža
+
+\lx žág
+\ov
+\oe LYS
+\mr < žákA
+\ps vs-cont (valency: 1)
+\sn
+\mn žákA
+\dt 23/Feb/2021
+
+\lx žagyáb s’e
+\ov
+\oe LYS
+\mr < žákA -yA -pi
+\ps dmod
+\de with a jumble of sound, everyone yelling at once
+\lf
+\lv
+\dt 24/Feb/2021
+
+\lx žagžákA
+\ov
+\oe LYS
+\mr < žákA
+\ps vs-red
+\mn žákA
+
+\lx žagžál
+\ov
+\oe LYSA
+\mr
+\ps vs-cont
+\mn žagžátA
+
+\lx žagžálya
+\ov
+\oe L
+\mr < žalyá
+\ps dmod-red
+\de (inan. pl.) being doubled or forked
+\lf emph
+\lv žagžályakel
+\lf Y.S.A.
+\lv žagžánya
+
+\lx žagžályakel
+\ov
+\oe L
+\ps dmod-emph
+\mn žagžálya
+
+\lx žagžálya waŋyáŋkA
+\ov
+\oe L
+\mr
+\ps vt (valency: 2)
+\de to see smth/sb doubled or multiplied (due to an eye problem)
+\1s žagžálya waŋbláke
+\1p žagžálya waŋúŋyaŋkapi
+\lf Y.S.
+\lv žagžánya waŋyáŋkA
+\dt 24/Feb/2021
+
+\lx žagžátA
+\ov
+\oe LYSA
+\mr < žátA
+\ps vs-red (valency: 1)
+\de to be forked in many ways, crotched, pronged
+\lf cont
+\lv žagžál
+\lf dmod
+\lv žagžálya
+\dt 23/Feb/2021
+
+\lx žahéheya
+\ov
+\oe LYS
+\ps dmod-red
+\mn žehéya
+
+\lx žužúwahAŋ
+\ov
+\oe LYSA
+\mr -žužu -wahAŋ
+\ps vs (valency: 1)
+\de to be all apart, have fallen apart, broken or fallen to pieces
+\xv Takómni tóhaŋni ečhél iyáyiŋ kte šni na hé átaya žužúwahiŋ kte.
+\xe It could never work, it would fall into pieces.
+\xv Túŋweni žužúwahe šni.
+\xe It never falls apart.
+\lf see
+\lv ožúžuwahAŋ
+\dt 23/Feb/2021
+
+
