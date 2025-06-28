@@ -7,7 +7,7 @@
 For usage of the data, see the files within the \Lexicon folder.
 It contains the following files for use:
 * An SFM/MDF dictionary file ([dict.sfm](Lexicon/dict.sfm))
-* A FieldWorks Language Explorer (FLEx) project backup ([Lakota Test 2025-06-28 1209 Lakota.fwbackup](Lexicon/Lakota%20Test%202025-06-28%201209%20Lakota.fwbackup))
+* A [FieldWorks Language Explorer (FLEx)](https://software.sil.org/fieldworks/) project backup ([Lakota Test 2025-06-28 1209 Lakota.fwbackup](Lexicon/Lakota%20Test%202025-06-28%201209%20Lakota.fwbackup))
 * A FLEx import map ([dict-import-settings.map](Lexicon/dict-import-settings.map))
 * An XHTML dictionary listing page ([Lexicon.xhtml](Lexicon/Lexicon.xhtml))
 
