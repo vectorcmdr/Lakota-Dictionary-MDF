@@ -49,3 +49,6 @@ The root of the repo contains more 'raw' extracted files:
 * Dumped SFM/MDF data block 2 ([raw_data_I_to_Z.bin](raw_data_I_to_Z.bin))
 * Extracted ASCII dictionary merged from fragments ([dict.txt](dict.txt))
 * ASCII dictionary fragments ([dict_A_to_I.txt](dict_A_to_I.txt) + [dict_I_to_Z.txt](dict_I_to_Z.txt))
+
+## Future Possibilities:
+If time permits, I would like to branch the build script, table/library code and frontend from [STL Bitz Box](https://github.com/vectorcmdr/STL-Bitz-Box) & [ACNH Pattern Dump Index](https://github.com/vectorcmdr/ACNH-Pattern-Dump-Index) to create a static webpage dictionary for the data with a row entry per word and searchable/filterable columns for each piece of information tied to that word (including audio support) that can be updated, managed and hosted by the community and will be completely open source.
