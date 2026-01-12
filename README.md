@@ -52,3 +52,8 @@ The root of the repo contains more 'raw' extracted files:
 
 ## Future Possibilities:
 If time permits, I would like to branch the build script, table/library code and frontend from [STL Bitz Box](https://github.com/vectorcmdr/STL-Bitz-Box) & [ACNH Pattern Dump Index](https://github.com/vectorcmdr/ACNH-Pattern-Dump-Index) to create a static webpage dictionary for the data with a row entry per word and searchable/filterable columns for each piece of information tied to that word (including audio support) that can be updated, managed and hosted by the community and will be completely open source.
+
+## Help Support My Tinkering
+
+<a href="https://ko-fi.com/vector_cmdr">
+<img src="https://custom-icon-badges.demolab.com/badge/-Donate-lightblue?style=for-the-badge&logo=coffee&logoColor=red" height="64"/></a>
